@@ -10,3 +10,16 @@ header .brand svg{width:184px;height:71px}
 #explore .filter-tag{font-size:13px;line-height:1.5}
 @media(max-width:620px){header .brand svg{width:144px;height:56px}#home.hero{border-radius:22px}#explore .category-card .name{font-size:12px}#explore .filter-tag{font-size:12px}}
 @media(max-width:360px){header .brand svg{width:138px;height:54px}}
+
+/* Small food signatures sit in the open space beside homepage section titles. */
+#app .section-heading>div:first-child{min-width:0}
+.subtitle-mascot{display:block;width:116px;height:64px;flex:0 0 auto;mix-blend-mode:multiply;pointer-events:none;transform:rotate(-3deg)}
+.mascot-hanip{transform:rotate(3deg)}
+.mascot-foodie{transform:rotate(-4deg)}
+.heading-aside{display:flex;flex-direction:column;align-items:center;gap:4px;flex:0 0 auto}
+.heading-aside .result-count{white-space:nowrap}
+.share-heading{display:flex;align-items:center;gap:18px}
+.share-heading h2{min-width:0}
+.share-heading .subtitle-mascot{width:94px;height:54px}
+@media(max-width:620px){#app .section-heading{gap:12px}.subtitle-mascot{width:88px;height:52px}.share-heading{gap:10px}.share-heading .subtitle-mascot{width:76px;height:46px}.heading-aside{gap:1px}}
+@media(max-width:380px){.subtitle-mascot{width:70px;height:46px}.share-heading .subtitle-mascot{width:64px;height:42px}}
