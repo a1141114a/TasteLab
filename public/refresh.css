@@ -13,7 +13,7 @@ header .brand svg{width:184px;height:71px}
 
 /* Small food signatures sit in the open space beside homepage section titles. */
 #app .section-heading>div:first-child{min-width:0}
-.subtitle-mascot{display:block;width:116px;height:64px;flex:0 0 auto;mix-blend-mode:multiply;pointer-events:none;transform:rotate(-3deg)}
+.subtitle-mascot{display:block;width:116px;height:64px;flex:0 0 auto;border-radius:14px;overflow:hidden;clip-path:inset(0 round 14px);mix-blend-mode:multiply;pointer-events:none;transform:rotate(-3deg)}
 .mascot-hanip{transform:rotate(3deg)}
 .mascot-foodie{transform:rotate(-4deg)}
 .heading-aside{display:flex;flex-direction:column;align-items:center;gap:4px;flex:0 0 auto}
