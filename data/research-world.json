@@ -1,0 +1,2559 @@
+{
+  "entries": [
+    {
+      "id": "pierre-gagnaire",
+      "name": "Pierre Gagnaire",
+      "ko": "피에르 가니에르",
+      "cuisine": "french",
+      "cuisineVerified": "French",
+      "address": "서울 중구 을지로 30, 롯데호텔 35층",
+      "area": "myeongdong",
+      "dishes": [],
+      "sources": [
+        {
+          "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/pierre-gagnaire",
+          "title": "MICHELIN Guide · 피에르 가니에르"
+        },
+        {
+          "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/pierre-gagnaire",
+          "title": "MICHELIN Guide · Pierre Gagnaire"
+        }
+      ],
+      "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/cf01a94e8aa64cc4b44819fc6dc5d08d.jpg?format=jpeg&w=1000&h=1000",
+      "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/pierre-gagnaire",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "french restaurant listed in the MICHELIN Guide Seoul.",
+      "phone": "+82 2-317-7181",
+      "latitude": 37.56529,
+      "longitude": 126.98103,
+      "priceRangeText": "Spare no expense",
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Specific current menu prices and hours not independently verified"
+      ]
+    },
+    {
+      "id": "continental",
+      "name": "Continental",
+      "ko": "콘티넨탈",
+      "cuisine": "french",
+      "cuisineVerified": "French",
+      "address": "서울 중구 동호로 249, 신라호텔 23층",
+      "area": "myeongdong",
+      "dishes": [],
+      "sources": [
+        {
+          "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/continental",
+          "title": "MICHELIN Guide · 콘티넨탈"
+        },
+        {
+          "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/continental",
+          "title": "MICHELIN Guide · Continental"
+        }
+      ],
+      "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/09396fbf87dc4087b5deb035f9b12c3a.jpeg?format=jpeg&w=1000&h=1000",
+      "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/continental",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "french restaurant listed in the MICHELIN Guide Seoul.",
+      "phone": "+82 2-2230-3369",
+      "latitude": 37.5558213,
+      "longitude": 127.00517,
+      "priceRangeText": "Spare no expense",
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Specific current menu prices and hours not independently verified"
+      ]
+    },
+    {
+      "id": "the-ninth-gate",
+      "name": "The Ninth Gate",
+      "ko": "나인스 게이트",
+      "cuisine": "french",
+      "cuisineVerified": "French",
+      "address": "서울 중구 소공로 106, 웨스틴 조선 호텔 1층",
+      "area": "myeongdong",
+      "dishes": [],
+      "sources": [
+        {
+          "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/the-ninth-gate",
+          "title": "MICHELIN Guide · 나인스 게이트"
+        },
+        {
+          "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/the-ninth-gate",
+          "title": "MICHELIN Guide · The Ninth Gate"
+        }
+      ],
+      "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/453f497af4704188b74880f6eccf9541.jpeg?format=jpeg&w=1000&h=1000",
+      "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/the-ninth-gate",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "french restaurant listed in the MICHELIN Guide Seoul.",
+      "phone": "+82 2-317-0366",
+      "latitude": 37.5644,
+      "longitude": 126.97969,
+      "priceRangeText": "Special occasion",
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Specific current menu prices and hours not independently verified"
+      ]
+    },
+    {
+      "id": "moulin",
+      "name": "Moulin",
+      "ko": "물랑",
+      "cuisine": "french",
+      "cuisineVerified": "French",
+      "address": "서울 종로구 자하문로 16길 8",
+      "area": "jongno",
+      "dishes": [],
+      "sources": [
+        {
+          "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/moulin",
+          "title": "MICHELIN Guide · 물랑"
+        },
+        {
+          "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/moulin",
+          "title": "MICHELIN Guide · Moulin"
+        }
+      ],
+      "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/67e2ecb781144a2eb09bee2cee685d27.jpeg?format=jpeg&w=1000&h=1000",
+      "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/moulin",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "french restaurant listed in the MICHELIN Guide Seoul.",
+      "phone": "+82 70-4404-7978",
+      "latitude": 37.5814682,
+      "longitude": 126.9718836,
+      "priceRangeText": "Special occasion",
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Specific current menu prices and hours not independently verified"
+      ]
+    },
+    {
+      "id": "chez-simon",
+      "name": "Chez Simon",
+      "ko": "쉐시몽",
+      "cuisine": "french",
+      "cuisineVerified": "French",
+      "address": "서울 용산구 회나무로 66, 3층",
+      "area": "yongsan",
+      "dishes": [],
+      "sources": [
+        {
+          "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/chez-simon",
+          "title": "MICHELIN Guide · 쉐시몽"
+        },
+        {
+          "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/chez-simon",
+          "title": "MICHELIN Guide · Chez Simon"
+        }
+      ],
+      "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/0e6b3e066dfb4bc890b8faea82032007.jpeg?format=jpeg&w=1000&h=1000",
+      "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/chez-simon",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "french restaurant listed in the MICHELIN Guide Seoul.",
+      "phone": "+82 2-730-1045",
+      "latitude": 37.54015,
+      "longitude": 126.99404,
+      "priceRangeText": "A moderate spend",
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Specific current menu prices and hours not independently verified"
+      ]
+    },
+    {
+      "id": "chez-nous",
+      "name": "Chez Nous Private Kitchen",
+      "ko": "셰누 프라이빗 키친",
+      "cuisine": "french",
+      "cuisineVerified": "French",
+      "address": "서울 용산구 녹사평대로 210-6, 3층",
+      "area": "yongsan",
+      "dishes": [],
+      "sources": [
+        {
+          "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/chez-nous",
+          "title": "MICHELIN Guide · 셰누 프라이빗 키친"
+        },
+        {
+          "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/chez-nous",
+          "title": "MICHELIN Guide · Chez Nous Private Kitchen"
+        }
+      ],
+      "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/6ffc2c08cb364536a28cdafd03427982.jpeg?format=jpeg&w=1000&h=1000",
+      "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/chez-nous",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "french restaurant listed in the MICHELIN Guide Seoul.",
+      "phone": "+82 70-8624-8907",
+      "latitude": 37.53634,
+      "longitude": 126.98734,
+      "priceRangeText": "A moderate spend",
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Specific current menu prices and hours not independently verified"
+      ]
+    },
+    {
+      "id": "au-bouillon",
+      "name": "Au Bouillon",
+      "ko": "오부이용",
+      "cuisine": "french",
+      "cuisineVerified": "French",
+      "address": "서울 성동구 독서당로 51길 29-1",
+      "area": "other",
+      "dishes": [],
+      "sources": [
+        {
+          "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/au-bouillon",
+          "title": "MICHELIN Guide · 오부이용"
+        },
+        {
+          "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/au-bouillon",
+          "title": "MICHELIN Guide · Au Bouillon"
+        }
+      ],
+      "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/d90f865642044058aa00d98480ed5a88.jpeg?format=jpeg&w=1000&h=1000",
+      "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/au-bouillon",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "french restaurant listed in the MICHELIN Guide Seoul.",
+      "phone": "+82 2-6401-1048",
+      "latitude": 37.5311165,
+      "longitude": 127.0073647,
+      "priceRangeText": "A moderate spend",
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Specific current menu prices and hours not independently verified"
+      ]
+    },
+    {
+      "id": "l-oignon",
+      "name": "L'OIGNON",
+      "ko": "르오뇽",
+      "cuisine": "french",
+      "cuisineVerified": "French",
+      "address": "서울 강남구 도산대로 17길 29",
+      "area": "gangnam",
+      "dishes": [],
+      "sources": [
+        {
+          "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/l-oignon",
+          "title": "MICHELIN Guide · 르오뇽"
+        },
+        {
+          "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/l-oignon",
+          "title": "MICHELIN Guide · L'OIGNON"
+        }
+      ],
+      "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/be3681b943524d94a64e30f1a92a283d.jpg?format=jpeg&w=1000&h=1000",
+      "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/l-oignon",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "french restaurant listed in the MICHELIN Guide Seoul.",
+      "phone": "+82 10-9033-9187",
+      "latitude": 37.52062,
+      "longitude": 127.02409,
+      "priceRangeText": "A moderate spend",
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Specific current menu prices and hours not independently verified"
+      ]
+    },
+    {
+      "id": "bistrot-de-yountville",
+      "name": "Bistrot de Yountville",
+      "ko": "비스트로 드 욘트빌",
+      "cuisine": "french",
+      "cuisineVerified": "French",
+      "address": "서울 강남구 선릉로 158길 13-7",
+      "area": "gangnam",
+      "dishes": [],
+      "sources": [
+        {
+          "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/bistrot-de-yountville",
+          "title": "MICHELIN Guide · 비스트로 드 욘트빌"
+        },
+        {
+          "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/bistrot-de-yountville",
+          "title": "MICHELIN Guide · Bistrot de Yountville"
+        }
+      ],
+      "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/99ed30f6164b49d69d995b9391570117.jpg?format=jpeg&w=1000&h=1000",
+      "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/bistrot-de-yountville",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "french restaurant listed in the MICHELIN Guide Seoul.",
+      "phone": "+82 2-541-1550",
+      "latitude": 37.52602,
+      "longitude": 127.04126,
+      "priceRangeText": "A moderate spend",
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Specific current menu prices and hours not independently verified"
+      ]
+    },
+    {
+      "id": "l-amitie",
+      "name": "L'Amitié",
+      "ko": "라미띠에",
+      "cuisine": "french",
+      "cuisineVerified": "French",
+      "address": "서울 강남구 도산대로 67길 30, 2층",
+      "area": "gangnam",
+      "dishes": [],
+      "sources": [
+        {
+          "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/l-amitie",
+          "title": "MICHELIN Guide · 라미띠에"
+        },
+        {
+          "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/l-amitie",
+          "title": "MICHELIN Guide · L'Amitié"
+        }
+      ],
+      "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/86b6a364fcab4bdbb4d664a003b67eb9.jpeg?format=jpeg&w=1000&h=1000",
+      "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/l-amitie",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "french restaurant listed in the MICHELIN Guide Seoul.",
+      "phone": "+82 2-546-9621",
+      "latitude": 37.52591,
+      "longitude": 127.04455,
+      "priceRangeText": "Spare no expense",
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Specific current menu prices and hours not independently verified"
+      ]
+    },
+    {
+      "id": "onyva",
+      "name": "Onyva",
+      "ko": "오니바",
+      "cuisine": "french",
+      "cuisineVerified": "French",
+      "address": "서울 강남구 도산대로 75길 15, 지하 1층",
+      "area": "gangnam",
+      "dishes": [],
+      "sources": [
+        {
+          "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/onyva",
+          "title": "MICHELIN Guide · 오니바"
+        },
+        {
+          "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/onyva",
+          "title": "MICHELIN Guide · Onyva"
+        }
+      ],
+      "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/476d8771c68c4c1794bf7277466d3d64.jpg?format=jpeg&w=1000&h=1000",
+      "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/onyva",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "french restaurant listed in the MICHELIN Guide Seoul.",
+      "phone": "+82 2-516-3352",
+      "latitude": 37.52515,
+      "longitude": 127.0457,
+      "priceRangeText": "A moderate spend",
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Specific current menu prices and hours not independently verified"
+      ]
+    },
+    {
+      "id": "tutoiement",
+      "name": "Tutoiement",
+      "ko": "뛰뚜아멍",
+      "cuisine": "french",
+      "cuisineVerified": "French",
+      "address": "서울 성동구 광나루로 11길 20",
+      "area": "other",
+      "dishes": [],
+      "sources": [
+        {
+          "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/tutoiement",
+          "title": "MICHELIN Guide · 뛰뚜아멍"
+        },
+        {
+          "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/tutoiement",
+          "title": "MICHELIN Guide · Tutoiement"
+        }
+      ],
+      "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/1bf16a1777294806a3f73dafd30317eb.jpg?format=jpeg&w=1000&h=1000",
+      "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/tutoiement",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "french restaurant listed in the MICHELIN Guide Seoul.",
+      "phone": "+82 2-499-9056",
+      "latitude": 37.54969,
+      "longitude": 127.0666,
+      "priceRangeText": "Spare no expense",
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Specific current menu prices and hours not independently verified"
+      ]
+    },
+    {
+      "id": "on565623",
+      "name": "ON",
+      "ko": "온",
+      "cuisine": "french",
+      "cuisineVerified": "French",
+      "address": "서울 강남구 선릉로148길 48 미준빌딩 3층",
+      "area": "gangnam",
+      "dishes": [],
+      "sources": [
+        {
+          "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/on565623",
+          "title": "MICHELIN Guide · 온"
+        },
+        {
+          "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/on565623",
+          "title": "MICHELIN Guide · ON"
+        }
+      ],
+      "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/1a7e576fb68f4d0fa79761a9aff7c65e.jpeg?format=jpeg&w=1000&h=1000",
+      "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/on565623",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "french restaurant listed in the MICHELIN Guide Seoul.",
+      "phone": "+82 2-547-0467",
+      "latitude": 37.52285,
+      "longitude": 127.0434,
+      "priceRangeText": "Special occasion",
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Specific current menu prices and hours not independently verified"
+      ],
+      "addressVerificationNote": "Korean JSON-LD omits street name; full road name verified in English Michelin JSON-LD: 3F, Mijun Building, 48 Seolleung-ro 148-gil, Gangnam-gu."
+    },
+    {
+      "id": "epanoui",
+      "name": "Épanoui",
+      "ko": "에빠뉘",
+      "cuisine": "french",
+      "cuisineVerified": "French",
+      "address": "서울 강남구 선릉로 146길 33, 3층",
+      "area": "gangnam",
+      "dishes": [],
+      "sources": [
+        {
+          "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/epanoui",
+          "title": "MICHELIN Guide · 에빠뉘"
+        },
+        {
+          "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/epanoui",
+          "title": "MICHELIN Guide · Épanoui"
+        }
+      ],
+      "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/7ee70a5125a04d319b3a9c35761edd75.jpeg?format=jpeg&w=1000&h=1000",
+      "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/epanoui",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "french restaurant listed in the MICHELIN Guide Seoul.",
+      "phone": "+82 2-548-2020",
+      "latitude": 37.52187,
+      "longitude": 127.04254,
+      "priceRangeText": "Special occasion",
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Specific current menu prices and hours not independently verified"
+      ]
+    },
+    {
+      "id": "restaurant-oy",
+      "name": "Restaurant OY",
+      "ko": "레스토랑 오와이",
+      "cuisine": "french",
+      "cuisineVerified": "French",
+      "address": "서울 강남구 선릉로 148길 48-12, 지하 1층",
+      "area": "gangnam",
+      "dishes": [],
+      "sources": [
+        {
+          "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/restaurant-oy",
+          "title": "MICHELIN Guide · 레스토랑 오와이"
+        },
+        {
+          "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/restaurant-oy",
+          "title": "MICHELIN Guide · Restaurant OY"
+        }
+      ],
+      "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/5e79df570cca40b6a28fe2666444f9bc.jpg?format=jpeg&w=1000&h=1000",
+      "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/restaurant-oy",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "french restaurant listed in the MICHELIN Guide Seoul.",
+      "phone": "+82 2-515-7250",
+      "latitude": 37.522219,
+      "longitude": 127.04329,
+      "priceRangeText": "Spare no expense",
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Specific current menu prices and hours not independently verified"
+      ]
+    },
+    {
+      "id": "stay",
+      "name": "STAY",
+      "ko": "스테이",
+      "cuisine": "french",
+      "cuisineVerified": "French",
+      "address": "서울 송파구 올림픽로 300, 롯데월드 타워 81층",
+      "area": "other",
+      "dishes": [],
+      "sources": [
+        {
+          "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/stay",
+          "title": "MICHELIN Guide · 스테이"
+        },
+        {
+          "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/stay",
+          "title": "MICHELIN Guide · STAY"
+        }
+      ],
+      "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/2845266b837044a2ab86243a05ab61da.jpeg?format=jpeg&w=1000&h=1000",
+      "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/stay",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "french restaurant listed in the MICHELIN Guide Seoul.",
+      "phone": "+82 2-3213-1231",
+      "latitude": 37.51271,
+      "longitude": 127.10258,
+      "priceRangeText": "Spare no expense",
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Specific current menu prices and hours not independently verified"
+      ]
+    },
+    {
+      "id": "egg-flour",
+      "name": "Egg & Flour",
+      "ko": "에그 앤 플라워",
+      "cuisine": "italian",
+      "cuisineVerified": "Italian",
+      "address": "서울 용산구 신흥로 26길 35, 2층",
+      "area": "yongsan",
+      "dishes": [
+        "pasta"
+      ],
+      "sources": [
+        {
+          "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/egg-flour",
+          "title": "MICHELIN Guide · 에그 앤 플라워"
+        },
+        {
+          "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/egg-flour",
+          "title": "MICHELIN Guide · Egg & Flour"
+        }
+      ],
+      "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/4241c36f01624147ab178e3a3ce8a74d.jpeg?format=jpeg&w=1000&h=1000",
+      "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/egg-flour",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "italian restaurant listed in the MICHELIN Guide Seoul.",
+      "phone": "+82 2-3789-7681",
+      "latitude": 37.545342,
+      "longitude": 126.984447,
+      "priceRangeText": "A moderate spend",
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Specific current menu prices and hours not independently verified"
+      ],
+      "dishEvidence": [
+        {
+          "tag": "pasta",
+          "note": "MICHELIN inspector restaurant description explicitly mentions pasta dishes.",
+          "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/egg-flour"
+        }
+      ]
+    },
+    {
+      "id": "borgo-hannam",
+      "name": "Borgo Hannam",
+      "ko": "보르고 한남",
+      "cuisine": "italian",
+      "cuisineVerified": "Italian",
+      "address": "서울 용산구 이태원로 54길 31, 3층",
+      "area": "yongsan",
+      "dishes": [
+        "pasta"
+      ],
+      "sources": [
+        {
+          "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/borgo-hannam",
+          "title": "MICHELIN Guide · 보르고 한남"
+        },
+        {
+          "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/borgo-hannam",
+          "title": "MICHELIN Guide · Borgo Hannam"
+        }
+      ],
+      "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/72bfc5934813417790a733a83bbb2d2b.jpeg?format=jpeg&w=1000&h=1000",
+      "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/borgo-hannam",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "italian restaurant listed in the MICHELIN Guide Seoul.",
+      "phone": "+82 2-6082-2727",
+      "latitude": 37.53687,
+      "longitude": 127.00187,
+      "priceRangeText": "Special occasion",
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Specific current menu prices and hours not independently verified"
+      ],
+      "dishEvidence": [
+        {
+          "tag": "pasta",
+          "note": "MICHELIN inspector restaurant description explicitly mentions pasta dishes.",
+          "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/borgo-hannam"
+        }
+      ]
+    },
+    {
+      "id": "osteria-orzo",
+      "name": "Osteria Orzo",
+      "ko": "오스테리아 오르조",
+      "cuisine": "italian",
+      "cuisineVerified": "Italian",
+      "address": "서울 용산구 한남대로 20길 47, 2층",
+      "area": "yongsan",
+      "dishes": [
+        "pasta"
+      ],
+      "sources": [
+        {
+          "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/osteria-orzo",
+          "title": "MICHELIN Guide · 오스테리아 오르조"
+        },
+        {
+          "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/osteria-orzo",
+          "title": "MICHELIN Guide · Osteria Orzo"
+        }
+      ],
+      "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/8489a9cd7614477488641683fe1a9e61.jpeg?format=jpeg&w=1000&h=1000",
+      "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/osteria-orzo",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "italian restaurant listed in the MICHELIN Guide Seoul.",
+      "phone": "+82 2-322-0801",
+      "latitude": 37.53486,
+      "longitude": 127.00946,
+      "priceRangeText": "A moderate spend",
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Specific current menu prices and hours not independently verified"
+      ],
+      "dishEvidence": [
+        {
+          "tag": "pasta",
+          "note": "MICHELIN inspector restaurant description explicitly mentions pasta dishes.",
+          "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/osteria-orzo"
+        }
+      ]
+    },
+    {
+      "id": "rialto",
+      "name": "Rialto",
+      "ko": "리알토",
+      "cuisine": "italian",
+      "cuisineVerified": "Italian",
+      "address": "서울 강남구 삼성로 149길 13, 2층",
+      "area": "gangnam",
+      "dishes": [],
+      "sources": [
+        {
+          "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/rialto",
+          "title": "MICHELIN Guide · 리알토"
+        },
+        {
+          "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/rialto",
+          "title": "MICHELIN Guide · Rialto"
+        }
+      ],
+      "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/5ae983c2869941fba7b11a8deb159a12.jpeg?format=jpeg&w=1000&h=1000",
+      "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/rialto",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "italian restaurant listed in the MICHELIN Guide Seoul.",
+      "phone": "+82 2-544-4761",
+      "latitude": 37.52318,
+      "longitude": 127.04655,
+      "priceRangeText": "A moderate spend",
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Specific current menu prices and hours not independently verified"
+      ]
+    },
+    {
+      "id": "trattoria-romagna",
+      "name": "Trattoria Romagna",
+      "ko": "뜨라또리아 로마냐",
+      "cuisine": "italian",
+      "cuisineVerified": "Italian",
+      "address": "서울 서초구 사평대로 14길 11, 2층",
+      "area": "other",
+      "dishes": [],
+      "sources": [
+        {
+          "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/trattoria-romagna",
+          "title": "MICHELIN Guide · 뜨라또리아 로마냐"
+        },
+        {
+          "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/trattoria-romagna",
+          "title": "MICHELIN Guide · Trattoria Romagna"
+        }
+      ],
+      "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/6c177ac94f0848fb9f0280ad4d74d6c9.jpeg?format=jpeg&w=1000&h=1000",
+      "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/trattoria-romagna",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "italian restaurant listed in the MICHELIN Guide Seoul.",
+      "phone": "+82 50-71370-2944",
+      "latitude": 37.49774,
+      "longitude": 126.99444,
+      "priceRangeText": "Spare no expense",
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Specific current menu prices and hours not independently verified"
+      ]
+    },
+    {
+      "id": "doughroom",
+      "name": "Doughroom",
+      "ko": "도우룸",
+      "cuisine": "italian",
+      "cuisineVerified": "Italian",
+      "address": "서울 서초구 동광로 99, 2층",
+      "area": "other",
+      "dishes": [
+        "pasta"
+      ],
+      "sources": [
+        {
+          "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/doughroom",
+          "title": "MICHELIN Guide · 도우룸"
+        },
+        {
+          "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/doughroom",
+          "title": "MICHELIN Guide · Doughroom"
+        }
+      ],
+      "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/75a95a40e3944d18bf11dcd304bdab8d.jpeg?format=jpeg&w=1000&h=1000",
+      "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/doughroom",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "italian restaurant listed in the MICHELIN Guide Seoul.",
+      "phone": "+82 2-535-9386",
+      "latitude": 37.49379,
+      "longitude": 126.99333,
+      "priceRangeText": "A moderate spend",
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Specific current menu prices and hours not independently verified"
+      ],
+      "dishEvidence": [
+        {
+          "tag": "pasta",
+          "note": "MICHELIN inspector restaurant description explicitly mentions pasta dishes.",
+          "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/doughroom"
+        }
+      ]
+    },
+    {
+      "id": "il-vecchio",
+      "name": "Il Vecchio",
+      "ko": "일 베키오",
+      "cuisine": "italian",
+      "cuisineVerified": "Italian",
+      "address": "서울 마포구 월드컵북로 332-12",
+      "area": "other",
+      "dishes": [],
+      "sources": [
+        {
+          "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/il-vecchio",
+          "title": "MICHELIN Guide · 일 베키오"
+        },
+        {
+          "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/il-vecchio",
+          "title": "MICHELIN Guide · Il Vecchio"
+        }
+      ],
+      "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/3b9917515d434053b042fdd7e6b1eb4e.jpeg?format=jpeg&w=1000&h=1000",
+      "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/il-vecchio",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "italian restaurant listed in the MICHELIN Guide Seoul.",
+      "phone": "+82 2-302-0944",
+      "latitude": 37.5763,
+      "longitude": 126.89462,
+      "priceRangeText": "A moderate spend",
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Specific current menu prices and hours not independently verified"
+      ]
+    },
+    {
+      "id": "escondido",
+      "name": "Escondido",
+      "ko": "에스콘디도",
+      "cuisine": "western",
+      "cuisineVerified": "Mexican",
+      "address": "서울 용산구 한남대로 20길 61-7, 지하 1층",
+      "area": "yongsan",
+      "dishes": [],
+      "sources": [
+        {
+          "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/escondido",
+          "title": "MICHELIN Guide · 에스콘디도"
+        },
+        {
+          "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/escondido",
+          "title": "MICHELIN Guide · Escondido"
+        }
+      ],
+      "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/055e370c72e546b4935c77a91a438d8b.jpg?format=jpeg&w=1000&h=1000",
+      "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/escondido",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "western restaurant listed in the MICHELIN Guide Seoul.",
+      "phone": "+82 2-2038-8994",
+      "latitude": 37.53517,
+      "longitude": 127.01046,
+      "priceRangeText": "Special occasion",
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Specific current menu prices and hours not independently verified"
+      ]
+    },
+    {
+      "id": "mattdol",
+      "name": "Mattdol",
+      "ko": "맷돌",
+      "cuisine": "western",
+      "cuisineVerified": "Mexican",
+      "address": "서울 성동구 성덕정길 63",
+      "area": "other",
+      "dishes": [],
+      "sources": [
+        {
+          "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/mattdol",
+          "title": "MICHELIN Guide · 맷돌"
+        },
+        {
+          "url": "https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/mattdol",
+          "title": "MICHELIN Guide · Mattdol"
+        }
+      ],
+      "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/d3547ada8b604474882354fea11cf395.jpeg?format=jpeg&w=1000&h=1000",
+      "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/mattdol",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "western restaurant listed in the MICHELIN Guide Seoul.",
+      "phone": "+82 10-4886-2928",
+      "latitude": 37.53808,
+      "longitude": 127.05065,
+      "priceRangeText": "On a budget",
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Specific current menu prices and hours not independently verified"
+      ]
+    },
+    {
+      "id": "phomein-144",
+      "name": "Phomein Gangnam-guOffice",
+      "ko": "포메인 강남구청역점",
+      "cuisine": "vietnamese",
+      "cuisineVerified": "Vietnamese pho brand, official menu",
+      "address": "서울 강남구 학동로 343  POBA 강남타워 B2층",
+      "area": "gangnam",
+      "dishes": [
+        "noodles"
+      ],
+      "sources": [
+        {
+          "url": "https://phomein.com/brand/store/store_view.do?seq=144",
+          "title": "포메인 공식 매장 안내 · 강남구청역점"
+        },
+        {
+          "url": "https://phomein.com/brand/menu/menu_list.do",
+          "title": "포메인 공식 메뉴"
+        }
+      ],
+      "photoUrl": "https://phomein.com/upload/store/20210416/20210416142623021141.jpg",
+      "photos": [
+        "https://phomein.com/upload/store/20210416/20210416142623021141.jpg",
+        "https://phomein.com/upload/store/20210416/20210416142854835142.jpg",
+        "https://phomein.com/upload/store/20210416/20210416142910806143.jpg",
+        "https://phomein.com/upload/store/20210416/20210416142932204144.jpg"
+      ],
+      "photoSourceUrl": "https://phomein.com/brand/store/store_view.do?seq=144",
+      "photoLicense": "Official brand photos; reuse rights not independently confirmed",
+      "description": "Vietnamese rice-noodle restaurant branch listed in the official Phomein store directory. Brand menu includes pho and spring rolls; branch selection may vary.",
+      "phone": "02-516-6789",
+      "latitude": "37.517398",
+      "longitude": "127.0406221",
+      "menuPrices": null,
+      "hours": "11:00–22:00",
+      "verifiedAt": "2026-11-03",
+      "brand": "Phomein",
+      "branch": "강남구청역점",
+      "unresolved": [
+        "Per-branch current menu prices and reuse permission for branded photographs are not independently verified"
+      ]
+    },
+    {
+      "id": "phomein-202",
+      "name": "Phomein Seoul Forest",
+      "ko": "포메인 서울숲점",
+      "cuisine": "vietnamese",
+      "cuisineVerified": "Vietnamese pho brand, official menu",
+      "address": "서울 성동구 왕십리로 86 갤러리아포레 102동 2층",
+      "area": "other",
+      "dishes": [
+        "noodles"
+      ],
+      "sources": [
+        {
+          "url": "https://phomein.com/brand/store/store_view.do?seq=202",
+          "title": "포메인 공식 매장 안내 · 서울숲점"
+        },
+        {
+          "url": "https://phomein.com/brand/menu/menu_list.do",
+          "title": "포메인 공식 메뉴"
+        }
+      ],
+      "photoUrl": "https://phomein.com/upload/store/20210713/20210713160132572142.jpg",
+      "photos": [
+        "https://phomein.com/upload/store/20210713/20210713160132572142.jpg",
+        "https://phomein.com/upload/store/20210713/20210713160132587143.jpg",
+        "https://phomein.com/upload/store/20210713/20210713160132588144.jpg",
+        "https://phomein.com/upload/store/20210713/20210713160132590145.jpg"
+      ],
+      "photoSourceUrl": "https://phomein.com/brand/store/store_view.do?seq=202",
+      "photoLicense": "Official brand photos; reuse rights not independently confirmed",
+      "description": "Vietnamese rice-noodle restaurant branch listed in the official Phomein store directory. Brand menu includes pho and spring rolls; branch selection may vary.",
+      "phone": "02-499-0321",
+      "latitude": "37.5457427",
+      "longitude": "127.04246",
+      "menuPrices": null,
+      "hours": "11:00–22:00",
+      "verifiedAt": "2026-11-03",
+      "brand": "Phomein",
+      "branch": "서울숲점",
+      "unresolved": [
+        "Per-branch current menu prices and reuse permission for branded photographs are not independently verified"
+      ]
+    },
+    {
+      "id": "phomein-350",
+      "name": "Phomein directly owned store Yongsan",
+      "ko": "포메인 용산 직영점",
+      "cuisine": "vietnamese",
+      "cuisineVerified": "Vietnamese pho brand, official menu",
+      "address": "서울 용산구 서빙고로 17 몰동 1층 포메인 용산점 (한강로3가, 센트럴파크)",
+      "area": "yongsan",
+      "dishes": [
+        "noodles"
+      ],
+      "sources": [
+        {
+          "url": "https://phomein.com/brand/store/store_view.do?seq=350",
+          "title": "포메인 공식 매장 안내 · 용산 직영점"
+        },
+        {
+          "url": "https://phomein.com/brand/menu/menu_list.do",
+          "title": "포메인 공식 메뉴"
+        }
+      ],
+      "photoUrl": "https://phomein.com/upload/store/20240903/20240903152558596050.jpg",
+      "photos": [
+        "https://phomein.com/upload/store/20240903/20240903152558596050.jpg",
+        "https://phomein.com/upload/store/20240819/20240819134635722032.jpg",
+        "https://phomein.com/upload/store/20240819/20240819134635725033.jpg",
+        "https://phomein.com/upload/store/20240819/20240819134635727034.jpg",
+        "https://phomein.com/upload/store/20240819/20240819134635730035.jpg"
+      ],
+      "photoSourceUrl": "https://phomein.com/brand/store/store_view.do?seq=350",
+      "photoLicense": "Official brand photos; reuse rights not independently confirmed",
+      "description": "Vietnamese rice-noodle restaurant branch listed in the official Phomein store directory. Brand menu includes pho and spring rolls; branch selection may vary.",
+      "phone": "02-794-9203",
+      "latitude": "37.5269056148241",
+      "longitude": "126.966566172294",
+      "menuPrices": null,
+      "hours": ":–:",
+      "verifiedAt": "2026-11-03",
+      "brand": "Phomein",
+      "branch": "용산 직영점",
+      "unresolved": [
+        "Per-branch current menu prices and reuse permission for branded photographs are not independently verified"
+      ]
+    },
+    {
+      "id": "phomein-351",
+      "name": "Phomein directly owned store Cheongdam",
+      "ko": "포메인 청담 직영점",
+      "cuisine": "vietnamese",
+      "cuisineVerified": "Vietnamese pho brand, official menu",
+      "address": "서울 강남구 도산대로87길 11  (청담동) 지상 1층 (유니온빌딩) 포메인 청담점",
+      "area": "gangnam",
+      "dishes": [
+        "noodles"
+      ],
+      "sources": [
+        {
+          "url": "https://phomein.com/brand/store/store_view.do?seq=351",
+          "title": "포메인 공식 매장 안내 · 청담 직영점"
+        },
+        {
+          "url": "https://phomein.com/brand/menu/menu_list.do",
+          "title": "포메인 공식 메뉴"
+        }
+      ],
+      "photoUrl": "https://phomein.com/upload/store/20241101/20241101170835128005.jpg",
+      "photos": [
+        "https://phomein.com/upload/store/20241101/20241101170835128005.jpg",
+        "https://phomein.com/upload/store/20241007/20241007185407098086.jpg",
+        "https://phomein.com/upload/store/20241007/20241007185407099087.jpg",
+        "https://phomein.com/upload/store/20241007/20241007185407101088.jpg",
+        "https://phomein.com/upload/store/20241007/20241007185407102089.jpg"
+      ],
+      "photoSourceUrl": "https://phomein.com/brand/store/store_view.do?seq=351",
+      "photoLicense": "Official brand photos; reuse rights not independently confirmed",
+      "description": "Vietnamese rice-noodle restaurant branch listed in the official Phomein store directory. Brand menu includes pho and spring rolls; branch selection may vary.",
+      "phone": "02-544-9203",
+      "latitude": "37.5254177869597",
+      "longitude": "127.049806061871",
+      "menuPrices": null,
+      "hours": ":–:",
+      "verifiedAt": "2026-11-03",
+      "brand": "Phomein",
+      "branch": "청담 직영점",
+      "unresolved": [
+        "Per-branch current menu prices and reuse permission for branded photographs are not independently verified"
+      ]
+    },
+    {
+      "id": "phomein-345",
+      "name": "Phomein [RED] Namdaemun",
+      "ko": "포메인 레드 남대문점",
+      "cuisine": "vietnamese",
+      "cuisineVerified": "Vietnamese pho brand, official menu",
+      "address": "서울 중구 남대문로 40  (회현동1가)",
+      "area": "myeongdong",
+      "dishes": [
+        "noodles"
+      ],
+      "sources": [
+        {
+          "url": "https://phomein.com/brand/store/store_view.do?seq=345",
+          "title": "포메인 공식 매장 안내 · 포메인 레드 남대문점"
+        },
+        {
+          "url": "https://phomein.com/brand/menu/menu_list.do",
+          "title": "포메인 공식 메뉴"
+        }
+      ],
+      "photoUrl": "https://phomein.com/upload/store/20230428/20230428180251427094.jpg",
+      "photos": [
+        "https://phomein.com/upload/store/20230428/20230428180251427094.jpg",
+        "https://phomein.com/upload/store/20230428/20230428180251430095.jpg",
+        "https://phomein.com/upload/store/20230428/20230428180251431096.jpg",
+        "https://phomein.com/upload/store/20230428/20230428180251432097.jpg",
+        "https://phomein.com/upload/store/20230428/20230428180251433098.jpg"
+      ],
+      "photoSourceUrl": "https://phomein.com/brand/store/store_view.do?seq=345",
+      "photoLicense": "Official brand photos; reuse rights not independently confirmed",
+      "description": "Vietnamese rice-noodle restaurant branch listed in the official Phomein store directory. Brand menu includes pho and spring rolls; branch selection may vary.",
+      "phone": "02-318-0160",
+      "latitude": "37.5611181710325",
+      "longitude": "126.980073301616",
+      "menuPrices": null,
+      "hours": ":–:",
+      "verifiedAt": "2026-11-03",
+      "brand": "Phomein",
+      "branch": "포메인 레드 남대문점",
+      "unresolved": [
+        "Per-branch current menu prices and reuse permission for branded photographs are not independently verified"
+      ]
+    },
+    {
+      "id": "phomein-349",
+      "name": "Phomein directly owned store Doota mall",
+      "ko": "포메인 레드 두타몰 직영점",
+      "cuisine": "vietnamese",
+      "cuisineVerified": "Vietnamese pho brand, official menu",
+      "address": "서울 중구 장충단로 275  (을지로6가) B2 두타몰 푸드코트 105호",
+      "area": "myeongdong",
+      "dishes": [
+        "noodles"
+      ],
+      "sources": [
+        {
+          "url": "https://phomein.com/brand/store/store_view.do?seq=349",
+          "title": "포메인 공식 매장 안내 · 포메인 레드 두타몰 직영점"
+        },
+        {
+          "url": "https://phomein.com/brand/menu/menu_list.do",
+          "title": "포메인 공식 메뉴"
+        }
+      ],
+      "photoUrl": "https://phomein.com/upload/store/20240628/20240628170518996102.png",
+      "photos": [
+        "https://phomein.com/upload/store/20240628/20240628170518996102.png",
+        "https://phomein.com/upload/store/20240628/20240628170519000104.png",
+        "https://phomein.com/upload/store/20240628/20240628170519001105.png",
+        "https://phomein.com/upload/store/20240628/20240628172343555109.png",
+        "https://phomein.com/upload/store/20240628/20240628172310451108.png"
+      ],
+      "photoSourceUrl": "https://phomein.com/brand/store/store_view.do?seq=349",
+      "photoLicense": "Official brand photos; reuse rights not independently confirmed",
+      "description": "Vietnamese rice-noodle restaurant branch listed in the official Phomein store directory. Brand menu includes pho and spring rolls; branch selection may vary.",
+      "phone": "02-3398-4244",
+      "latitude": "37.5688849422849",
+      "longitude": "127.008775114213",
+      "menuPrices": null,
+      "hours": ":–:",
+      "verifiedAt": "2026-11-03",
+      "brand": "Phomein",
+      "branch": "포메인 레드 두타몰 직영점",
+      "unresolved": [
+        "Per-branch current menu prices and reuse permission for branded photographs are not independently verified"
+      ]
+    },
+    {
+      "id": "phomein-295",
+      "name": "Phomein [Phomein RED] Apgujeong Station",
+      "ko": "포메인 레드 압구정역점",
+      "cuisine": "vietnamese",
+      "cuisineVerified": "Vietnamese pho brand, official menu",
+      "address": "서울 강남구 압구정로28길 14 1층",
+      "area": "apgujeong",
+      "dishes": [
+        "noodles"
+      ],
+      "sources": [
+        {
+          "url": "https://phomein.com/brand/store/store_view.do?seq=295",
+          "title": "포메인 공식 매장 안내 · 포메인 레드 압구정역점"
+        },
+        {
+          "url": "https://phomein.com/brand/menu/menu_list.do",
+          "title": "포메인 공식 메뉴"
+        }
+      ],
+      "photoUrl": "https://phomein.com/upload/store/20200309/20200309094101357086.jpg",
+      "photos": [
+        "https://phomein.com/upload/store/20200309/20200309094101357086.jpg",
+        "https://phomein.com/upload/store/20200309/20200309094101386087.jpg",
+        "https://phomein.com/upload/store/20200309/20200309094101387088.jpg",
+        "https://phomein.com/upload/store/20200309/20200309094101388089.jpg",
+        "https://phomein.com/upload/store/20200309/20200309094101389090.jpg",
+        "https://phomein.com/upload/store/20200408/20200408203241058015.jpg",
+        "https://phomein.com/upload/store/20200408/20200408203241066016.jpg",
+        "https://phomein.com/upload/store/20200408/20200408203241068017.jpg"
+      ],
+      "photoSourceUrl": "https://phomein.com/brand/store/store_view.do?seq=295",
+      "photoLicense": "Official brand photos; reuse rights not independently confirmed",
+      "description": "Vietnamese rice-noodle restaurant branch listed in the official Phomein store directory. Brand menu includes pho and spring rolls; branch selection may vary.",
+      "phone": "02-518-5336",
+      "latitude": "37.52572834467614",
+      "longitude": "127.027585240521",
+      "menuPrices": null,
+      "hours": "11:00–22:00",
+      "verifiedAt": "2026-11-03",
+      "brand": "Phomein",
+      "branch": "포메인 레드 압구정역점",
+      "unresolved": [
+        "Per-branch current menu prices and reuse permission for branded photographs are not independently verified"
+      ]
+    },
+    {
+      "id": "phomein-143",
+      "name": "Phomein Gayang",
+      "ko": "포메인 가양점",
+      "cuisine": "vietnamese",
+      "cuisineVerified": "Vietnamese pho brand, official menu",
+      "address": "서울 강서구 양천로 583 A-306",
+      "area": "other",
+      "dishes": [
+        "noodles"
+      ],
+      "sources": [
+        {
+          "url": "https://phomein.com/brand/store/store_view.do?seq=143",
+          "title": "포메인 공식 매장 안내 · 가양점"
+        },
+        {
+          "url": "https://phomein.com/brand/menu/menu_list.do",
+          "title": "포메인 공식 메뉴"
+        }
+      ],
+      "photoUrl": "https://phomein.com/upload/store/20210709/20210709143911498060.jpg",
+      "photos": [
+        "https://phomein.com/upload/store/20210709/20210709143911498060.jpg",
+        "https://phomein.com/upload/store/20210709/20210709143911515061.jpg",
+        "https://phomein.com/upload/store/20210709/20210709143911517062.jpg",
+        "https://phomein.com/upload/store/20210709/20210709143911518063.jpg"
+      ],
+      "photoSourceUrl": "https://phomein.com/brand/store/store_view.do?seq=143",
+      "photoLicense": "Official brand photos; reuse rights not independently confirmed",
+      "description": "Vietnamese rice-noodle restaurant branch listed in the official Phomein store directory. Brand menu includes pho and spring rolls; branch selection may vary.",
+      "phone": "02-2093-1051",
+      "latitude": "37.556904",
+      "longitude": "126.8642901",
+      "menuPrices": null,
+      "hours": "11:00–22:00",
+      "verifiedAt": "2026-11-03",
+      "brand": "Phomein",
+      "branch": "가양점",
+      "unresolved": [
+        "Per-branch current menu prices and reuse permission for branded photographs are not independently verified"
+      ]
+    },
+    {
+      "id": "phomein-150",
+      "name": "Phomein Godeok",
+      "ko": "포메인 고덕점",
+      "cuisine": "vietnamese",
+      "cuisineVerified": "Vietnamese pho brand, official menu",
+      "address": "서울 강동구 동남로 877 101호",
+      "area": "other",
+      "dishes": [
+        "noodles"
+      ],
+      "sources": [
+        {
+          "url": "https://phomein.com/brand/store/store_view.do?seq=150",
+          "title": "포메인 공식 매장 안내 · 고덕점"
+        },
+        {
+          "url": "https://phomein.com/brand/menu/menu_list.do",
+          "title": "포메인 공식 메뉴"
+        }
+      ],
+      "photoUrl": "https://phomein.com/upload/store/20210709/20210709144018350064.jpg",
+      "photos": [
+        "https://phomein.com/upload/store/20210709/20210709144018350064.jpg",
+        "https://phomein.com/upload/store/20210709/20210709144018366065.jpg"
+      ],
+      "photoSourceUrl": "https://phomein.com/brand/store/store_view.do?seq=150",
+      "photoLicense": "Official brand photos; reuse rights not independently confirmed",
+      "description": "Vietnamese rice-noodle restaurant branch listed in the official Phomein store directory. Brand menu includes pho and spring rolls; branch selection may vary.",
+      "phone": "02-428-9286",
+      "latitude": "37.551974",
+      "longitude": "127.1557876",
+      "menuPrices": null,
+      "hours": "11:00–22:00",
+      "verifiedAt": "2026-11-03",
+      "brand": "Phomein",
+      "branch": "고덕점",
+      "unresolved": [
+        "Per-branch current menu prices and reuse permission for branded photographs are not independently verified"
+      ]
+    },
+    {
+      "id": "phomein-157",
+      "name": "Phomein Seoul National University of Education",
+      "ko": "포메인 교대점",
+      "cuisine": "vietnamese",
+      "cuisineVerified": "Vietnamese pho brand, official menu",
+      "address": "서울 서초구 서초중앙로24길 27 B1 109호(지파이브 센트럴프라자)",
+      "area": "other",
+      "dishes": [
+        "noodles"
+      ],
+      "sources": [
+        {
+          "url": "https://phomein.com/brand/store/store_view.do?seq=157",
+          "title": "포메인 공식 매장 안내 · 교대점"
+        },
+        {
+          "url": "https://phomein.com/brand/menu/menu_list.do",
+          "title": "포메인 공식 메뉴"
+        }
+      ],
+      "photoUrl": "https://phomein.com/upload/store/20210713/20210713161450190166.jpg",
+      "photos": [
+        "https://phomein.com/upload/store/20210713/20210713161450190166.jpg",
+        "https://phomein.com/upload/store/20210713/20210713161450205167.jpg",
+        "https://phomein.com/upload/store/20210713/20210713161450206168.jpg",
+        "https://phomein.com/upload/store/20210713/20210713161450216169.jpg"
+      ],
+      "photoSourceUrl": "https://phomein.com/brand/store/store_view.do?seq=157",
+      "photoLicense": "Official brand photos; reuse rights not independently confirmed",
+      "description": "Vietnamese rice-noodle restaurant branch listed in the official Phomein store directory. Brand menu includes pho and spring rolls; branch selection may vary.",
+      "phone": "02-595-3528",
+      "latitude": "37.4954141",
+      "longitude": "127.0164028",
+      "menuPrices": null,
+      "hours": "11:00–22:00",
+      "verifiedAt": "2026-11-03",
+      "brand": "Phomein",
+      "branch": "교대점",
+      "unresolved": [
+        "Per-branch current menu prices and reuse permission for branded photographs are not independently verified"
+      ]
+    },
+    {
+      "id": "phomein-321",
+      "name": "Phomein [Phomein Red] Wangsimni",
+      "ko": "포메인 레드 왕십리점",
+      "cuisine": "vietnamese",
+      "cuisineVerified": "Vietnamese pho brand, official menu",
+      "address": "서울 성동구 왕십리광장로 17  (행당동) 3층",
+      "area": "other",
+      "dishes": [
+        "noodles"
+      ],
+      "sources": [
+        {
+          "url": "https://phomein.com/brand/store/store_view.do?seq=321",
+          "title": "포메인 공식 매장 안내 · 레드 왕십리점"
+        },
+        {
+          "url": "https://phomein.com/brand/menu/menu_list.do",
+          "title": "포메인 공식 메뉴"
+        }
+      ],
+      "photoUrl": "https://phomein.com/upload/store/20220418/20220418195950982109.jpg",
+      "photos": [
+        "https://phomein.com/upload/store/20220418/20220418195950982109.jpg",
+        "https://phomein.com/upload/store/20220418/20220418195950999110.jpg",
+        "https://phomein.com/upload/store/20220418/20220418195951001111.jpg",
+        "https://phomein.com/upload/store/20220418/20220418195951004112.jpg",
+        "https://phomein.com/upload/store/20220418/20220418195951007113.jpg"
+      ],
+      "photoSourceUrl": "https://phomein.com/brand/store/store_view.do?seq=321",
+      "photoLicense": "Official brand photos; reuse rights not independently confirmed",
+      "description": "Vietnamese rice-noodle restaurant branch listed in the official Phomein store directory. Brand menu includes pho and spring rolls; branch selection may vary.",
+      "phone": "02-2298-0907",
+      "latitude": "37.5614417528647",
+      "longitude": "127.038394194396",
+      "menuPrices": null,
+      "hours": ":–:",
+      "verifiedAt": "2026-11-03",
+      "brand": "Phomein",
+      "branch": "레드 왕십리점",
+      "unresolved": [
+        "Per-branch current menu prices and reuse permission for branded photographs are not independently verified"
+      ]
+    },
+    {
+      "id": "phomein-185",
+      "name": "Phomein Mok-dong Pari Park",
+      "ko": "포메인 목동파리공원점",
+      "cuisine": "vietnamese",
+      "cuisineVerified": "Vietnamese pho brand, official menu",
+      "address": "서울 양천구 목동서로77 (현대월드타워) 1층",
+      "area": "other",
+      "dishes": [
+        "noodles"
+      ],
+      "sources": [
+        {
+          "url": "https://phomein.com/brand/store/store_view.do?seq=185",
+          "title": "포메인 공식 매장 안내 · 목동파리공원점"
+        },
+        {
+          "url": "https://phomein.com/brand/menu/menu_list.do",
+          "title": "포메인 공식 메뉴"
+        }
+      ],
+      "photoUrl": "https://phomein.com/upload/store/20230417/20230417111850265065.jpg",
+      "photos": [
+        "https://phomein.com/upload/store/20230417/20230417111850265065.jpg",
+        "https://phomein.com/upload/store/20230417/20230417111850278066.jpg",
+        "https://phomein.com/upload/store/20230417/20230417111850280067.jpg",
+        "https://phomein.com/upload/store/20230417/20230417111850281068.jpg",
+        "https://phomein.com/upload/store/20230417/20230417111850290069.jpg"
+      ],
+      "photoSourceUrl": "https://phomein.com/brand/store/store_view.do?seq=185",
+      "photoLicense": "Official brand photos; reuse rights not independently confirmed",
+      "description": "Vietnamese rice-noodle restaurant branch listed in the official Phomein store directory. Brand menu includes pho and spring rolls; branch selection may vary.",
+      "phone": "02-2062-1303",
+      "latitude": "37.5359255",
+      "longitude": "126.8779791",
+      "menuPrices": null,
+      "hours": ":–:",
+      "verifiedAt": "2026-11-03",
+      "brand": "Phomein",
+      "branch": "목동파리공원점",
+      "unresolved": [
+        "Per-branch current menu prices and reuse permission for branded photographs are not independently verified"
+      ]
+    },
+    {
+      "id": "phomein-190",
+      "name": "Phomein Boramae",
+      "ko": "포메인 보라매점",
+      "cuisine": "vietnamese",
+      "cuisineVerified": "Vietnamese pho brand, official menu",
+      "address": "서울 동작구 보라매로5길 43 (보라매삼성쉐르빌) 43",
+      "area": "other",
+      "dishes": [
+        "noodles"
+      ],
+      "sources": [
+        {
+          "url": "https://phomein.com/brand/store/store_view.do?seq=190",
+          "title": "포메인 공식 매장 안내 · 보라매점"
+        },
+        {
+          "url": "https://phomein.com/brand/menu/menu_list.do",
+          "title": "포메인 공식 메뉴"
+        }
+      ],
+      "photoUrl": "https://phomein.com/upload/store/20210713/20210713155627696132.jpg",
+      "photos": [
+        "https://phomein.com/upload/store/20210713/20210713155627696132.jpg",
+        "https://phomein.com/upload/store/20210713/20210713155627712133.jpg"
+      ],
+      "photoSourceUrl": "https://phomein.com/brand/store/store_view.do?seq=190",
+      "photoLicense": "Official brand photos; reuse rights not independently confirmed",
+      "description": "Vietnamese rice-noodle restaurant branch listed in the official Phomein store directory. Brand menu includes pho and spring rolls; branch selection may vary.",
+      "phone": "02-833-3129",
+      "latitude": "37.4913946",
+      "longitude": "126.923403",
+      "menuPrices": null,
+      "hours": "11:00–22:00",
+      "verifiedAt": "2026-11-03",
+      "brand": "Phomein",
+      "branch": "보라매점",
+      "unresolved": [
+        "Per-branch current menu prices and reuse permission for branded photographs are not independently verified"
+      ]
+    },
+    {
+      "id": "phomein-199",
+      "name": "Phomein Sangbong Enocity",
+      "ko": "포메인 상봉이노시티점",
+      "cuisine": "vietnamese",
+      "cuisineVerified": "Vietnamese pho brand, official menu",
+      "address": "서울 중랑구 망우로 353 (상봉프레미어스엠코) C동 2층 (상봉동,상봉이노시티)",
+      "area": "other",
+      "dishes": [
+        "noodles"
+      ],
+      "sources": [
+        {
+          "url": "https://phomein.com/brand/store/store_view.do?seq=199",
+          "title": "포메인 공식 매장 안내 · 상봉이노시티점"
+        },
+        {
+          "url": "https://phomein.com/brand/menu/menu_list.do",
+          "title": "포메인 공식 메뉴"
+        }
+      ],
+      "photoUrl": "https://phomein.com/upload/store/20210713/20210713155831060138.jpg",
+      "photos": [
+        "https://phomein.com/upload/store/20210713/20210713155831060138.jpg",
+        "https://phomein.com/upload/store/20210713/20210713155831076139.jpg",
+        "https://phomein.com/upload/store/20210713/20210713155831078140.jpg",
+        "https://phomein.com/upload/store/20210713/20210713155831079141.jpg"
+      ],
+      "photoSourceUrl": "https://phomein.com/brand/store/store_view.do?seq=199",
+      "photoLicense": "Official brand photos; reuse rights not independently confirmed",
+      "description": "Vietnamese rice-noodle restaurant branch listed in the official Phomein store directory. Brand menu includes pho and spring rolls; branch selection may vary.",
+      "phone": "02-6081-9388",
+      "latitude": "37.5977195",
+      "longitude": "127.0932913",
+      "menuPrices": null,
+      "hours": "11:00–22:00",
+      "verifiedAt": "2026-11-03",
+      "brand": "Phomein",
+      "branch": "상봉이노시티점",
+      "unresolved": [
+        "Per-branch current menu prices and reuse permission for branded photographs are not independently verified"
+      ]
+    },
+    {
+      "id": "phomein-204",
+      "name": "Phomein Seocho",
+      "ko": "포메인 서초점",
+      "cuisine": "vietnamese",
+      "cuisineVerified": "Vietnamese pho brand, official menu",
+      "address": "서울 서초구 반포대로104 (서일빌딩) 104",
+      "area": "other",
+      "dishes": [
+        "noodles"
+      ],
+      "sources": [
+        {
+          "url": "https://phomein.com/brand/store/store_view.do?seq=204",
+          "title": "포메인 공식 매장 안내 · 서초점"
+        },
+        {
+          "url": "https://phomein.com/brand/menu/menu_list.do",
+          "title": "포메인 공식 메뉴"
+        }
+      ],
+      "photoUrl": "https://phomein.com/upload/store/20240604/20240604144723465068.jpg",
+      "photos": [
+        "https://phomein.com/upload/store/20240604/20240604144723465068.jpg",
+        "https://phomein.com/upload/store/20240604/20240604144723467069.jpg",
+        "https://phomein.com/upload/store/20240604/20240604144723469070.jpg",
+        "https://phomein.com/upload/store/20240604/20240604144723480071.jpg",
+        "https://phomein.com/upload/store/20240604/20240604144723481072.jpg"
+      ],
+      "photoSourceUrl": "https://phomein.com/brand/store/store_view.do?seq=204",
+      "photoLicense": "Official brand photos; reuse rights not independently confirmed",
+      "description": "Vietnamese rice-noodle restaurant branch listed in the official Phomein store directory. Brand menu includes pho and spring rolls; branch selection may vary.",
+      "phone": "02-521-0722",
+      "latitude": "37.4894311",
+      "longitude": "127.0091707",
+      "menuPrices": null,
+      "hours": ":–:",
+      "verifiedAt": "2026-11-03",
+      "brand": "Phomein",
+      "branch": "서초점",
+      "unresolved": [
+        "Per-branch current menu prices and reuse permission for branded photographs are not independently verified"
+      ]
+    },
+    {
+      "id": "phomein-304",
+      "name": "Phomein Amsa Station",
+      "ko": "포메인 암사역점",
+      "cuisine": "vietnamese",
+      "cuisineVerified": "Vietnamese pho brand, official menu",
+      "address": "서울 강동구 상암로 28  (암사동) 2층",
+      "area": "other",
+      "dishes": [
+        "noodles"
+      ],
+      "sources": [
+        {
+          "url": "https://phomein.com/brand/store/store_view.do?seq=304",
+          "title": "포메인 공식 매장 안내 · 암사역점"
+        },
+        {
+          "url": "https://phomein.com/brand/menu/menu_list.do",
+          "title": "포메인 공식 메뉴"
+        }
+      ],
+      "photoUrl": "https://phomein.com/upload/store/20201127/20201127140655212112.jpg",
+      "photos": [
+        "https://phomein.com/upload/store/20201127/20201127140655212112.jpg",
+        "https://phomein.com/upload/store/20201127/20201127140655226113.jpg",
+        "https://phomein.com/upload/store/20201127/20201127140655228114.jpg",
+        "https://phomein.com/upload/store/20201127/20201127140655229115.jpg",
+        "https://phomein.com/upload/store/20201127/20201127140655230116.jpg",
+        "https://phomein.com/upload/store/20201127/20201127140655232117.jpg",
+        "https://phomein.com/upload/store/20201127/20201127140655235118.jpg"
+      ],
+      "photoSourceUrl": "https://phomein.com/brand/store/store_view.do?seq=304",
+      "photoLicense": "Official brand photos; reuse rights not independently confirmed",
+      "description": "Vietnamese rice-noodle restaurant branch listed in the official Phomein store directory. Brand menu includes pho and spring rolls; branch selection may vary.",
+      "phone": "02-428-5777",
+      "latitude": "37.5503222093375",
+      "longitude": "127.126744210638",
+      "menuPrices": null,
+      "hours": "11:00–22:00",
+      "verifiedAt": "2026-11-03",
+      "brand": "Phomein",
+      "branch": "암사역점",
+      "unresolved": [
+        "Per-branch current menu prices and reuse permission for branded photographs are not independently verified"
+      ]
+    },
+    {
+      "id": "phomein-234",
+      "name": "Phomein Yeouido",
+      "ko": "포메인 여의도점",
+      "cuisine": "vietnamese",
+      "cuisineVerified": "Vietnamese pho brand, official menu",
+      "address": "서울 영등포구 의사당대로127 (롯데캐슬엠파이어) 2층 208호",
+      "area": "other",
+      "dishes": [
+        "noodles"
+      ],
+      "sources": [
+        {
+          "url": "https://phomein.com/brand/store/store_view.do?seq=234",
+          "title": "포메인 공식 매장 안내 · 여의도점"
+        },
+        {
+          "url": "https://phomein.com/brand/menu/menu_list.do",
+          "title": "포메인 공식 메뉴"
+        }
+      ],
+      "photoUrl": "https://phomein.com/upload/store/20210713/20210713165145830207.jpg",
+      "photos": [
+        "https://phomein.com/upload/store/20210713/20210713165145830207.jpg",
+        "https://phomein.com/upload/store/20210713/20210713165145846208.jpg"
+      ],
+      "photoSourceUrl": "https://phomein.com/brand/store/store_view.do?seq=234",
+      "photoLicense": "Official brand photos; reuse rights not independently confirmed",
+      "description": "Vietnamese rice-noodle restaurant branch listed in the official Phomein store directory. Brand menu includes pho and spring rolls; branch selection may vary.",
+      "phone": "02-782-5494",
+      "latitude": "37.5201371",
+      "longitude": "126.9263986",
+      "menuPrices": null,
+      "hours": "11:00–22:00",
+      "verifiedAt": "2026-11-03",
+      "brand": "Phomein",
+      "branch": "여의도점",
+      "unresolved": [
+        "Per-branch current menu prices and reuse permission for branded photographs are not independently verified"
+      ]
+    },
+    {
+      "id": "phomein-302",
+      "name": "Phomein Olympic Park",
+      "ko": "포메인 올림픽평화의문점",
+      "cuisine": "vietnamese",
+      "cuisineVerified": "Vietnamese pho brand, official menu",
+      "address": "서울 송파구 올림픽로 424  평화의 광장 B1동(방이동)",
+      "area": "other",
+      "dishes": [
+        "noodles"
+      ],
+      "sources": [
+        {
+          "url": "https://phomein.com/brand/store/store_view.do?seq=302",
+          "title": "포메인 공식 매장 안내 · 올림픽평화의문점"
+        },
+        {
+          "url": "https://phomein.com/brand/menu/menu_list.do",
+          "title": "포메인 공식 메뉴"
+        }
+      ],
+      "photoUrl": "https://phomein.com/upload/store/20200825/20200825133731822079.jpg",
+      "photos": [
+        "https://phomein.com/upload/store/20200825/20200825133731822079.jpg",
+        "https://phomein.com/upload/store/20200825/20200825133731829080.jpg",
+        "https://phomein.com/upload/store/20200825/20200825133731831081.jpg",
+        "https://phomein.com/upload/store/20200825/20200825133731832082.jpg",
+        "https://phomein.com/upload/store/20200825/20200825133731833083.jpg",
+        "https://phomein.com/upload/store/20200825/20200825133731834084.jpg"
+      ],
+      "photoSourceUrl": "https://phomein.com/brand/store/store_view.do?seq=302",
+      "photoLicense": "Official brand photos; reuse rights not independently confirmed",
+      "description": "Vietnamese rice-noodle restaurant branch listed in the official Phomein store directory. Brand menu includes pho and spring rolls; branch selection may vary.",
+      "phone": "02-425-6787",
+      "latitude": "37.5203396980951",
+      "longitude": "127.115517876627",
+      "menuPrices": null,
+      "hours": "11:00–22:00",
+      "verifiedAt": "2026-11-03",
+      "brand": "Phomein",
+      "branch": "올림픽평화의문점",
+      "unresolved": [
+        "Per-branch current menu prices and reuse permission for branded photographs are not independently verified"
+      ]
+    },
+    {
+      "id": "phomein-347",
+      "name": "Phomein Changdong Station",
+      "ko": "포메인 창동역점",
+      "cuisine": "vietnamese",
+      "cuisineVerified": "Vietnamese pho brand, official menu",
+      "address": "서울 도봉구 노해로65길 7-12 1층 102호(창동)",
+      "area": "other",
+      "dishes": [
+        "noodles"
+      ],
+      "sources": [
+        {
+          "url": "https://phomein.com/brand/store/store_view.do?seq=347",
+          "title": "포메인 공식 매장 안내 · 창동역점"
+        },
+        {
+          "url": "https://phomein.com/brand/menu/menu_list.do",
+          "title": "포메인 공식 메뉴"
+        }
+      ],
+      "photoUrl": "https://phomein.com/upload/store/20230601/20230601161933426034.jpg",
+      "photos": [
+        "https://phomein.com/upload/store/20230601/20230601161933426034.jpg",
+        "https://phomein.com/upload/store/20230601/20230601161933491035.jpg",
+        "https://phomein.com/upload/store/20230601/20230601161933494036.jpg",
+        "https://phomein.com/upload/store/20230601/20230601161933496037.jpg",
+        "https://phomein.com/upload/store/20230601/20230601161933499038.jpg"
+      ],
+      "photoSourceUrl": "https://phomein.com/brand/store/store_view.do?seq=347",
+      "photoLicense": "Official brand photos; reuse rights not independently confirmed",
+      "description": "Vietnamese rice-noodle restaurant branch listed in the official Phomein store directory. Brand menu includes pho and spring rolls; branch selection may vary.",
+      "phone": "02-6941-1422",
+      "latitude": "37.6517298976344",
+      "longitude": "127.045825536405",
+      "menuPrices": null,
+      "hours": ":–:",
+      "verifiedAt": "2026-11-03",
+      "brand": "Phomein",
+      "branch": "창동역점",
+      "unresolved": [
+        "Per-branch current menu prices and reuse permission for branded photographs are not independently verified"
+      ]
+    },
+    {
+      "id": "phomein-353",
+      "name": "Phomein RED Gocheok DT",
+      "ko": "포메인 레드 고척 DT점",
+      "cuisine": "vietnamese",
+      "cuisineVerified": "Vietnamese pho brand, official menu",
+      "address": "서울 구로구 경서로 55  (고척동) 1층 포메인 RED 고척 DT점",
+      "area": "other",
+      "dishes": [
+        "noodles"
+      ],
+      "sources": [
+        {
+          "url": "https://phomein.com/brand/store/store_view.do?seq=353",
+          "title": "포메인 공식 매장 안내 · 포메인 레드 고척 DT점"
+        },
+        {
+          "url": "https://phomein.com/brand/menu/menu_list.do",
+          "title": "포메인 공식 메뉴"
+        }
+      ],
+      "photoUrl": "https://phomein.com/upload/store/20250919/20250919183921511166.png",
+      "photos": [
+        "https://phomein.com/upload/store/20250919/20250919183921511166.png",
+        "https://phomein.com/upload/store/20250919/20250919183921526167.png",
+        "https://phomein.com/upload/store/20250919/20250919183921538168.png",
+        "https://phomein.com/upload/store/20250919/20250919183921791169.png",
+        "https://phomein.com/upload/store/20250919/20250919183855447163.png",
+        "https://phomein.com/upload/store/20250919/20250919183855459164.png",
+        "https://phomein.com/upload/store/20250919/20250919183855676165.png"
+      ],
+      "photoSourceUrl": "https://phomein.com/brand/store/store_view.do?seq=353",
+      "photoLicense": "Official brand photos; reuse rights not independently confirmed",
+      "description": "Vietnamese rice-noodle restaurant branch listed in the official Phomein store directory. Brand menu includes pho and spring rolls; branch selection may vary.",
+      "phone": "02-2060-0878",
+      "latitude": "37.5020052260584",
+      "longitude": "126.858902033528",
+      "menuPrices": null,
+      "hours": ":–:",
+      "verifiedAt": "2026-11-03",
+      "brand": "Phomein",
+      "branch": "포메인 레드 고척 DT점",
+      "unresolved": [
+        "Per-branch current menu prices and reuse permission for branded photographs are not independently verified"
+      ]
+    },
+    {
+      "id": "smith-likes-hanok",
+      "name": "The Hanok Smith Likes",
+      "ko": "스미스가 좋아하는 한옥",
+      "address": "서울 종로구 삼청로 22-7",
+      "area": "jongno",
+      "cuisine": "italian",
+      "cuisineVerified": "Primary source describes Italian cuisine",
+      "dishes": [
+        "pasta"
+      ],
+      "sources": [
+        {
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=75400",
+          "title": "VISITKOREA · The Hanok Smith Likes"
+        }
+      ],
+      "photoUrl": "https://tong.visitkorea.or.kr/cms/resource/26/1947026_image2_1.jpg",
+      "photoSourceUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=75400",
+      "photoLicense": "Primary-source restaurant photo; reuse rights not independently confirmed",
+      "description": "Italian pizza and pasta served in a renovated hanok near Gyeongbokgung.",
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "addressMethod": "Exact primary-source address; English road address rendered in Korean when necessary",
+      "unresolved": [
+        "Current holiday schedules and image reuse permission not independently verified"
+      ]
+    },
+    {
+      "id": "la-cantina",
+      "name": "La Cantina",
+      "ko": "라칸티나",
+      "address": "서울 중구 을지로 19 삼성빌딩",
+      "area": "myeongdong",
+      "cuisine": "italian",
+      "cuisineVerified": "Primary source describes Italian cuisine",
+      "dishes": [
+        "pasta"
+      ],
+      "sources": [
+        {
+          "url": "https://english.visitseoul.net/City-Hall-Area/La-Cantina-EN/ENP011702",
+          "title": "Visit Seoul · La Cantina"
+        }
+      ],
+      "photoUrl": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=67786&fileTy=MEDIA&fileNo=1",
+      "photoSourceUrl": "https://english.visitseoul.net/City-Hall-Area/La-Cantina-EN/ENP011702",
+      "photoLicense": "Primary-source restaurant photo; reuse rights not independently confirmed",
+      "description": "Long-established Italian restaurant serving dishes such as spaghetti alle vongole.",
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "addressMethod": "Exact primary-source address; English road address rendered in Korean when necessary",
+      "unresolved": [
+        "Current holiday schedules and image reuse permission not independently verified"
+      ]
+    },
+    {
+      "id": "cavallo-bianco",
+      "name": "Cavallo Bianco",
+      "ko": null,
+      "address": "서울 강남구 삼성로104길 9",
+      "area": "gangnam",
+      "cuisine": "italian",
+      "cuisineVerified": "Primary source describes Italian cuisine",
+      "dishes": [
+        "pasta"
+      ],
+      "sources": [
+        {
+          "url": "https://english.visitseoul.net/restaurants/Cavallo-Bianco3/ENP005217",
+          "title": "Visit Seoul · Cavallo Bianco"
+        }
+      ],
+      "photoUrl": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=2983&fileTy=MEDIA&fileNo=2&thumbTy=L",
+      "photoSourceUrl": "https://english.visitseoul.net/restaurants/Cavallo-Bianco3/ENP005217",
+      "photoLicense": "Primary-source restaurant photo; reuse rights not independently confirmed",
+      "description": "Italian restaurant with set menus and private dining rooms in the Samseong area.",
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "addressMethod": "Exact primary-source address; English road address rendered in Korean when necessary",
+      "unresolved": [
+        "Current holiday schedules and image reuse permission not independently verified"
+      ]
+    },
+    {
+      "id": "italy-two-story-house",
+      "name": "Italy Two-Story House",
+      "ko": null,
+      "address": "서울 용산구 한강대로48길 15 2층",
+      "area": "yongsan",
+      "cuisine": "italian",
+      "cuisineVerified": "Primary source describes Italian cuisine",
+      "dishes": [
+        "pasta"
+      ],
+      "sources": [
+        {
+          "url": "https://english.visitseoul.net/area/twostory-italy/ENPlsskfb",
+          "title": "Visit Seoul · Italy Two-Story House"
+        }
+      ],
+      "photoUrl": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=74198&fileTy=MEDIA&fileNo=1&thumbTy=L",
+      "photoSourceUrl": "https://english.visitseoul.net/area/twostory-italy/ENPlsskfb",
+      "photoLicense": "Primary-source restaurant photo; reuse rights not independently confirmed",
+      "description": "Yongridan-gil restaurant offering Italian fusion cuisine and pasta.",
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "addressMethod": "Exact primary-source address; English road address rendered in Korean when necessary",
+      "unresolved": [
+        "Current holiday schedules and image reuse permission not independently verified"
+      ]
+    },
+    {
+      "id": "iter-myeongdong",
+      "name": "iter Myeongdong",
+      "ko": null,
+      "address": "서울 중구 남대문로5길 39 지하 1층",
+      "area": "myeongdong",
+      "cuisine": "italian",
+      "cuisineVerified": "Primary source describes Italian cuisine",
+      "dishes": [
+        "pasta"
+      ],
+      "sources": [
+        {
+          "url": "https://iter-restaurants.com/en/",
+          "title": "iter · official website"
+        }
+      ],
+      "photoUrl": "https://iter-restaurants.com/images/5.webp",
+      "photoSourceUrl": "https://iter-restaurants.com/en/",
+      "photoLicense": "Primary-source restaurant photo; reuse rights not independently confirmed",
+      "description": "Korean-Italian restaurant focusing on house-made fresh pasta and tasting menus.",
+      "menuPrices": [
+        {
+          "item": "Business Course 2",
+          "price": 59000,
+          "currency": "KRW"
+        },
+        {
+          "item": "Signature Pasta Course",
+          "price": 75000,
+          "currency": "KRW"
+        }
+      ],
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "addressMethod": "Exact primary-source address; English road address rendered in Korean when necessary",
+      "unresolved": [
+        "Current holiday schedules and image reuse permission not independently verified"
+      ]
+    },
+    {
+      "id": "zio-cucina-ikseon",
+      "name": "Zio Cucina Ikseon",
+      "ko": null,
+      "address": "서울 종로구 수표로28길 33-11",
+      "area": "jongno",
+      "cuisine": "italian",
+      "cuisineVerified": "Primary source describes Italian cuisine",
+      "dishes": [
+        "pasta"
+      ],
+      "sources": [
+        {
+          "url": "https://ziocucina-ikseon.com/en/",
+          "title": "Zio Cucina Ikseon · official website"
+        }
+      ],
+      "photoUrl": "https://ziocucina-ikseon.com/images/11.webp",
+      "photoSourceUrl": "https://ziocucina-ikseon.com/en/",
+      "photoLicense": "Primary-source restaurant photo; reuse rights not independently confirmed",
+      "description": "Italian restaurant in an Ikseon-dong hanok serving wood-fired pizza, pasta and risotto.",
+      "menuPrices": [
+        {
+          "item": "Margherita pizza",
+          "price": 24000,
+          "currency": "KRW"
+        },
+        {
+          "item": "Aglio Olio",
+          "price": 19000,
+          "currency": "KRW"
+        }
+      ],
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "addressMethod": "Exact primary-source address; English road address rendered in Korean when necessary",
+      "unresolved": [
+        "Current holiday schedules and image reuse permission not independently verified"
+      ]
+    },
+    {
+      "id": "trattoria-sam-kim",
+      "name": "Trattoria Sam Kim",
+      "ko": "뜨리또리아 샘킴",
+      "address": "서울 강남구 도산대로49길 10-3 2층",
+      "area": "apgujeong",
+      "cuisine": "italian",
+      "cuisineVerified": "Primary source describes Italian cuisine",
+      "dishes": [
+        "pasta"
+      ],
+      "sources": [
+        {
+          "url": "https://english.seoul.go.kr/the-culinary-city-of-seoul-2026-edition/",
+          "title": "Seoul Metropolitan Government · Culinary City 2026"
+        }
+      ],
+      "photoUrl": "https://english.seoul.go.kr/wp-content/themes/seoul-e/assets/images/spoon/kit-7-1.jpg",
+      "photoSourceUrl": "https://english.seoul.go.kr/the-culinary-city-of-seoul-2026-edition/",
+      "photoLicense": "Primary-source restaurant photo; reuse rights not independently confirmed",
+      "description": "Chef Sam Kim-led Italian restaurant focused on seasonal ingredients.",
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "addressMethod": "Exact primary-source address; English road address rendered in Korean when necessary",
+      "unresolved": [
+        "Current holiday schedules and image reuse permission not independently verified"
+      ]
+    },
+    {
+      "id": "pomo",
+      "name": "Pomo",
+      "ko": "뽀모",
+      "address": "서울 강남구 선릉로 334 1층 R102",
+      "area": "gangnam",
+      "cuisine": "italian",
+      "cuisineVerified": "Primary source describes Italian cuisine",
+      "dishes": [
+        "pasta"
+      ],
+      "sources": [
+        {
+          "url": "https://english.seoul.go.kr/the-culinary-city-of-seoul-2026-edition/",
+          "title": "Seoul Metropolitan Government · Culinary City 2026"
+        }
+      ],
+      "photoUrl": "https://english.seoul.go.kr/wp-content/themes/seoul-e/assets/images/spoon/kit-11-1.jpg",
+      "photoSourceUrl": "https://english.seoul.go.kr/the-culinary-city-of-seoul-2026-edition/",
+      "photoLicense": "Primary-source restaurant photo; reuse rights not independently confirmed",
+      "description": "Italian home-style cooking restaurant listed in the Seoul government culinary guide.",
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "addressMethod": "Exact primary-source address; English road address rendered in Korean when necessary",
+      "unresolved": [
+        "Current holiday schedules and image reuse permission not independently verified"
+      ]
+    },
+    {
+      "id": "downtowner-hanti",
+      "name": "Downtowner hanti",
+      "ko": "다운타우너 한티점",
+      "brand": "Downtowner",
+      "branch": "다운타우너 한티점",
+      "cuisine": "western",
+      "cuisineVerified": "American-style burgers; official brand describes fast-premium burgers",
+      "address": "서울특별시 강남구 도곡로 405 삼환 아르누보2",
+      "area": "gangnam",
+      "dishes": [
+        "fast"
+      ],
+      "sources": [
+        {
+          "title": "Downtowner official Seoul branch directory",
+          "url": "https://downtowner.co.kr/store/?category=2EFv204035"
+        },
+        {
+          "title": "Downtowner official brand introduction",
+          "url": "https://en.downtowner.co.kr/about"
+        }
+      ],
+      "photoUrl": "https://cdn.imweb.me/thumbnail/20260721/dc8f5b744017d.jpg",
+      "photoSourceUrl": "https://downtowner.co.kr/store/?category=2EFv204035",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "Officially listed Seoul branch of the Korean burger brand Downtowner.",
+      "lat": 37.4973826,
+      "lon": 127.0547242,
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Current menu prices and precise unit/floor not independently confirmed"
+      ]
+    },
+    {
+      "id": "downtowner-magok",
+      "name": "Downtowner magok",
+      "ko": "다운타우너 마곡점",
+      "brand": "Downtowner",
+      "branch": "다운타우너 마곡점",
+      "cuisine": "western",
+      "cuisineVerified": "American-style burgers; official brand describes fast-premium burgers",
+      "address": "서울특별시 강서구 마곡중앙6로 21 이너매스마곡Ⅰ",
+      "area": "magok",
+      "dishes": [
+        "fast"
+      ],
+      "sources": [
+        {
+          "title": "Downtowner official Seoul branch directory",
+          "url": "https://downtowner.co.kr/store/?category=2EFv204035"
+        },
+        {
+          "title": "Downtowner official brand introduction",
+          "url": "https://en.downtowner.co.kr/about"
+        }
+      ],
+      "photoUrl": "https://cdn.imweb.me/thumbnail/20260721/18ab20493343d.png",
+      "photoSourceUrl": "https://downtowner.co.kr/store/?category=2EFv204035",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "Officially listed Seoul branch of the Korean burger brand Downtowner.",
+      "lat": 37.5608855,
+      "lon": 126.829638,
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Current menu prices and precise unit/floor not independently confirmed"
+      ]
+    },
+    {
+      "id": "downtowner-sangsu",
+      "name": "Downtowner sangsu",
+      "ko": "다운타우너 상수점",
+      "brand": "Downtowner",
+      "branch": "다운타우너 상수점",
+      "cuisine": "western",
+      "cuisineVerified": "American-style burgers; official brand describes fast-premium burgers",
+      "address": "서울특별시 마포구 독막로 85",
+      "area": "hongdae",
+      "dishes": [
+        "fast"
+      ],
+      "sources": [
+        {
+          "title": "Downtowner official Seoul branch directory",
+          "url": "https://downtowner.co.kr/store/?category=2EFv204035"
+        },
+        {
+          "title": "Downtowner official brand introduction",
+          "url": "https://en.downtowner.co.kr/about"
+        }
+      ],
+      "photoUrl": "https://cdn.imweb.me/thumbnail/20260721/569cebf097728.png",
+      "photoSourceUrl": "https://downtowner.co.kr/store/?category=2EFv204035",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "Officially listed Seoul branch of the Korean burger brand Downtowner.",
+      "lat": 37.5479324,
+      "lon": 126.92274,
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Current menu prices and precise unit/floor not independently confirmed"
+      ]
+    },
+    {
+      "id": "downtowner-yeouido",
+      "name": "Downtowner yeouido",
+      "ko": "다운타우너 여의도점",
+      "brand": "Downtowner",
+      "branch": "다운타우너 여의도점",
+      "cuisine": "western",
+      "cuisineVerified": "American-style burgers; official brand describes fast-premium burgers",
+      "address": "서울특별시 영등포구 여의대로 70 ONE CENTINEL",
+      "area": "yeouido",
+      "dishes": [
+        "fast"
+      ],
+      "sources": [
+        {
+          "title": "Downtowner official Seoul branch directory",
+          "url": "https://downtowner.co.kr/store/?category=2EFv204035"
+        },
+        {
+          "title": "Downtowner official brand introduction",
+          "url": "https://en.downtowner.co.kr/about"
+        }
+      ],
+      "photoUrl": "https://cdn.imweb.me/thumbnail/20260721/0dcc05b54b3e8.png",
+      "photoSourceUrl": "https://downtowner.co.kr/store/?category=2EFv204035",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "Officially listed Seoul branch of the Korean burger brand Downtowner.",
+      "lat": 37.5248417,
+      "lon": 126.9241972,
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Current menu prices and precise unit/floor not independently confirmed"
+      ]
+    },
+    {
+      "id": "downtowner-seolleung",
+      "name": "Downtowner seolleung",
+      "ko": "다운타우너 선릉점",
+      "brand": "Downtowner",
+      "branch": "다운타우너 선릉점",
+      "cuisine": "western",
+      "cuisineVerified": "American-style burgers; official brand describes fast-premium burgers",
+      "address": "서울특별시 강남구 테헤란로 327 빅토리아오피스텔",
+      "area": "gangnam",
+      "dishes": [
+        "fast"
+      ],
+      "sources": [
+        {
+          "title": "Downtowner official Seoul branch directory",
+          "url": "https://downtowner.co.kr/store/?category=2EFv204035"
+        },
+        {
+          "title": "Downtowner official brand introduction",
+          "url": "https://en.downtowner.co.kr/about"
+        }
+      ],
+      "photoUrl": "https://cdn.imweb.me/thumbnail/20260721/8fa72ee8ae80f.png",
+      "photoSourceUrl": "https://downtowner.co.kr/store/?category=2EFv204035",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "Officially listed Seoul branch of the Korean burger brand Downtowner.",
+      "lat": 37.5044278,
+      "lon": 127.047249,
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Current menu prices and precise unit/floor not independently confirmed"
+      ]
+    },
+    {
+      "id": "downtowner-gangnam",
+      "name": "Downtowner gangnam",
+      "ko": "다운타우너 강남점",
+      "brand": "Downtowner",
+      "branch": "다운타우너 강남점",
+      "cuisine": "western",
+      "cuisineVerified": "American-style burgers; official brand describes fast-premium burgers",
+      "address": "서울특별시 강남구 테헤란로1길 16",
+      "area": "gangnam",
+      "dishes": [
+        "fast"
+      ],
+      "sources": [
+        {
+          "title": "Downtowner official Seoul branch directory",
+          "url": "https://downtowner.co.kr/store/?category=2EFv204035"
+        },
+        {
+          "title": "Downtowner official brand introduction",
+          "url": "https://en.downtowner.co.kr/about"
+        }
+      ],
+      "photoUrl": "https://cdn.imweb.me/thumbnail/20260721/8bee46fbcedd7.png",
+      "photoSourceUrl": "https://downtowner.co.kr/store/?category=2EFv204035",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "Officially listed Seoul branch of the Korean burger brand Downtowner.",
+      "lat": 37.4994567,
+      "lon": 127.0279258,
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Current menu prices and precise unit/floor not independently confirmed"
+      ]
+    },
+    {
+      "id": "downtowner-gasan-public",
+      "name": "Downtowner gasan-public",
+      "ko": "다운타우너 가산 퍼블릭",
+      "brand": "Downtowner",
+      "branch": "다운타우너 가산 퍼블릭",
+      "cuisine": "western",
+      "cuisineVerified": "American-style burgers; official brand describes fast-premium burgers",
+      "address": "서울특별시 금천구 디지털로 178",
+      "area": "gasan-public",
+      "dishes": [
+        "fast"
+      ],
+      "sources": [
+        {
+          "title": "Downtowner official Seoul branch directory",
+          "url": "https://downtowner.co.kr/store/?category=2EFv204035"
+        },
+        {
+          "title": "Downtowner official brand introduction",
+          "url": "https://en.downtowner.co.kr/about"
+        }
+      ],
+      "photoUrl": "https://cdn.imweb.me/thumbnail/20240703/082924c0c9e09.jpg",
+      "photoSourceUrl": "https://downtowner.co.kr/store/?category=2EFv204035",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "Officially listed Seoul branch of the Korean burger brand Downtowner.",
+      "lat": 37.4766286,
+      "lon": 126.8871293,
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Current menu prices and precise unit/floor not independently confirmed"
+      ]
+    },
+    {
+      "id": "downtowner-gwanghwamun",
+      "name": "Downtowner gwanghwamun",
+      "ko": "다운타우너 광화문",
+      "brand": "Downtowner",
+      "branch": "다운타우너 광화문",
+      "cuisine": "western",
+      "cuisineVerified": "American-style burgers; official brand describes fast-premium burgers",
+      "address": "서울특별시 중구 세종대로 136 파이낸스빌딩",
+      "area": "myeongdong",
+      "dishes": [
+        "fast"
+      ],
+      "sources": [
+        {
+          "title": "Downtowner official Seoul branch directory",
+          "url": "https://downtowner.co.kr/store/?category=2EFv204035"
+        },
+        {
+          "title": "Downtowner official brand introduction",
+          "url": "https://en.downtowner.co.kr/about"
+        }
+      ],
+      "photoUrl": "https://cdn.imweb.me/thumbnail/20230817/deffbbc14a832.jpg",
+      "photoSourceUrl": "https://downtowner.co.kr/store/?category=2EFv204035",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "Officially listed Seoul branch of the Korean burger brand Downtowner.",
+      "lat": 37.5684246,
+      "lon": 126.9782701,
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Current menu prices and precise unit/floor not independently confirmed"
+      ]
+    },
+    {
+      "id": "downtowner-hannam",
+      "name": "Downtowner hannam",
+      "ko": "다운타우너 한남",
+      "brand": "Downtowner",
+      "branch": "다운타우너 한남",
+      "cuisine": "western",
+      "cuisineVerified": "American-style burgers; official brand describes fast-premium burgers",
+      "address": "서울특별시 용산구 대사관로5길 12",
+      "area": "hannam",
+      "dishes": [
+        "fast"
+      ],
+      "sources": [
+        {
+          "title": "Downtowner official Seoul branch directory",
+          "url": "https://downtowner.co.kr/store/?category=2EFv204035"
+        },
+        {
+          "title": "Downtowner official brand introduction",
+          "url": "https://en.downtowner.co.kr/about"
+        }
+      ],
+      "photoUrl": "https://cdn.imweb.me/thumbnail/20230420/3b14d67e97ee1.png",
+      "photoSourceUrl": "https://downtowner.co.kr/store/?category=2EFv204035",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "Officially listed Seoul branch of the Korean burger brand Downtowner.",
+      "lat": 37.5348589,
+      "lon": 127.000879,
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Current menu prices and precise unit/floor not independently confirmed"
+      ]
+    },
+    {
+      "id": "downtowner-cheongdam",
+      "name": "Downtowner cheongdam",
+      "ko": "다운타우너 청담",
+      "brand": "Downtowner",
+      "branch": "다운타우너 청담",
+      "cuisine": "western",
+      "cuisineVerified": "American-style burgers; official brand describes fast-premium burgers",
+      "address": "서울특별시 강남구 도산대로53길 14",
+      "area": "apgujeong",
+      "dishes": [
+        "fast"
+      ],
+      "sources": [
+        {
+          "title": "Downtowner official Seoul branch directory",
+          "url": "https://downtowner.co.kr/store/?category=2EFv204035"
+        },
+        {
+          "title": "Downtowner official brand introduction",
+          "url": "https://en.downtowner.co.kr/about"
+        }
+      ],
+      "photoUrl": "https://cdn.imweb.me/thumbnail/20230420/6fdcd5936717a.png",
+      "photoSourceUrl": "https://downtowner.co.kr/store/?category=2EFv204035",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "description": "Officially listed Seoul branch of the Korean burger brand Downtowner.",
+      "lat": 37.5240419,
+      "lon": 127.0385761,
+      "menuPrices": null,
+      "hours": null,
+      "verifiedAt": "2026-11-03",
+      "unresolved": [
+        "Current menu prices and precise unit/floor not independently confirmed"
+      ]
+    },
+    {
+      "id": "brooklyn-burger-seorae",
+      "name": "Brooklyn The Burger Joint Seorae",
+      "ko": "브루클린 더 버거 조인트",
+      "address": "서울특별시 서초구 동광로43길 51-13",
+      "area": "seocho",
+      "dishes": [
+        "fast"
+      ],
+      "sources": [
+        {
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=46227",
+          "title": "Korea Tourism Organization restaurant listing"
+        }
+      ],
+      "photoUrl": "https://tong.visitkorea.or.kr/cms/resource/15/2684415_image2_1.jpg",
+      "photoSourceUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=46227",
+      "description": "American-style burgers and fries.",
+      "cuisine": "western",
+      "cuisineVerified": "Source describes American or Mexican dishes",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "verifiedAt": "2026-11-03",
+      "menuPrices": null,
+      "hours": null,
+      "unresolved": [
+        "Current dine-in prices and opening hours not independently confirmed"
+      ]
+    },
+    {
+      "id": "taco-amigo",
+      "name": "Taco Amigo",
+      "ko": "타코 아미고",
+      "address": "서울 용산구 회나무로 13",
+      "area": "yongsan",
+      "dishes": [
+        "fast"
+      ],
+      "sources": [
+        {
+          "url": "https://english.visitseoul.net/area/Taco-Amigo/ENP001509",
+          "title": "Visit Seoul: Taco Amigo"
+        },
+        {
+          "url": "https://www.tacoamigokorea.com/taco-amigo-menu",
+          "title": "Taco Amigo official menu"
+        }
+      ],
+      "photoUrl": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=866&fileTy=MEDIA&fileNo=2&thumbTy=L",
+      "photoSourceUrl": "https://english.visitseoul.net/area/Taco-Amigo/ENP001509",
+      "description": "Mexican restaurant serving tacos, burritos and quesadillas.",
+      "cuisine": "western",
+      "cuisineVerified": "Source describes American or Mexican dishes",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "verifiedAt": "2026-11-03",
+      "menuPrices": null,
+      "hours": null,
+      "unresolved": [
+        "Current dine-in prices and opening hours not independently confirmed"
+      ]
+    },
+    {
+      "id": "jh-texas-bar",
+      "name": "JH Texas Bar",
+      "ko": null,
+      "address": "서울 중구 무교로 32 1층",
+      "area": "myeongdong",
+      "dishes": [
+        "fast",
+        "late"
+      ],
+      "sources": [
+        {
+          "url": "https://jhtexasbar-seoul.com/en/",
+          "title": "JH Texas Bar official site"
+        }
+      ],
+      "photoUrl": "https://jhtexasbar-seoul.com/images/1.webp",
+      "photoSourceUrl": "https://jhtexasbar-seoul.com/en/",
+      "description": "Tex-Mex bar serving fajitas, tacos, nachos and wings.",
+      "cuisine": "western",
+      "cuisineVerified": "Source describes American or Mexican dishes",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "verifiedAt": "2026-11-03",
+      "menuPrices": null,
+      "hours": null,
+      "unresolved": [
+        "Current dine-in prices and opening hours not independently confirmed"
+      ]
+    },
+    {
+      "id": "rocka-doodle-seongsu",
+      "name": "Rocka Doodle Nashville Hot Chicken Seongsu",
+      "ko": "롸카두들 내쉬빌 핫치킨 성수점",
+      "address": "서울 성동구 성수일로4길 25",
+      "area": "seongsu",
+      "dishes": [
+        "fast",
+        "chicken"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tabling.co.kr/place/677cd05c66de5f069885ed18",
+          "title": "Tabling restaurant listing"
+        }
+      ],
+      "photoUrl": "https://polle-image.tabling.co.kr/posts/RfmpTdROT45p_2sT-K7LvA.jpg",
+      "photoSourceUrl": "https://www.tabling.co.kr/place/677cd05c66de5f069885ed18",
+      "description": "Nashville-style hot chicken burgers at the Seongsu branch.",
+      "cuisine": "western",
+      "cuisineVerified": "Source describes American or Mexican dishes",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "verifiedAt": "2026-11-03",
+      "menuPrices": null,
+      "hours": null,
+      "unresolved": [
+        "Current dine-in prices and opening hours not independently confirmed"
+      ]
+    },
+    {
+      "id": "low-slow",
+      "name": "Low & Slow",
+      "ko": "로우앤슬로우",
+      "address": "서울 용산구 보광로 126",
+      "area": "yongsan",
+      "dishes": [
+        "bbq"
+      ],
+      "sources": [
+        {
+          "url": "https://www.tabling.co.kr/place/677ccd2566de5f06988075d1",
+          "title": "Tabling restaurant listing"
+        }
+      ],
+      "photoUrl": "https://polle-image.tabling.co.kr/posts/pmo5fbvYpdoD2c-T9AkRpg.jpg",
+      "photoSourceUrl": "https://www.tabling.co.kr/place/677ccd2566de5f06988075d1",
+      "description": "Texas-style smoked barbecue and platters.",
+      "cuisine": "western",
+      "cuisineVerified": "Source describes American or Mexican dishes",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "verifiedAt": "2026-11-03",
+      "menuPrices": null,
+      "hours": null,
+      "unresolved": [
+        "Current dine-in prices and opening hours not independently confirmed"
+      ]
+    },
+    {
+      "id": "linus-bbq",
+      "name": "Linus BBQ",
+      "ko": "라이너스 바베큐",
+      "address": "서울 용산구 이태원로 136-13 1층",
+      "area": "yongsan",
+      "dishes": [
+        "bbq"
+      ],
+      "sources": [
+        {
+          "url": "https://polle.com/place/4i8xdR/%EB%9D%BC%EC%9D%B4%EB%84%88%EC%8A%A4%20%EB%B0%94%EB%B2%A0%ED%81%90",
+          "title": "Polle restaurant listing; Shuttle merchant catering page"
+        },
+        {
+          "url": "https://partners.shuttledelivery.co.kr/grouporders/linus-bbq",
+          "title": "Shuttle partner catering menu for Linus BBQ"
+        }
+      ],
+      "photoUrl": "https://cdn.prod.website-files.com/652931cdcd18e3e8b8039e34/652931cdcd18e3e8b8039f2c_Main%20LinusBBQ.jpg",
+      "photoSourceUrl": "https://partners.shuttledelivery.co.kr/grouporders/linus-bbq",
+      "description": "American barbecue with pulled pork, brisket, ribs and sandwiches.",
+      "cuisine": "western",
+      "cuisineVerified": "Source describes American or Mexican dishes",
+      "photoLicense": "Attribution source recorded; image reuse rights not independently confirmed",
+      "verifiedAt": "2026-11-03",
+      "menuPrices": null,
+      "hours": null,
+      "unresolved": [
+        "Current dine-in prices and opening hours not independently confirmed"
+      ]
+    }
+  ],
+  "errors": [],
+  "checkedAt": "2026-11-03"
+}

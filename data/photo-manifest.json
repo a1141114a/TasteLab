@@ -1,0 +1,3572 @@
+[
+  {
+    "id": "mukjung",
+    "localPath": "assets/photos/mukjung.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/266f8b6789194066b02ef8a975e5a72b.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 67510
+  },
+  {
+    "id": "haobin",
+    "localPath": "assets/photos/haobin.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/2885652cf8a94f4b84020d5d7d417d30.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 65048
+  },
+  {
+    "id": "sobajuu",
+    "localPath": "assets/photos/sobajuu.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/f7009b5e791545e099e63f1e7b2d0961.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 84936
+  },
+  {
+    "id": "horapa",
+    "localPath": "assets/photos/horapa.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/229e830a15e94c338903379524afaaf0.jpg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 220096
+  },
+  {
+    "id": "pierre-gagnaire",
+    "localPath": "assets/photos/pierre-gagnaire.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/cf01a94e8aa64cc4b44819fc6dc5d08d.jpg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 72166
+  },
+  {
+    "id": "egg-flour",
+    "localPath": "assets/photos/egg-flour.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/4241c36f01624147ab178e3a3ce8a74d.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 169122
+  },
+  {
+    "id": "escondido",
+    "localPath": "assets/photos/escondido.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/055e370c72e546b4935c77a91a438d8b.jpg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 64466
+  },
+  {
+    "id": "phomein-144",
+    "localPath": "assets/photos/phomein-144.webp",
+    "sourceUrl": "https://phomein.com/upload/store/20210416/20210416142623021141.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 750,
+    "bytes": 106770
+  },
+  {
+    "id": "vs-kopp1q4s4",
+    "localPath": "assets/photos/vs-kopp1q4s4.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=73733&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 49178
+  },
+  {
+    "id": "vs-kop020257",
+    "localPath": "assets/photos/vs-kop020257.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=20257&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 480,
+    "height": 343,
+    "bytes": 21912
+  },
+  {
+    "id": "vs-kop026194",
+    "localPath": "assets/photos/vs-kop026194.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=60554&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 700,
+    "height": 500,
+    "bytes": 38422
+  },
+  {
+    "id": "vs-kop029956",
+    "localPath": "assets/photos/vs-kop029956.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=17505&fileTy=MEDIA&fileNo=2",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 55974
+  },
+  {
+    "id": "vs-kopxj8t3x",
+    "localPath": "assets/photos/vs-kopxj8t3x.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=73210&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 54770
+  },
+  {
+    "id": "vs-kop012851",
+    "localPath": "assets/photos/vs-kop012851.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=78103&fileTy=MEDIA&fileNo=2",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 68058
+  },
+  {
+    "id": "mugunghwa",
+    "localPath": "assets/photos/mugunghwa.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/1e63c7161f0e44f99365eb43a2b0f0db.jpg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 37634
+  },
+  {
+    "id": "toh-lim",
+    "localPath": "assets/photos/toh-lim.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/18c878cf3fb349c7b11039d3f977a455.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 65918
+  },
+  {
+    "id": "hakusi",
+    "localPath": "assets/photos/hakusi.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/d93b5de257704c199443ae7931f46162.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 172794
+  },
+  {
+    "id": "youhan",
+    "localPath": "assets/photos/youhan.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/e9b23b360b1b498bb079007d7d9722ab.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 128260
+  },
+  {
+    "id": "continental",
+    "localPath": "assets/photos/continental.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/09396fbf87dc4087b5deb035f9b12c3a.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 71046
+  },
+  {
+    "id": "borgo-hannam",
+    "localPath": "assets/photos/borgo-hannam.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/72bfc5934813417790a733a83bbb2d2b.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 102148
+  },
+  {
+    "id": "mattdol",
+    "localPath": "assets/photos/mattdol.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/d3547ada8b604474882354fea11cf395.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 357862
+  },
+  {
+    "id": "phomein-202",
+    "localPath": "assets/photos/phomein-202.webp",
+    "sourceUrl": "https://phomein.com/upload/store/20210713/20210713160132572142.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 580,
+    "height": 370,
+    "bytes": 19536
+  },
+  {
+    "id": "vs-kop019657",
+    "localPath": "assets/photos/vs-kop019657.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=60358&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 700,
+    "height": 500,
+    "bytes": 73632
+  },
+  {
+    "id": "vs-kop039729",
+    "localPath": "assets/photos/vs-kop039729.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=39729&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 480,
+    "height": 343,
+    "bytes": 30580
+  },
+  {
+    "id": "vs-kopxtexu0",
+    "localPath": "assets/photos/vs-kopxtexu0.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=73011&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 50178
+  },
+  {
+    "id": "vs-kopymfreb",
+    "localPath": "assets/photos/vs-kopymfreb.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=65203&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 285,
+    "height": 210,
+    "bytes": 10066
+  },
+  {
+    "id": "vs-kop022831",
+    "localPath": "assets/photos/vs-kop022831.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=22831&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 480,
+    "height": 343,
+    "bytes": 33096
+  },
+  {
+    "id": "vs-kop010447",
+    "localPath": "assets/photos/vs-kop010447.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=76153&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 29068
+  },
+  {
+    "id": "la-yeon",
+    "localPath": "assets/photos/la-yeon.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/f9a0825d0a6b4974bb1e8ca3ac276562.jpg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 41284
+  },
+  {
+    "id": "yu-yuan",
+    "localPath": "assets/photos/yu-yuan.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/5fa2110a2cd34151ac9d1d3791f1b374.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 53368
+  },
+  {
+    "id": "kirameki",
+    "localPath": "assets/photos/kirameki.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/36a0a40c2cdd4953b760f844dd39fdfd.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 84326
+  },
+  {
+    "id": "manao",
+    "localPath": "assets/photos/manao.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/f3bd689498124f4d99d3b85e69997297.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 80822
+  },
+  {
+    "id": "the-ninth-gate",
+    "localPath": "assets/photos/the-ninth-gate.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/453f497af4704188b74880f6eccf9541.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 66250
+  },
+  {
+    "id": "osteria-orzo",
+    "localPath": "assets/photos/osteria-orzo.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/8489a9cd7614477488641683fe1a9e61.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 129066
+  },
+  {
+    "id": "downtowner-hanti",
+    "localPath": "assets/photos/downtowner-hanti.webp",
+    "sourceUrl": "https://cdn.imweb.me/thumbnail/20260721/dc8f5b744017d.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 160,
+    "height": 160,
+    "bytes": 8240
+  },
+  {
+    "id": "phomein-350",
+    "localPath": "assets/photos/phomein-350.webp",
+    "sourceUrl": "https://phomein.com/upload/store/20240903/20240903152558596050.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 750,
+    "bytes": 126036
+  },
+  {
+    "id": "vs-kop028050",
+    "localPath": "assets/photos/vs-kop028050.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=60239&fileTy=MEDIA&fileNo=2",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 714,
+    "bytes": 130550
+  },
+  {
+    "id": "vs-kop013534",
+    "localPath": "assets/photos/vs-kop013534.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=72889&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 19594
+  },
+  {
+    "id": "vs-kop014415",
+    "localPath": "assets/photos/vs-kop014415.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=14419&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 665,
+    "height": 442,
+    "bytes": 51438
+  },
+  {
+    "id": "vs-kop006014",
+    "localPath": "assets/photos/vs-kop006014.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=6016&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 664,
+    "height": 498,
+    "bytes": 84914
+  },
+  {
+    "id": "vs-kop011005",
+    "localPath": "assets/photos/vs-kop011005.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=5476&fileTy=MEDIA&fileNo=2",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 714,
+    "bytes": 89532
+  },
+  {
+    "id": "vs-kopwmqzyh",
+    "localPath": "assets/photos/vs-kopwmqzyh.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=67787&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 600,
+    "height": 400,
+    "bytes": 26680
+  },
+  {
+    "id": "halmaejip",
+    "localPath": "assets/photos/halmaejip.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/b3f6856e03c44de18f3ce2702803dff1.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 124014
+  },
+  {
+    "id": "jue",
+    "localPath": "assets/photos/jue.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/daf7216944dc434da503dc09a67bb76d.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 87274
+  },
+  {
+    "id": "gaggen",
+    "localPath": "assets/photos/gaggen.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/e364f31f9b8c45f5b3632580a478c1da.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 75346
+  },
+  {
+    "id": "thai-thaiselect06",
+    "localPath": "assets/photos/thai-thaiselect06.webp",
+    "sourceUrl": "https://glysdwhvbtlxgpwjoaoq.supabase.co/storage/v1/object/public/restaurant-photos/b61d27f1-20c2-44f8-b1b1-e5a980d30593/eedc64ae-ec03-4aa9-9125-979426aeddf6.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 657,
+    "bytes": 146112
+  },
+  {
+    "id": "moulin",
+    "localPath": "assets/photos/moulin.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/67e2ecb781144a2eb09bee2cee685d27.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 89148
+  },
+  {
+    "id": "rialto",
+    "localPath": "assets/photos/rialto.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/5ae983c2869941fba7b11a8deb159a12.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 64946
+  },
+  {
+    "id": "downtowner-magok",
+    "localPath": "assets/photos/downtowner-magok.webp",
+    "sourceUrl": "https://cdn.imweb.me/thumbnail/20260721/18ab20493343d.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 160,
+    "height": 160,
+    "bytes": 8342
+  },
+  {
+    "id": "phomein-351",
+    "localPath": "assets/photos/phomein-351.webp",
+    "sourceUrl": "https://phomein.com/upload/store/20241101/20241101170835128005.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 771,
+    "bytes": 125256
+  },
+  {
+    "id": "vs-kop012772",
+    "localPath": "assets/photos/vs-kop012772.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=12772&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 400,
+    "height": 267,
+    "bytes": 19444
+  },
+  {
+    "id": "vs-kop020587",
+    "localPath": "assets/photos/vs-kop020587.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=20587&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 480,
+    "height": 343,
+    "bytes": 39006
+  },
+  {
+    "id": "vs-kop028351",
+    "localPath": "assets/photos/vs-kop028351.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=60394&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 700,
+    "height": 500,
+    "bytes": 45396
+  },
+  {
+    "id": "vs-kopnrdr6z",
+    "localPath": "assets/photos/vs-kopnrdr6z.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=59746&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 285,
+    "height": 210,
+    "bytes": 22630
+  },
+  {
+    "id": "vs-kop014630",
+    "localPath": "assets/photos/vs-kop014630.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=14630&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 665,
+    "height": 443,
+    "bytes": 58966
+  },
+  {
+    "id": "vs-kophrnovc",
+    "localPath": "assets/photos/vs-kophrnovc.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=81290&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 38230
+  },
+  {
+    "id": "restaurant-jueun",
+    "localPath": "assets/photos/restaurant-jueun.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/a2aa82e68f6146d5b0bd455eca0bfa15.jpg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 76318
+  },
+  {
+    "id": "zhonghuafuchun-salon",
+    "localPath": "assets/photos/zhonghuafuchun-salon.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/65a0c0a4ed8d426296d667bd3c3bbf82.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 83380
+  },
+  {
+    "id": "mitou",
+    "localPath": "assets/photos/mitou.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/445960fc5aeb44d58ad640649a04c701.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 60302
+  },
+  {
+    "id": "thai-thaiselect01",
+    "localPath": "assets/photos/thai-thaiselect01.webp",
+    "sourceUrl": "https://glysdwhvbtlxgpwjoaoq.supabase.co/storage/v1/object/public/restaurant-photos/435c4010-670e-48c4-b74c-09cddbef3b87/4f9f58da-cb9c-401f-bea5-f82d2e9147a8.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 750,
+    "bytes": 111054
+  },
+  {
+    "id": "chez-simon",
+    "localPath": "assets/photos/chez-simon.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/0e6b3e066dfb4bc890b8faea82032007.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 51194
+  },
+  {
+    "id": "trattoria-romagna",
+    "localPath": "assets/photos/trattoria-romagna.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/6c177ac94f0848fb9f0280ad4d74d6c9.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 165446
+  },
+  {
+    "id": "downtowner-sangsu",
+    "localPath": "assets/photos/downtowner-sangsu.webp",
+    "sourceUrl": "https://cdn.imweb.me/thumbnail/20260721/569cebf097728.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 160,
+    "height": 160,
+    "bytes": 7604
+  },
+  {
+    "id": "phomein-345",
+    "localPath": "assets/photos/phomein-345.webp",
+    "sourceUrl": "https://phomein.com/upload/store/20230428/20230428180251427094.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 637,
+    "bytes": 104114
+  },
+  {
+    "id": "vs-kop014555",
+    "localPath": "assets/photos/vs-kop014555.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=76485&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 51620
+  },
+  {
+    "id": "vs-kop015860",
+    "localPath": "assets/photos/vs-kop015860.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=15860&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 400,
+    "height": 266,
+    "bytes": 30606
+  },
+  {
+    "id": "vs-kop006661",
+    "localPath": "assets/photos/vs-kop006661.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=6661&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 665,
+    "height": 443,
+    "bytes": 55984
+  },
+  {
+    "id": "vs-kopqjj3mi",
+    "localPath": "assets/photos/vs-kopqjj3mi.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=61011&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 285,
+    "height": 210,
+    "bytes": 17734
+  },
+  {
+    "id": "vs-kopnownn2",
+    "localPath": "assets/photos/vs-kopnownn2.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=60579&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 700,
+    "height": 500,
+    "bytes": 49724
+  },
+  {
+    "id": "vs-kop012846",
+    "localPath": "assets/photos/vs-kop012846.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=12850&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 664,
+    "height": 498,
+    "bytes": 35458
+  },
+  {
+    "id": "onjium",
+    "localPath": "assets/photos/onjium.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/3736579f7a9949b4a47834df583bb065.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 96792
+  },
+  {
+    "id": "jin-jin",
+    "localPath": "assets/photos/jin-jin.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/d9c6f73705a94015b96f417a421f7b03.jpg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 78716
+  },
+  {
+    "id": "sanro",
+    "localPath": "assets/photos/sanro.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/fc0b2fca8a0147ef8e5700167632bb45.jpg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 76248
+  },
+  {
+    "id": "thai-thaiselect39",
+    "localPath": "assets/photos/thai-thaiselect39.webp",
+    "sourceUrl": "https://glysdwhvbtlxgpwjoaoq.supabase.co/storage/v1/object/public/restaurant-photos/d3f1cbb9-b8a1-4c65-817e-4b8eb793d086/400f7d7f-f3ac-4b27-8e5e-6ec3f44a5e24.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 153224
+  },
+  {
+    "id": "chez-nous",
+    "localPath": "assets/photos/chez-nous.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/6ffc2c08cb364536a28cdafd03427982.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 28002
+  },
+  {
+    "id": "doughroom",
+    "localPath": "assets/photos/doughroom.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/75a95a40e3944d18bf11dcd304bdab8d.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 81714
+  },
+  {
+    "id": "downtowner-yeouido",
+    "localPath": "assets/photos/downtowner-yeouido.webp",
+    "sourceUrl": "https://cdn.imweb.me/thumbnail/20260721/0dcc05b54b3e8.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 160,
+    "height": 160,
+    "bytes": 5792
+  },
+  {
+    "id": "phomein-349",
+    "localPath": "assets/photos/phomein-349.webp",
+    "sourceUrl": "https://phomein.com/upload/store/20240628/20240628170518996102.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 500,
+    "height": 375,
+    "bytes": 41714
+  },
+  {
+    "id": "vs-kop005560",
+    "localPath": "assets/photos/vs-kop005560.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=5563&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 664,
+    "height": 498,
+    "bytes": 47010
+  },
+  {
+    "id": "vs-kop006613",
+    "localPath": "assets/photos/vs-kop006613.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=60534&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 700,
+    "height": 500,
+    "bytes": 69808
+  },
+  {
+    "id": "vs-kop003603",
+    "localPath": "assets/photos/vs-kop003603.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=3603&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 700,
+    "height": 500,
+    "bytes": 38002
+  },
+  {
+    "id": "vs-kop3qxuik",
+    "localPath": "assets/photos/vs-kop3qxuik.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=79802&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 38440
+  },
+  {
+    "id": "vs-kop014615",
+    "localPath": "assets/photos/vs-kop014615.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=14616&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 480,
+    "height": 320,
+    "bytes": 23464
+  },
+  {
+    "id": "vs-kop004984",
+    "localPath": "assets/photos/vs-kop004984.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=4984&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 665,
+    "height": 443,
+    "bytes": 62006
+  },
+  {
+    "id": "andeok",
+    "localPath": "assets/photos/andeok.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/60b0825f43ff4f2f80b19e1ef42b43fa.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 190314
+  },
+  {
+    "id": "dintaifung-myungdong",
+    "localPath": "assets/photos/dintaifung-myungdong.webp",
+    "sourceUrl": "https://www.dintaifung.co.kr/asset/img/store/img_myungdong_new_store01.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 562,
+    "bytes": 105514
+  },
+  {
+    "id": "sosuheon",
+    "localPath": "assets/photos/sosuheon.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/c287df347b474c60a0730f907a89ff2b.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 53776
+  },
+  {
+    "id": "thai-thaiselect05",
+    "localPath": "assets/photos/thai-thaiselect05.webp",
+    "sourceUrl": "https://glysdwhvbtlxgpwjoaoq.supabase.co/storage/v1/object/public/restaurant-photos/707b79bc-990c-40ef-9b88-484b3483001b/39d7b29f-5107-4980-af35-fd24ee7f3539.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 611,
+    "bytes": 137892
+  },
+  {
+    "id": "au-bouillon",
+    "localPath": "assets/photos/au-bouillon.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/d90f865642044058aa00d98480ed5a88.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 106190
+  },
+  {
+    "id": "il-vecchio",
+    "localPath": "assets/photos/il-vecchio.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/3b9917515d434053b042fdd7e6b1eb4e.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 72746
+  },
+  {
+    "id": "downtowner-seolleung",
+    "localPath": "assets/photos/downtowner-seolleung.webp",
+    "sourceUrl": "https://cdn.imweb.me/thumbnail/20260721/8fa72ee8ae80f.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 160,
+    "height": 160,
+    "bytes": 6972
+  },
+  {
+    "id": "phomein-295",
+    "localPath": "assets/photos/phomein-295.webp",
+    "sourceUrl": "https://phomein.com/upload/store/20200309/20200309094101357086.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 580,
+    "height": 370,
+    "bytes": 28046
+  },
+  {
+    "id": "vs-kop001077",
+    "localPath": "assets/photos/vs-kop001077.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=1077&fileTy=POSTTHUMB&fileNo=2",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 700,
+    "height": 500,
+    "bytes": 42628
+  },
+  {
+    "id": "vs-kop000979",
+    "localPath": "assets/photos/vs-kop000979.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=979&fileTy=POSTTHUMB&fileNo=2",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 700,
+    "height": 500,
+    "bytes": 126380
+  },
+  {
+    "id": "vs-kop040794",
+    "localPath": "assets/photos/vs-kop040794.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=40794&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 480,
+    "height": 354,
+    "bytes": 26236
+  },
+  {
+    "id": "vs-kopbtqjse",
+    "localPath": "assets/photos/vs-kopbtqjse.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=78591&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 667,
+    "bytes": 140542
+  },
+  {
+    "id": "vs-kop006052",
+    "localPath": "assets/photos/vs-kop006052.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=83743&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 285,
+    "height": 210,
+    "bytes": 12360
+  },
+  {
+    "id": "vs-kop006262",
+    "localPath": "assets/photos/vs-kop006262.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=6262&fileTy=POSTTHUMB&fileNo=2",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 480,
+    "height": 320,
+    "bytes": 35384
+  },
+  {
+    "id": "mr-ahn-s-craft-makgeolli-1192580",
+    "localPath": "assets/photos/mr-ahn-s-craft-makgeolli-1192580.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/1490ae1399b54648bceae4897a82167e.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 99976
+  },
+  {
+    "id": "dintaifung-gangnam",
+    "localPath": "assets/photos/dintaifung-gangnam.webp",
+    "sourceUrl": "https://www.dintaifung.co.kr/asset/img/store/img_gangnam_store01.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 507,
+    "height": 492,
+    "bytes": 52588
+  },
+  {
+    "id": "hane",
+    "localPath": "assets/photos/hane.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/78d8edbf8cd74d7b91ed2ed899977c5d.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 49120
+  },
+  {
+    "id": "thai-thaiselect27",
+    "localPath": "assets/photos/thai-thaiselect27.webp",
+    "sourceUrl": "https://glysdwhvbtlxgpwjoaoq.supabase.co/storage/v1/object/public/restaurant-photos/56f808e7-c7f0-46ad-85ef-4ed5408545c5/32c6235d-7cdc-487a-bb29-36720a37b94b.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 750,
+    "bytes": 128610
+  },
+  {
+    "id": "l-oignon",
+    "localPath": "assets/photos/l-oignon.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/be3681b943524d94a64e30f1a92a283d.jpg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 50694
+  },
+  {
+    "id": "smith-likes-hanok",
+    "localPath": "assets/photos/smith-likes-hanok.webp",
+    "sourceUrl": "https://tong.visitkorea.or.kr/cms/resource/26/1947026_image2_1.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 500,
+    "height": 333,
+    "bytes": 21510
+  },
+  {
+    "id": "downtowner-gangnam",
+    "localPath": "assets/photos/downtowner-gangnam.webp",
+    "sourceUrl": "https://cdn.imweb.me/thumbnail/20260721/8bee46fbcedd7.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 160,
+    "height": 160,
+    "bytes": 5932
+  },
+  {
+    "id": "phomein-143",
+    "localPath": "assets/photos/phomein-143.webp",
+    "sourceUrl": "https://phomein.com/upload/store/20210709/20210709143911498060.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 580,
+    "height": 370,
+    "bytes": 46802
+  },
+  {
+    "id": "vs-kop029721",
+    "localPath": "assets/photos/vs-kop029721.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=60116&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 700,
+    "height": 500,
+    "bytes": 49316
+  },
+  {
+    "id": "vs-kop025376",
+    "localPath": "assets/photos/vs-kop025376.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=60559&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 700,
+    "height": 500,
+    "bytes": 28088
+  },
+  {
+    "id": "vs-kop042263",
+    "localPath": "assets/photos/vs-kop042263.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=42263&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 480,
+    "height": 343,
+    "bytes": 35088
+  },
+  {
+    "id": "vs-kopb49ucp",
+    "localPath": "assets/photos/vs-kopb49ucp.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=75065&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 14994
+  },
+  {
+    "id": "vs-kop010608",
+    "localPath": "assets/photos/vs-kop010608.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=60374&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 700,
+    "height": 500,
+    "bytes": 57028
+  },
+  {
+    "id": "vs-kop013554",
+    "localPath": "assets/photos/vs-kop013554.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=13556&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 595,
+    "height": 485,
+    "bytes": 28718
+  },
+  {
+    "id": "sool052",
+    "localPath": "assets/photos/sool052.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/25ccca33acca41f9b9945c20cd2c3be8.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 40356
+  },
+  {
+    "id": "dintaifung-lottegimpo",
+    "localPath": "assets/photos/dintaifung-lottegimpo.webp",
+    "sourceUrl": "https://www.dintaifung.co.kr/asset/img/store/img_lottegimpo_store01.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 850,
+    "height": 493,
+    "bytes": 62588
+  },
+  {
+    "id": "sushi-matsumoto-1195338",
+    "localPath": "assets/photos/sushi-matsumoto-1195338.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/e6031286fd0b466a90940352176deab7.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 63204
+  },
+  {
+    "id": "thai-thaiselect23",
+    "localPath": "assets/photos/thai-thaiselect23.webp",
+    "sourceUrl": "https://glysdwhvbtlxgpwjoaoq.supabase.co/storage/v1/object/public/restaurant-photos/3a355429-0a6d-4e49-8641-68f93c5ca5fa/31f5fb55-5e9e-42c1-a215-93d6dd6489bb.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 656,
+    "bytes": 93080
+  },
+  {
+    "id": "bistrot-de-yountville",
+    "localPath": "assets/photos/bistrot-de-yountville.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/99ed30f6164b49d69d995b9391570117.jpg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 80620
+  },
+  {
+    "id": "la-cantina",
+    "localPath": "assets/photos/la-cantina.webp",
+    "sourceUrl": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=67786&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 600,
+    "height": 393,
+    "bytes": 35354
+  },
+  {
+    "id": "downtowner-gasan-public",
+    "localPath": "assets/photos/downtowner-gasan-public.webp",
+    "sourceUrl": "https://cdn.imweb.me/thumbnail/20240703/082924c0c9e09.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 160,
+    "height": 160,
+    "bytes": 8618
+  },
+  {
+    "id": "phomein-150",
+    "localPath": "assets/photos/phomein-150.webp",
+    "sourceUrl": "https://phomein.com/upload/store/20210709/20210709144018350064.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 580,
+    "height": 370,
+    "bytes": 30994
+  },
+  {
+    "id": "vs-kop038024",
+    "localPath": "assets/photos/vs-kop038024.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=38024&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 480,
+    "height": 343,
+    "bytes": 50708
+  },
+  {
+    "id": "vs-kop015409",
+    "localPath": "assets/photos/vs-kop015409.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=15409&fileTy=POSTTHUMB&fileNo=2",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 400,
+    "height": 254,
+    "bytes": 19098
+  },
+  {
+    "id": "vs-kopjnkjzo",
+    "localPath": "assets/photos/vs-kopjnkjzo.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=71878&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 286,
+    "height": 210,
+    "bytes": 9948
+  },
+  {
+    "id": "vs-kopkguc3l",
+    "localPath": "assets/photos/vs-kopkguc3l.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=81709&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 28292
+  },
+  {
+    "id": "vs-kop028053",
+    "localPath": "assets/photos/vs-kop028053.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=60259&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 700,
+    "height": 500,
+    "bytes": 63098
+  },
+  {
+    "id": "vs-kop007870",
+    "localPath": "assets/photos/vs-kop007870.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=7870&fileTy=POSTTHUMB&fileNo=2",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 700,
+    "height": 500,
+    "bytes": 44234
+  },
+  {
+    "id": "soseoul-hannam",
+    "localPath": "assets/photos/soseoul-hannam.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/e9d0a7c2d3464d7ca1e9c4353aaced74.jpg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 44086
+  },
+  {
+    "id": "dintaifung-timessquare",
+    "localPath": "assets/photos/dintaifung-timessquare.webp",
+    "sourceUrl": "https://www.dintaifung.co.kr/asset/img/store/img_timessquare_new_store01.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 562,
+    "bytes": 55604
+  },
+  {
+    "id": "sushi-kanesaka-1244365",
+    "localPath": "assets/photos/sushi-kanesaka-1244365.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/83a2f69c23064ab3a30277198023e13e.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 51430
+  },
+  {
+    "id": "thai-thaiselect24",
+    "localPath": "assets/photos/thai-thaiselect24.webp",
+    "sourceUrl": "https://glysdwhvbtlxgpwjoaoq.supabase.co/storage/v1/object/public/restaurant-photos/4e0fc28e-a5c8-460f-9284-032a92b55dc0/42be042b-6304-41a5-b368-5d3c0a05a31b.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 992,
+    "height": 556,
+    "bytes": 94322
+  },
+  {
+    "id": "l-amitie",
+    "localPath": "assets/photos/l-amitie.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/86b6a364fcab4bdbb4d664a003b67eb9.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 55164
+  },
+  {
+    "id": "cavallo-bianco",
+    "localPath": "assets/photos/cavallo-bianco.webp",
+    "sourceUrl": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=2983&fileTy=MEDIA&fileNo=2&thumbTy=L",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 800,
+    "height": 571,
+    "bytes": 83628
+  },
+  {
+    "id": "downtowner-gwanghwamun",
+    "localPath": "assets/photos/downtowner-gwanghwamun.webp",
+    "sourceUrl": "https://cdn.imweb.me/thumbnail/20230817/deffbbc14a832.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 160,
+    "height": 160,
+    "bytes": 11230
+  },
+  {
+    "id": "phomein-157",
+    "localPath": "assets/photos/phomein-157.webp",
+    "sourceUrl": "https://phomein.com/upload/store/20210713/20210713161450190166.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 580,
+    "height": 370,
+    "bytes": 32186
+  },
+  {
+    "id": "vs-kop006277",
+    "localPath": "assets/photos/vs-kop006277.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=3485&fileTy=MEDIA&fileNo=2",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 714,
+    "bytes": 52598
+  },
+  {
+    "id": "vs-kop020585",
+    "localPath": "assets/photos/vs-kop020585.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=20585&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 480,
+    "height": 343,
+    "bytes": 42378
+  },
+  {
+    "id": "vs-kopcmzo8u",
+    "localPath": "assets/photos/vs-kopcmzo8u.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=73230&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 53464
+  },
+  {
+    "id": "vs-kopzrztmb",
+    "localPath": "assets/photos/vs-kopzrztmb.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=68434&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 285,
+    "height": 210,
+    "bytes": 10282
+  },
+  {
+    "id": "vs-koptdvr6c",
+    "localPath": "assets/photos/vs-koptdvr6c.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=60124&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 700,
+    "height": 500,
+    "bytes": 78672
+  },
+  {
+    "id": "vs-kop013807",
+    "localPath": "assets/photos/vs-kop013807.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=13808&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 665,
+    "height": 444,
+    "bytes": 35856
+  },
+  {
+    "id": "oilje",
+    "localPath": "assets/photos/oilje.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/9b6f08055a864528a3ce092ccbb85d88.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 101946
+  },
+  {
+    "id": "dintaifung-lotteworldmall",
+    "localPath": "assets/photos/dintaifung-lotteworldmall.webp",
+    "sourceUrl": "https://www.dintaifung.co.kr/asset/img/store/img_lotteworldmall_store00.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 562,
+    "bytes": 67118
+  },
+  {
+    "id": "nishimuramen",
+    "localPath": "assets/photos/nishimuramen.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/ba6fb98b75b04ffea4625cb1b8e536b9.jpg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 56952
+  },
+  {
+    "id": "thai-thaiselect25",
+    "localPath": "assets/photos/thai-thaiselect25.webp",
+    "sourceUrl": "https://glysdwhvbtlxgpwjoaoq.supabase.co/storage/v1/object/public/restaurant-photos/efb4f6fa-7372-4c33-b7cf-af6980a5fe9b/f600a4e4-f60a-4555-8cab-81312b2653a8.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 750,
+    "bytes": 120136
+  },
+  {
+    "id": "onyva",
+    "localPath": "assets/photos/onyva.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/476d8771c68c4c1794bf7277466d3d64.jpg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 109434
+  },
+  {
+    "id": "italy-two-story-house",
+    "localPath": "assets/photos/italy-two-story-house.webp",
+    "sourceUrl": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=74198&fileTy=MEDIA&fileNo=1&thumbTy=L",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 800,
+    "height": 571,
+    "bytes": 85068
+  },
+  {
+    "id": "downtowner-hannam",
+    "localPath": "assets/photos/downtowner-hannam.webp",
+    "sourceUrl": "https://cdn.imweb.me/thumbnail/20230420/3b14d67e97ee1.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 160,
+    "height": 160,
+    "bytes": 7576
+  },
+  {
+    "id": "phomein-321",
+    "localPath": "assets/photos/phomein-321.webp",
+    "sourceUrl": "https://phomein.com/upload/store/20220418/20220418195950982109.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 637,
+    "bytes": 72734
+  },
+  {
+    "id": "vs-kop038319",
+    "localPath": "assets/photos/vs-kop038319.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=38319&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 480,
+    "height": 343,
+    "bytes": 37270
+  },
+  {
+    "id": "vs-kop039840",
+    "localPath": "assets/photos/vs-kop039840.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=61119&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 285,
+    "height": 210,
+    "bytes": 13528
+  },
+  {
+    "id": "mercato521-parnas",
+    "localPath": "assets/photos/mercato521-parnas.webp",
+    "sourceUrl": "https://seoul.intercontinental.com/resources/1768450285554-60fc2400ff4d4c28a2772f9263f6f3ba.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 562,
+    "bytes": 63192
+  },
+  {
+    "id": "vs-kop7mfot9",
+    "localPath": "assets/photos/vs-kop7mfot9.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=70826&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 700,
+    "height": 500,
+    "bytes": 126414
+  },
+  {
+    "id": "vs-kop042261",
+    "localPath": "assets/photos/vs-kop042261.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=42261&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 480,
+    "height": 343,
+    "bytes": 38696
+  },
+  {
+    "id": "doori",
+    "localPath": "assets/photos/doori.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/f46d4fcf380943d895eb60ff9dc7b65c.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 61414
+  },
+  {
+    "id": "palsun",
+    "localPath": "assets/photos/palsun.webp",
+    "sourceUrl": "https://www.shillahotels.com/hbcimages/260529/20260529163545_4c0f1e0d-8aab-4be1-aa91-c643e1fd0c63.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 500,
+    "bytes": 48902
+  },
+  {
+    "id": "sarukame",
+    "localPath": "assets/photos/sarukame.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/338711fcc69b45849c02c3122637092a.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 112252
+  },
+  {
+    "id": "thai-thaiselect26",
+    "localPath": "assets/photos/thai-thaiselect26.webp",
+    "sourceUrl": "https://glysdwhvbtlxgpwjoaoq.supabase.co/storage/v1/object/public/restaurant-photos/d11acd48-2f63-4291-9582-0307a21e43da/85ee7c4b-1c75-4c84-b6cd-e41abdff2c2b.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 751,
+    "bytes": 129748
+  },
+  {
+    "id": "tutoiement",
+    "localPath": "assets/photos/tutoiement.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/1bf16a1777294806a3f73dafd30317eb.jpg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 83560
+  },
+  {
+    "id": "iter-myeongdong",
+    "localPath": "assets/photos/iter-myeongdong.webp",
+    "sourceUrl": "https://iter-restaurants.com/images/5.webp",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 666,
+    "height": 1000,
+    "bytes": 32542
+  },
+  {
+    "id": "downtowner-cheongdam",
+    "localPath": "assets/photos/downtowner-cheongdam.webp",
+    "sourceUrl": "https://cdn.imweb.me/thumbnail/20230420/6fdcd5936717a.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 160,
+    "height": 160,
+    "bytes": 6792
+  },
+  {
+    "id": "phomein-185",
+    "localPath": "assets/photos/phomein-185.webp",
+    "sourceUrl": "https://phomein.com/upload/store/20230417/20230417111850265065.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 637,
+    "bytes": 136496
+  },
+  {
+    "id": "vs-kop030003",
+    "localPath": "assets/photos/vs-kop030003.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=77957&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 37868
+  },
+  {
+    "id": "vs-kop025377",
+    "localPath": "assets/photos/vs-kop025377.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=60379&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 700,
+    "height": 500,
+    "bytes": 79750
+  },
+  {
+    "id": "vs-kop1k0rxn",
+    "localPath": "assets/photos/vs-kop1k0rxn.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=76573&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 44224
+  },
+  {
+    "id": "vs-kop2aitm6",
+    "localPath": "assets/photos/vs-kop2aitm6.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=77456&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 20344
+  },
+  {
+    "id": "lee-buk-bang",
+    "localPath": "assets/photos/lee-buk-bang.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/1251f920d19746f0bed73eb8d5d75d1a.jpg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 104262
+  },
+  {
+    "id": "hong-yuan",
+    "localPath": "assets/photos/hong-yuan.webp",
+    "sourceUrl": "https://cache.marriott.com/content/dam/marriott-renditions/SELWI/selwi-hong-yuan-5561-hor-wide.jpg?downsize=1336px%3A%2A&interpolation=progressive-bilinear&output-quality=70",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 562,
+    "bytes": 114326
+  },
+  {
+    "id": "oreno-ramen",
+    "localPath": "assets/photos/oreno-ramen.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/6627e00f0b1a4727ba5c85b64cafd278.jpg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 49076
+  },
+  {
+    "id": "thai-thaiselect28",
+    "localPath": "assets/photos/thai-thaiselect28.webp",
+    "sourceUrl": "https://glysdwhvbtlxgpwjoaoq.supabase.co/storage/v1/object/public/restaurant-photos/4912b8cd-8899-47a7-b5d4-6962b113e2f6/90065aae-fa42-4b21-92b0-15b138b33fa6.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 918,
+    "height": 521,
+    "bytes": 96776
+  },
+  {
+    "id": "on565623",
+    "localPath": "assets/photos/on565623.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/1a7e576fb68f4d0fa79761a9aff7c65e.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 156896
+  },
+  {
+    "id": "zio-cucina-ikseon",
+    "localPath": "assets/photos/zio-cucina-ikseon.webp",
+    "sourceUrl": "https://ziocucina-ikseon.com/images/11.webp",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 666,
+    "bytes": 136986
+  },
+  {
+    "id": "brooklyn-burger-seorae",
+    "localPath": "assets/photos/brooklyn-burger-seorae.webp",
+    "sourceUrl": "https://tong.visitkorea.or.kr/cms/resource/15/2684415_image2_1.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 700,
+    "height": 345,
+    "bytes": 34402
+  },
+  {
+    "id": "phomein-190",
+    "localPath": "assets/photos/phomein-190.webp",
+    "sourceUrl": "https://phomein.com/upload/store/20210713/20210713155627696132.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 580,
+    "height": 370,
+    "bytes": 40142
+  },
+  {
+    "id": "vs-kop006775",
+    "localPath": "assets/photos/vs-kop006775.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=76489&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 39426
+  },
+  {
+    "id": "vs-kop010878",
+    "localPath": "assets/photos/vs-kop010878.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=78065&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 43314
+  },
+  {
+    "id": "vs-kopqyikuv",
+    "localPath": "assets/photos/vs-kopqyikuv.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=80608&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 30054
+  },
+  {
+    "id": "vs-kop012430",
+    "localPath": "assets/photos/vs-kop012430.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=6068&fileTy=MEDIA&fileNo=2",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 714,
+    "bytes": 77334
+  },
+  {
+    "id": "yun",
+    "localPath": "assets/photos/yun.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/9960c687386149129f83c9c48ebeaaaf.jpg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 292316
+  },
+  {
+    "id": "the-great-hong-yuan",
+    "localPath": "assets/photos/the-great-hong-yuan.webp",
+    "sourceUrl": "https://jpg.josunhotel.com/revolution/content/fileImage.do?cntntsSn=489076&fileId=489077",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 469,
+    "bytes": 116322
+  },
+  {
+    "id": "damtaek",
+    "localPath": "assets/photos/damtaek.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/404c06bd801649d6b3143557cd733624.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 48918
+  },
+  {
+    "id": "thai-thaiselect20",
+    "localPath": "assets/photos/thai-thaiselect20.webp",
+    "sourceUrl": "https://glysdwhvbtlxgpwjoaoq.supabase.co/storage/v1/object/public/restaurant-photos/55f5efb6-084d-49de-b9a4-96ffc6a3c73d/e7f1cbe2-310f-4ae3-8c4a-2d18958691d9.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 563,
+    "bytes": 81312
+  },
+  {
+    "id": "epanoui",
+    "localPath": "assets/photos/epanoui.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/7ee70a5125a04d319b3a9c35761edd75.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 149034
+  },
+  {
+    "id": "trattoria-sam-kim",
+    "localPath": "assets/photos/trattoria-sam-kim.webp",
+    "sourceUrl": "https://english.seoul.go.kr/wp-content/themes/seoul-e/assets/images/spoon/kit-7-1.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 768,
+    "height": 464,
+    "bytes": 39732
+  },
+  {
+    "id": "taco-amigo",
+    "localPath": "assets/photos/taco-amigo.webp",
+    "sourceUrl": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=866&fileTy=MEDIA&fileNo=2&thumbTy=L",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 800,
+    "height": 571,
+    "bytes": 78322
+  },
+  {
+    "id": "phomein-199",
+    "localPath": "assets/photos/phomein-199.webp",
+    "sourceUrl": "https://phomein.com/upload/store/20210713/20210713155831060138.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 580,
+    "height": 370,
+    "bytes": 30498
+  },
+  {
+    "id": "vs-kop012552",
+    "localPath": "assets/photos/vs-kop012552.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=12556&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 665,
+    "height": 442,
+    "bytes": 29814
+  },
+  {
+    "id": "vs-kop011529",
+    "localPath": "assets/photos/vs-kop011529.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=26995&fileTy=MEDIA&fileNo=3",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 714,
+    "bytes": 211236
+  },
+  {
+    "id": "vs-kopc29hhb",
+    "localPath": "assets/photos/vs-kopc29hhb.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=60208&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 700,
+    "height": 500,
+    "bytes": 56038
+  },
+  {
+    "id": "vs-kop004041",
+    "localPath": "assets/photos/vs-kop004041.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=4042&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 665,
+    "height": 443,
+    "bytes": 60618
+  },
+  {
+    "id": "mingles",
+    "localPath": "assets/photos/mingles.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/33ee84eb63734ca9bea76793596f314a.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 105302
+  },
+  {
+    "id": "mott32-seoul",
+    "localPath": "assets/photos/mott32-seoul.webp",
+    "sourceUrl": "https://mott32.com/fileadmin/_processed_/3/d/csm_crab_c53072d892.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 807,
+    "bytes": 104372
+  },
+  {
+    "id": "ariake-shilla",
+    "localPath": "assets/photos/ariake-shilla.webp",
+    "sourceUrl": "https://www.shillahotels.com/hbcimages/260529/20260529163438_96d3f19d-0cdb-47a8-bafe-c60ceaa3c11f.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 500,
+    "bytes": 46462
+  },
+  {
+    "id": "kkaopom",
+    "localPath": "assets/photos/kkaopom.webp",
+    "sourceUrl": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=48b1839c-489c-47ce-92d6-10affc4b04ba",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 940,
+    "height": 705,
+    "bytes": 172146
+  },
+  {
+    "id": "restaurant-oy",
+    "localPath": "assets/photos/restaurant-oy.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/5e79df570cca40b6a28fe2666444f9bc.jpg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 42360
+  },
+  {
+    "id": "pomo",
+    "localPath": "assets/photos/pomo.webp",
+    "sourceUrl": "https://english.seoul.go.kr/wp-content/themes/seoul-e/assets/images/spoon/kit-11-1.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 768,
+    "height": 464,
+    "bytes": 81104
+  },
+  {
+    "id": "jh-texas-bar",
+    "localPath": "assets/photos/jh-texas-bar.webp",
+    "sourceUrl": "https://jhtexasbar-seoul.com/images/1.webp",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 571,
+    "bytes": 122036
+  },
+  {
+    "id": "phomein-204",
+    "localPath": "assets/photos/phomein-204.webp",
+    "sourceUrl": "https://phomein.com/upload/store/20240604/20240604144723465068.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 750,
+    "bytes": 99952
+  },
+  {
+    "id": "vs-kopkjr01v",
+    "localPath": "assets/photos/vs-kopkjr01v.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=65343&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 285,
+    "height": 210,
+    "bytes": 15874
+  },
+  {
+    "id": "vs-kop013228",
+    "localPath": "assets/photos/vs-kop013228.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=72921&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 56690
+  },
+  {
+    "id": "vs-kop014210",
+    "localPath": "assets/photos/vs-kop014210.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=14213&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 665,
+    "height": 442,
+    "bytes": 55540
+  },
+  {
+    "id": "vs-kopyubahz",
+    "localPath": "assets/photos/vs-kopyubahz.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=60254&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 700,
+    "height": 500,
+    "bytes": 61710
+  },
+  {
+    "id": "tanghuo-613",
+    "localPath": "assets/photos/tanghuo-613.webp",
+    "sourceUrl": "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 526,
+    "height": 301,
+    "bytes": 36856
+  },
+  {
+    "id": "art-sushi",
+    "localPath": "assets/photos/art-sushi.webp",
+    "sourceUrl": "https://english.visitseoul.net/comm/getImage?fileNo=1&fileTy=MEDIA&parentSn=71581&srvcId=MEDIA&thumbTy=L",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 400,
+    "height": 600,
+    "bytes": 29402
+  },
+  {
+    "id": "stay",
+    "localPath": "assets/photos/stay.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/2845266b837044a2ab86243a05ab61da.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 123568
+  },
+  {
+    "id": "rocka-doodle-seongsu",
+    "localPath": "assets/photos/rocka-doodle-seongsu.webp",
+    "sourceUrl": "https://polle-image.tabling.co.kr/posts/RfmpTdROT45p_2sT-K7LvA.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 750,
+    "height": 1000,
+    "bytes": 129240
+  },
+  {
+    "id": "phomein-304",
+    "localPath": "assets/photos/phomein-304.webp",
+    "sourceUrl": "https://phomein.com/upload/store/20201127/20201127140655212112.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 580,
+    "height": 370,
+    "bytes": 11078
+  },
+  {
+    "id": "vs-kope2b9jp",
+    "localPath": "assets/photos/vs-kope2b9jp.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=80176&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 42824
+  },
+  {
+    "id": "vs-kop001056",
+    "localPath": "assets/photos/vs-kop001056.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=567&fileTy=MEDIA&fileNo=2",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 714,
+    "bytes": 127002
+  },
+  {
+    "id": "vs-kop042251",
+    "localPath": "assets/photos/vs-kop042251.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=42251&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 480,
+    "height": 343,
+    "bytes": 25234
+  },
+  {
+    "id": "kto-66866",
+    "localPath": "assets/photos/kto-66866.webp",
+    "sourceUrl": "https://tong.visitkorea.or.kr/cms/resource/05/2470105_image2_1.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 699,
+    "height": 466,
+    "bytes": 48174
+  },
+  {
+    "id": "tanghuo-610",
+    "localPath": "assets/photos/tanghuo-610.webp",
+    "sourceUrl": "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 526,
+    "height": 301,
+    "bytes": 36856
+  },
+  {
+    "id": "low-slow",
+    "localPath": "assets/photos/low-slow.webp",
+    "sourceUrl": "https://polle-image.tabling.co.kr/posts/pmo5fbvYpdoD2c-T9AkRpg.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 224074
+  },
+  {
+    "id": "phomein-234",
+    "localPath": "assets/photos/phomein-234.webp",
+    "sourceUrl": "https://phomein.com/upload/store/20210713/20210713165145830207.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 580,
+    "height": 370,
+    "bytes": 14426
+  },
+  {
+    "id": "vs-kopf7xg5g",
+    "localPath": "assets/photos/vs-kopf7xg5g.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=82163&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 15944
+  },
+  {
+    "id": "vs-kop012557",
+    "localPath": "assets/photos/vs-kop012557.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=75035&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 51764
+  },
+  {
+    "id": "vs-kop008646",
+    "localPath": "assets/photos/vs-kop008646.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=67744&fileTy=MEDIA&fileNo=2",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 694,
+    "bytes": 127972
+  },
+  {
+    "id": "kto-99611",
+    "localPath": "assets/photos/kto-99611.webp",
+    "sourceUrl": "https://tong.visitkorea.or.kr/cms/resource/33/696333_image2_1.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 699,
+    "height": 466,
+    "bytes": 27046
+  },
+  {
+    "id": "tanghuo-609",
+    "localPath": "assets/photos/tanghuo-609.webp",
+    "sourceUrl": "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 526,
+    "height": 301,
+    "bytes": 36856
+  },
+  {
+    "id": "linus-bbq",
+    "localPath": "assets/photos/linus-bbq.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/652931cdcd18e3e8b8039e34/652931cdcd18e3e8b8039f2c_Main%20LinusBBQ.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 221744
+  },
+  {
+    "id": "phomein-302",
+    "localPath": "assets/photos/phomein-302.webp",
+    "sourceUrl": "https://phomein.com/upload/store/20200825/20200825133731822079.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 666,
+    "bytes": 130246
+  },
+  {
+    "id": "vs-kopl7o63f",
+    "localPath": "assets/photos/vs-kopl7o63f.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=68571&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 285,
+    "height": 210,
+    "bytes": 8824
+  },
+  {
+    "id": "vs-kop012278",
+    "localPath": "assets/photos/vs-kop012278.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=12282&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 665,
+    "height": 424,
+    "bytes": 33892
+  },
+  {
+    "id": "vs-kop013244",
+    "localPath": "assets/photos/vs-kop013244.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=13246&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 665,
+    "height": 443,
+    "bytes": 40788
+  },
+  {
+    "id": "mabongnim-halmeonijip",
+    "localPath": "assets/photos/mabongnim-halmeonijip.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=26858&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 600,
+    "bytes": 90232
+  },
+  {
+    "id": "tanghuo-608",
+    "localPath": "assets/photos/tanghuo-608.webp",
+    "sourceUrl": "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 526,
+    "height": 301,
+    "bytes": 36856
+  },
+  {
+    "id": "jade-water-lcdc",
+    "localPath": "assets/photos/jade-water-lcdc.webp",
+    "sourceUrl": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=81916&fileTy=MEDIA&fileNo=1&thumbTy=L",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 800,
+    "height": 571,
+    "bytes": 40554
+  },
+  {
+    "id": "phomein-347",
+    "localPath": "assets/photos/phomein-347.webp",
+    "sourceUrl": "https://phomein.com/upload/store/20230601/20230601161933426034.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 637,
+    "bytes": 115712
+  },
+  {
+    "id": "vs-kop012137",
+    "localPath": "assets/photos/vs-kop012137.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=72923&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 26050
+  },
+  {
+    "id": "vs-kop006151",
+    "localPath": "assets/photos/vs-kop006151.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=62402&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 700,
+    "height": 500,
+    "bytes": 56654
+  },
+  {
+    "id": "i-love-sindangdong",
+    "localPath": "assets/photos/i-love-sindangdong.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=26859&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 600,
+    "bytes": 73592
+  },
+  {
+    "id": "tanghuo-606",
+    "localPath": "assets/photos/tanghuo-606.webp",
+    "sourceUrl": "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 526,
+    "height": 301,
+    "bytes": 36856
+  },
+  {
+    "id": "midtown",
+    "localPath": "assets/photos/midtown.webp",
+    "sourceUrl": "https://visitgangnam.net/images/2023/04/3-min-35.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 667,
+    "bytes": 107622
+  },
+  {
+    "id": "phomein-353",
+    "localPath": "assets/photos/phomein-353.webp",
+    "sourceUrl": "https://phomein.com/upload/store/20250919/20250919183921511166.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 750,
+    "height": 1000,
+    "bytes": 119080
+  },
+  {
+    "id": "vs-kopf8jiyc",
+    "localPath": "assets/photos/vs-kopf8jiyc.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=73006&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 47538
+  },
+  {
+    "id": "vs-kopywjsmm",
+    "localPath": "assets/photos/vs-kopywjsmm.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=80933&fileTy=MEDIA&fileNo=2",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 43868
+  },
+  {
+    "id": "sooksoodoga",
+    "localPath": "assets/photos/sooksoodoga.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/2def5c86ee004e70a80d04a1ec6fd0c1.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 66838
+  },
+  {
+    "id": "tanghuo-601",
+    "localPath": "assets/photos/tanghuo-601.webp",
+    "sourceUrl": "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 526,
+    "height": 301,
+    "bytes": 36856
+  },
+  {
+    "id": "fullmonty",
+    "localPath": "assets/photos/fullmonty.webp",
+    "sourceUrl": "https://visitgangnam.net/images/2023/04/2-min-44.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 667,
+    "bytes": 90478
+  },
+  {
+    "id": "vs-kop013994",
+    "localPath": "assets/photos/vs-kop013994.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=13997&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 664,
+    "height": 498,
+    "bytes": 58840
+  },
+  {
+    "id": "vs-kopz0vzz8",
+    "localPath": "assets/photos/vs-kopz0vzz8.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=71534&fileTy=MEDIA&fileNo=2",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 667,
+    "bytes": 96574
+  },
+  {
+    "id": "boreumsae",
+    "localPath": "assets/photos/boreumsae.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/ff28401608bb44f0bb3fb4b1cb13a6fc.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 88058
+  },
+  {
+    "id": "tanghuo-591",
+    "localPath": "assets/photos/tanghuo-591.webp",
+    "sourceUrl": "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 526,
+    "height": 301,
+    "bytes": 36856
+  },
+  {
+    "id": "pinch-brunch-bar",
+    "localPath": "assets/photos/pinch-brunch-bar.webp",
+    "sourceUrl": "https://visitgangnam.net/images/2023/04/2-min-79.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 667,
+    "bytes": 95708
+  },
+  {
+    "id": "vs-kop027217",
+    "localPath": "assets/photos/vs-kop027217.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=27217&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 480,
+    "height": 342,
+    "bytes": 27630
+  },
+  {
+    "id": "vs-kopq0llgd",
+    "localPath": "assets/photos/vs-kopq0llgd.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=75240&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 22214
+  },
+  {
+    "id": "samwon-garden",
+    "localPath": "assets/photos/samwon-garden.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/ea4b4aa60ab646e7af924b83bf24766a.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 346338
+  },
+  {
+    "id": "tanghuo-590",
+    "localPath": "assets/photos/tanghuo-590.webp",
+    "sourceUrl": "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 526,
+    "height": 301,
+    "bytes": 36856
+  },
+  {
+    "id": "vs-kop013751",
+    "localPath": "assets/photos/vs-kop013751.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=60368&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 700,
+    "height": 500,
+    "bytes": 41464
+  },
+  {
+    "id": "vs-kop003526",
+    "localPath": "assets/photos/vs-kop003526.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=72543&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 54356
+  },
+  {
+    "id": "ggupdang",
+    "localPath": "assets/photos/ggupdang.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/59fd3d76e7a144dab4e993c966fe05bf.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 110492
+  },
+  {
+    "id": "tanghuo-585",
+    "localPath": "assets/photos/tanghuo-585.webp",
+    "sourceUrl": "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 526,
+    "height": 301,
+    "bytes": 36856
+  },
+  {
+    "id": "vs-kop006678",
+    "localPath": "assets/photos/vs-kop006678.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=6678&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 480,
+    "height": 320,
+    "bytes": 27224
+  },
+  {
+    "id": "vs-koplceoxk",
+    "localPath": "assets/photos/vs-koplceoxk.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=73553&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 43102
+  },
+  {
+    "id": "geumdwaeji-sikdang",
+    "localPath": "assets/photos/geumdwaeji-sikdang.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/a8feb20b823a4abea3778f9c89797fa7.jpg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 126964
+  },
+  {
+    "id": "tanghuo-582",
+    "localPath": "assets/photos/tanghuo-582.webp",
+    "sourceUrl": "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 526,
+    "height": 301,
+    "bytes": 36856
+  },
+  {
+    "id": "vs-kopaahwxc",
+    "localPath": "assets/photos/vs-kopaahwxc.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=74412&fileTy=MEDIA&fileNo=2",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 48306
+  },
+  {
+    "id": "vs-koplh5poa",
+    "localPath": "assets/photos/vs-koplh5poa.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=76577&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 41310
+  },
+  {
+    "id": "gom-ba-wie",
+    "localPath": "assets/photos/gom-ba-wie.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/ba9212f3dea1426b968ef8776e4aa4ca.jpg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 139254
+  },
+  {
+    "id": "tanghuo-581",
+    "localPath": "assets/photos/tanghuo-581.webp",
+    "sourceUrl": "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 526,
+    "height": 301,
+    "bytes": 36856
+  },
+  {
+    "id": "vs-kop042255",
+    "localPath": "assets/photos/vs-kop042255.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=42255&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 480,
+    "height": 360,
+    "bytes": 27346
+  },
+  {
+    "id": "vs-kopzr5qwr",
+    "localPath": "assets/photos/vs-kopzr5qwr.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=62177&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 700,
+    "height": 466,
+    "bytes": 81796
+  },
+  {
+    "id": "imok-smoke-dining",
+    "localPath": "assets/photos/imok-smoke-dining.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/79a478a39aa842688cde376337034ba3.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 171822
+  },
+  {
+    "id": "tanghuo-580",
+    "localPath": "assets/photos/tanghuo-580.webp",
+    "sourceUrl": "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 526,
+    "height": 301,
+    "bytes": 36856
+  },
+  {
+    "id": "vs-kopn3hblb",
+    "localPath": "assets/photos/vs-kopn3hblb.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=73284&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 60660
+  },
+  {
+    "id": "born-and-bred",
+    "localPath": "assets/photos/born-and-bred.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/d9528d9f3b6140d6a254e16bdf9cecf5.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 128360
+  },
+  {
+    "id": "tanghuo-579",
+    "localPath": "assets/photos/tanghuo-579.webp",
+    "sourceUrl": "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 526,
+    "height": 301,
+    "bytes": 36856
+  },
+  {
+    "id": "vs-kop013324",
+    "localPath": "assets/photos/vs-kop013324.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=64656&fileTy=MEDIA&fileNo=2",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 41098
+  },
+  {
+    "id": "gyoyang-siksa",
+    "localPath": "assets/photos/gyoyang-siksa.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/36baf4ae6d6c48bcba63f2e848171764.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 114634
+  },
+  {
+    "id": "tanghuo-576",
+    "localPath": "assets/photos/tanghuo-576.webp",
+    "sourceUrl": "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 526,
+    "height": 301,
+    "bytes": 36856
+  },
+  {
+    "id": "vs-kop028329",
+    "localPath": "assets/photos/vs-kop028329.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=60399&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 700,
+    "height": 500,
+    "bytes": 31046
+  },
+  {
+    "id": "budnamujip",
+    "localPath": "assets/photos/budnamujip.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/19716ee25b834fb492ff9ebe7b06a43f.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 121538
+  },
+  {
+    "id": "tanghuo-570",
+    "localPath": "assets/photos/tanghuo-570.webp",
+    "sourceUrl": "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 526,
+    "height": 301,
+    "bytes": 36856
+  },
+  {
+    "id": "vs-kop014115",
+    "localPath": "assets/photos/vs-kop014115.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=14116&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 664,
+    "height": 498,
+    "bytes": 49192
+  },
+  {
+    "id": "yoon-haeundae-galbi",
+    "localPath": "assets/photos/yoon-haeundae-galbi.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/f5feebf091ef4db896a59f3783792f64.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 101458
+  },
+  {
+    "id": "vs-kop039734",
+    "localPath": "assets/photos/vs-kop039734.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=39734&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 480,
+    "height": 343,
+    "bytes": 24098
+  },
+  {
+    "id": "wangbijib-myeongdong",
+    "localPath": "assets/photos/wangbijib-myeongdong.webp",
+    "sourceUrl": "https://www.wangbijib.com/web/upload/NNEditor/20250117/copy-1737095026-main.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 840,
+    "height": 292,
+    "bytes": 54716
+  },
+  {
+    "id": "vs-kop039727",
+    "localPath": "assets/photos/vs-kop039727.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=39727&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 480,
+    "height": 343,
+    "bytes": 38796
+  },
+  {
+    "id": "wangbijib-second",
+    "localPath": "assets/photos/wangbijib-second.webp",
+    "sourceUrl": "https://www.wangbijib.com/web/upload/NNEditor/20250117/2nd.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 843,
+    "height": 291,
+    "bytes": 57906
+  },
+  {
+    "id": "vs-kop037154",
+    "localPath": "assets/photos/vs-kop037154.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=37154&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 444,
+    "height": 360,
+    "bytes": 45764
+  },
+  {
+    "id": "kyochon-1259",
+    "localPath": "assets/photos/kyochon-1259.webp",
+    "sourceUrl": "https://www.kyochon.com/uploadFiles/TB_ITEM/list_Honey%20Wing%20Combo.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 300,
+    "height": 250,
+    "bytes": 13028
+  },
+  {
+    "id": "vs-kop039310",
+    "localPath": "assets/photos/vs-kop039310.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=39310&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 480,
+    "height": 343,
+    "bytes": 38596
+  },
+  {
+    "id": "kyochon-410",
+    "localPath": "assets/photos/kyochon-410.webp",
+    "sourceUrl": "https://www.kyochon.com/uploadFiles/TB_ITEM/list_Honey%20Wing%20Combo.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 300,
+    "height": 250,
+    "bytes": 13028
+  },
+  {
+    "id": "vs-kop006859",
+    "localPath": "assets/photos/vs-kop006859.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=6861&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 665,
+    "height": 443,
+    "bytes": 47636
+  },
+  {
+    "id": "kyochon-121",
+    "localPath": "assets/photos/kyochon-121.webp",
+    "sourceUrl": "https://www.kyochon.com/uploadFiles/TB_ITEM/list_Honey%20Wing%20Combo.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 300,
+    "height": 250,
+    "bytes": 13028
+  },
+  {
+    "id": "vs-kop005599",
+    "localPath": "assets/photos/vs-kop005599.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=76488&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 39784
+  },
+  {
+    "id": "kyochon-681",
+    "localPath": "assets/photos/kyochon-681.webp",
+    "sourceUrl": "https://www.kyochon.com/uploadFiles/TB_ITEM/list_Honey%20Wing%20Combo.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 300,
+    "height": 250,
+    "bytes": 13028
+  },
+  {
+    "id": "vs-kop039309",
+    "localPath": "assets/photos/vs-kop039309.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=39309&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 480,
+    "height": 343,
+    "bytes": 56358
+  },
+  {
+    "id": "kyochon-1560",
+    "localPath": "assets/photos/kyochon-1560.webp",
+    "sourceUrl": "https://www.kyochon.com/uploadFiles/TB_ITEM/list_Honey%20Wing%20Combo.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 300,
+    "height": 250,
+    "bytes": 13028
+  },
+  {
+    "id": "vs-kop038318",
+    "localPath": "assets/photos/vs-kop038318.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=38318&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 480,
+    "height": 343,
+    "bytes": 37968
+  },
+  {
+    "id": "kyochon-350",
+    "localPath": "assets/photos/kyochon-350.webp",
+    "sourceUrl": "https://www.kyochon.com/uploadFiles/TB_ITEM/list_Honey%20Wing%20Combo.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 300,
+    "height": 250,
+    "bytes": 13028
+  },
+  {
+    "id": "vs-kop027466",
+    "localPath": "assets/photos/vs-kop027466.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=27466&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 480,
+    "height": 343,
+    "bytes": 41962
+  },
+  {
+    "id": "kyochon-942",
+    "localPath": "assets/photos/kyochon-942.webp",
+    "sourceUrl": "https://www.kyochon.com/uploadFiles/TB_ITEM/list_Honey%20Wing%20Combo.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 300,
+    "height": 250,
+    "bytes": 13028
+  },
+  {
+    "id": "vs-kop013944",
+    "localPath": "assets/photos/vs-kop013944.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=77949&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 45814
+  },
+  {
+    "id": "kyochon-1781",
+    "localPath": "assets/photos/kyochon-1781.webp",
+    "sourceUrl": "https://www.kyochon.com/uploadFiles/TB_ITEM/list_Honey%20Wing%20Combo.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 300,
+    "height": 250,
+    "bytes": 13028
+  },
+  {
+    "id": "vs-kop038783",
+    "localPath": "assets/photos/vs-kop038783.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=38783&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 480,
+    "height": 343,
+    "bytes": 44808
+  },
+  {
+    "id": "kyochon-818",
+    "localPath": "assets/photos/kyochon-818.webp",
+    "sourceUrl": "https://www.kyochon.com/uploadFiles/TB_ITEM/list_Honey%20Wing%20Combo.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 300,
+    "height": 250,
+    "bytes": 13028
+  },
+  {
+    "id": "vs-kop008682",
+    "localPath": "assets/photos/vs-kop008682.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=8682&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 400,
+    "height": 266,
+    "bytes": 19936
+  },
+  {
+    "id": "kyochon-1347",
+    "localPath": "assets/photos/kyochon-1347.webp",
+    "sourceUrl": "https://www.kyochon.com/uploadFiles/TB_ITEM/list_Honey%20Wing%20Combo.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 300,
+    "height": 250,
+    "bytes": 13028
+  },
+  {
+    "id": "vs-kop027234",
+    "localPath": "assets/photos/vs-kop027234.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=27234&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 480,
+    "height": 342,
+    "bytes": 18898
+  },
+  {
+    "id": "kyochon-656",
+    "localPath": "assets/photos/kyochon-656.webp",
+    "sourceUrl": "https://www.kyochon.com/uploadFiles/TB_ITEM/list_Honey%20Wing%20Combo.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 300,
+    "height": 250,
+    "bytes": 13028
+  },
+  {
+    "id": "vs-kop038027",
+    "localPath": "assets/photos/vs-kop038027.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=38027&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 480,
+    "height": 343,
+    "bytes": 24142
+  },
+  {
+    "id": "kyochon-665",
+    "localPath": "assets/photos/kyochon-665.webp",
+    "sourceUrl": "https://www.kyochon.com/uploadFiles/TB_ITEM/list_Honey%20Wing%20Combo.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 300,
+    "height": 250,
+    "bytes": 13028
+  },
+  {
+    "id": "vs-kop013934",
+    "localPath": "assets/photos/vs-kop013934.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=13934&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 664,
+    "height": 498,
+    "bytes": 47296
+  },
+  {
+    "id": "kyochon-887",
+    "localPath": "assets/photos/kyochon-887.webp",
+    "sourceUrl": "https://www.kyochon.com/uploadFiles/TB_ITEM/list_Honey%20Wing%20Combo.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 300,
+    "height": 250,
+    "bytes": 13028
+  },
+  {
+    "id": "vs-kop003612",
+    "localPath": "assets/photos/vs-kop003612.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=64617&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 700,
+    "height": 500,
+    "bytes": 53124
+  },
+  {
+    "id": "kyochon-1527",
+    "localPath": "assets/photos/kyochon-1527.webp",
+    "sourceUrl": "https://www.kyochon.com/uploadFiles/TB_ITEM/list_Honey%20Wing%20Combo.png",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 300,
+    "height": 250,
+    "bytes": 13028
+  },
+  {
+    "id": "vs-kop042103",
+    "localPath": "assets/photos/vs-kop042103.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=42103&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 480,
+    "height": 354,
+    "bytes": 27816
+  },
+  {
+    "id": "gebang-sikdang",
+    "localPath": "assets/photos/gebang-sikdang.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/8df2bea66fea4609b97093c6f33aee44.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 171414
+  },
+  {
+    "id": "vs-kop469951",
+    "localPath": "assets/photos/vs-kop469951.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=66457&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 285,
+    "height": 210,
+    "bytes": 16748
+  },
+  {
+    "id": "jinmi-sikdang",
+    "localPath": "assets/photos/jinmi-sikdang.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/37b2ff4cfd5d4225bc397c9eb8be1f8a.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 172918
+  },
+  {
+    "id": "vs-kop014145",
+    "localPath": "assets/photos/vs-kop014145.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=14148&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 664,
+    "height": 886,
+    "bytes": 69476
+  },
+  {
+    "id": "hwa-hae-dang",
+    "localPath": "assets/photos/hwa-hae-dang.webp",
+    "sourceUrl": "https://prod-pics.guide.michelin.com/api/public/content/5f786bcdb1024410ab51a88d948efd51.jpeg?format=jpeg&w=1000&h=1000",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 82516
+  },
+  {
+    "id": "vs-kopxyqzye",
+    "localPath": "assets/photos/vs-kopxyqzye.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=60233&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 285,
+    "height": 210,
+    "bytes": 12908
+  },
+  {
+    "id": "meoktong-nakji",
+    "localPath": "assets/photos/meoktong-nakji.webp",
+    "sourceUrl": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=78806&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 667,
+    "bytes": 141196
+  },
+  {
+    "id": "vs-kop027461",
+    "localPath": "assets/photos/vs-kop027461.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=27461&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 480,
+    "height": 343,
+    "bytes": 20322
+  },
+  {
+    "id": "koraebul",
+    "localPath": "assets/photos/koraebul.webp",
+    "sourceUrl": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=80388&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 46034
+  },
+  {
+    "id": "vs-kop001252",
+    "localPath": "assets/photos/vs-kop001252.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=646&fileTy=MEDIA&fileNo=2",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 714,
+    "bytes": 66456
+  },
+  {
+    "id": "daebanggol",
+    "localPath": "assets/photos/daebanggol.webp",
+    "sourceUrl": "https://english.visitseoul.net/comm/getImage?srvcId=POST&parentSn=1603&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 700,
+    "height": 500,
+    "bytes": 100810
+  },
+  {
+    "id": "vs-kop014488",
+    "localPath": "assets/photos/vs-kop014488.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=77871&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 11464
+  },
+  {
+    "id": "gosame-sinchon",
+    "localPath": "assets/photos/gosame-sinchon.webp",
+    "sourceUrl": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=78625&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 667,
+    "bytes": 127418
+  },
+  {
+    "id": "vs-kop040675",
+    "localPath": "assets/photos/vs-kop040675.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=40675&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 480,
+    "height": 354,
+    "bytes": 29168
+  },
+  {
+    "id": "ujeong-nakji",
+    "localPath": "assets/photos/ujeong-nakji.webp",
+    "sourceUrl": "https://english.visitseoul.net/comm/getImage?srvcId=POST&parentSn=12727&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 664,
+    "height": 886,
+    "bytes": 84488
+  },
+  {
+    "id": "vs-kop011538",
+    "localPath": "assets/photos/vs-kop011538.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=5707&fileTy=MEDIA&fileNo=2",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 714,
+    "bytes": 71282
+  },
+  {
+    "id": "hangukjip-lotteworld",
+    "localPath": "assets/photos/hangukjip-lotteworld.webp",
+    "sourceUrl": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=70409&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 667,
+    "bytes": 191054
+  },
+  {
+    "id": "vs-kop007029",
+    "localPath": "assets/photos/vs-kop007029.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=7030&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 480,
+    "height": 325,
+    "bytes": 22534
+  },
+  {
+    "id": "doenjang-yesulgwa-sul",
+    "localPath": "assets/photos/doenjang-yesulgwa-sul.webp",
+    "sourceUrl": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=78157&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 56198
+  },
+  {
+    "id": "vs-kop002836",
+    "localPath": "assets/photos/vs-kop002836.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=77952&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 22944
+  },
+  {
+    "id": "hwangtogil",
+    "localPath": "assets/photos/hwangtogil.webp",
+    "sourceUrl": "https://english.visitseoul.net/comm/getImage?srvcId=POST&parentSn=4546&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 700,
+    "height": 500,
+    "bytes": 43256
+  },
+  {
+    "id": "vs-kop004069",
+    "localPath": "assets/photos/vs-kop004069.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=4073&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 480,
+    "height": 320,
+    "bytes": 23128
+  },
+  {
+    "id": "vs-kop013626",
+    "localPath": "assets/photos/vs-kop013626.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=13629&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 664,
+    "height": 498,
+    "bytes": 46912
+  },
+  {
+    "id": "vs-kop011936",
+    "localPath": "assets/photos/vs-kop011936.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=11940&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 665,
+    "height": 441,
+    "bytes": 47520
+  },
+  {
+    "id": "vs-kop013843",
+    "localPath": "assets/photos/vs-kop013843.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=6579&fileTy=MEDIA&fileNo=2",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 714,
+    "bytes": 91158
+  },
+  {
+    "id": "vs-kopscbjew",
+    "localPath": "assets/photos/vs-kopscbjew.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=69048&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 285,
+    "height": 210,
+    "bytes": 17954
+  },
+  {
+    "id": "vs-kopr0prjx",
+    "localPath": "assets/photos/vs-kopr0prjx.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=73239&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 36252
+  },
+  {
+    "id": "vs-kop013832",
+    "localPath": "assets/photos/vs-kop013832.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=6576&fileTy=MEDIA&fileNo=2",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 714,
+    "bytes": 131758
+  },
+  {
+    "id": "vs-kop024905",
+    "localPath": "assets/photos/vs-kop024905.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=60355&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 700,
+    "height": 500,
+    "bytes": 69508
+  },
+  {
+    "id": "vs-kop042369",
+    "localPath": "assets/photos/vs-kop042369.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=POST&parentSn=42369&fileTy=POSTTHUMB&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 480,
+    "height": 343,
+    "bytes": 38072
+  },
+  {
+    "id": "vs-kop8ukunx",
+    "localPath": "assets/photos/vs-kop8ukunx.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=78176&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 30304
+  },
+  {
+    "id": "vs-kop279de6",
+    "localPath": "assets/photos/vs-kop279de6.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=78428&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 43022
+  },
+  {
+    "id": "vs-kopihy8fc",
+    "localPath": "assets/photos/vs-kopihy8fc.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=78634&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 667,
+    "bytes": 105980
+  },
+  {
+    "id": "vs-kopzplv5k",
+    "localPath": "assets/photos/vs-kopzplv5k.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=66805&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 285,
+    "height": 210,
+    "bytes": 13540
+  },
+  {
+    "id": "vs-koppteyc2",
+    "localPath": "assets/photos/vs-koppteyc2.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=66495&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 285,
+    "height": 210,
+    "bytes": 8382
+  },
+  {
+    "id": "vs-kopwcrlov",
+    "localPath": "assets/photos/vs-kopwcrlov.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=78530&fileTy=MEDIA&fileNo=3",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 667,
+    "bytes": 115374
+  },
+  {
+    "id": "vs-kop013716",
+    "localPath": "assets/photos/vs-kop013716.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=77868&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 73748
+  },
+  {
+    "id": "vs-kop680zw5",
+    "localPath": "assets/photos/vs-kop680zw5.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=68559&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 285,
+    "height": 210,
+    "bytes": 22510
+  },
+  {
+    "id": "vs-kop49ib1g",
+    "localPath": "assets/photos/vs-kop49ib1g.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=69031&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 285,
+    "height": 210,
+    "bytes": 10448
+  },
+  {
+    "id": "vs-kop5lzzfv",
+    "localPath": "assets/photos/vs-kop5lzzfv.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=73042&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 48620
+  },
+  {
+    "id": "vs-kopl9hphg",
+    "localPath": "assets/photos/vs-kopl9hphg.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=76835&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 33722
+  },
+  {
+    "id": "vs-kopedg3r4",
+    "localPath": "assets/photos/vs-kopedg3r4.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=73029&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 79644
+  },
+  {
+    "id": "vs-kopk3ob8d",
+    "localPath": "assets/photos/vs-kopk3ob8d.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=74486&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 570,
+    "height": 420,
+    "bytes": 43812
+  },
+  {
+    "id": "vs-kopld0kew",
+    "localPath": "assets/photos/vs-kopld0kew.webp",
+    "sourceUrl": "https://korean.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=83297&fileTy=MEDIA&fileNo=1",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 285,
+    "height": 210,
+    "bytes": 14324
+  },
+  {
+    "id": "rhubarb",
+    "localPath": "assets/photos/rhubarb.webp",
+    "sourceUrl": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=74940&fileTy=MEDIA&fileNo=1&thumbTy=L",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 800,
+    "height": 571,
+    "bytes": 27336
+  },
+  {
+    "id": "room-temperature",
+    "localPath": "assets/photos/room-temperature.webp",
+    "sourceUrl": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=72097&fileTy=MEDIA&fileNo=1&thumbTy=L",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 800,
+    "height": 571,
+    "bytes": 58470
+  },
+  {
+    "id": "la-brick-seoul",
+    "localPath": "assets/photos/la-brick-seoul.webp",
+    "sourceUrl": "https://visitgangnam.net/images/2023/04/3-min-36.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 667,
+    "bytes": 134446
+  },
+  {
+    "id": "oasis-cheongdam",
+    "localPath": "assets/photos/oasis-cheongdam.webp",
+    "sourceUrl": "https://visitgangnam.net/images/2022/08/01_-min-scaled-a2ed1b8c.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 750,
+    "bytes": 131922
+  },
+  {
+    "id": "cafe-be-meal",
+    "localPath": "assets/photos/cafe-be-meal.webp",
+    "sourceUrl": "https://visitgangnam.net/images/2023/04/1-min-46.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 667,
+    "bytes": 79990
+  },
+  {
+    "id": "citron-dogok",
+    "localPath": "assets/photos/citron-dogok.webp",
+    "sourceUrl": "https://visitgangnam.net/images/2023/04/1-min-50.jpg",
+    "status": "downloaded",
+    "mime": "image/webp",
+    "width": 1000,
+    "height": 667,
+    "bytes": 139010
+  }
+]

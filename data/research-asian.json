@@ -1,0 +1,2547 @@
+[
+  {
+    "id": "mukjung",
+    "name": "묵정",
+    "ko": "묵정",
+    "nameEn": "Mukjung",
+    "cuisine": "korean",
+    "sourceCuisine": "한식",
+    "address": "서울 중구 퇴계로48길 17",
+    "area": "jung",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/mukjung",
+        "title": "MICHELIN Guide · 묵정"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/mukjung",
+        "title": "MICHELIN Guide · Mukjung (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/266f8b6789194066b02ef8a975e5a72b.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/mukjung",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 10-7559-4817",
+    "coordinates": {
+      "lon": 127.00053,
+      "lat": 37.56181
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Korean",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "mugunghwa",
+    "name": "무궁화",
+    "ko": "무궁화",
+    "nameEn": "Mugunghwa",
+    "cuisine": "korean",
+    "sourceCuisine": "한식",
+    "address": "서울 중구 을지로 30, 롯데호텔 38층",
+    "area": "myeongdong",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/mugunghwa",
+        "title": "MICHELIN Guide · 무궁화"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/mugunghwa",
+        "title": "MICHELIN Guide · Mugunghwa (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/1e63c7161f0e44f99365eb43a2b0f0db.jpg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/mugunghwa",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 2-317-7061",
+    "coordinates": {
+      "lon": 126.981,
+      "lat": 37.56533
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Korean",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "la-yeon",
+    "name": "라연",
+    "ko": "라연",
+    "nameEn": "La Yeon",
+    "cuisine": "korean",
+    "sourceCuisine": "한식",
+    "address": "서울 중구 동호로 249, 신라호텔 23층",
+    "area": "jung",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/la-yeon",
+        "title": "MICHELIN Guide · 라연"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/la-yeon",
+        "title": "MICHELIN Guide · La Yeon (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/f9a0825d0a6b4974bb1e8ca3ac276562.jpg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/la-yeon",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 2-2230-3367",
+    "coordinates": {
+      "lon": 127.00517,
+      "lat": 37.555813
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Korean",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "halmaejip",
+    "name": "할매집",
+    "ko": "할매집",
+    "nameEn": "Halmaejip",
+    "cuisine": "korean",
+    "sourceCuisine": "한식",
+    "address": "서울 종로구 사직로 12길 1-5",
+    "area": "jongno",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/halmaejip",
+        "title": "MICHELIN Guide · 할매집"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/halmaejip",
+        "title": "MICHELIN Guide · Halmaejip (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/b3f6856e03c44de18f3ce2702803dff1.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/halmaejip",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 2-735-2608",
+    "coordinates": {
+      "lon": 126.9715631,
+      "lat": 37.5755506
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Korean",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "restaurant-jueun",
+    "name": "레스토랑 주은",
+    "ko": "레스토랑 주은",
+    "nameEn": "JUEUN",
+    "cuisine": "korean",
+    "sourceCuisine": "한식",
+    "address": "서울 종로구 경희궁길 36, 경희당 8층",
+    "area": "jongno",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/restaurant-jueun",
+        "title": "MICHELIN Guide · 레스토랑 주은"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/restaurant-jueun",
+        "title": "MICHELIN Guide · JUEUN (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/a2aa82e68f6146d5b0bd455eca0bfa15.jpg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/restaurant-jueun",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 2-540-8580",
+    "coordinates": {
+      "lon": 126.96991,
+      "lat": 37.57276
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Korean",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "onjium",
+    "name": "온지음",
+    "ko": "온지음",
+    "nameEn": "Onjium",
+    "cuisine": "korean",
+    "sourceCuisine": "한식",
+    "address": "서울 종로구 효자로 49, 4층",
+    "area": "jongno",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/onjium",
+        "title": "MICHELIN Guide · 온지음"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/onjium",
+        "title": "MICHELIN Guide · Onjium (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/3736579f7a9949b4a47834df583bb065.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/onjium",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 2-6952-0024",
+    "coordinates": {
+      "lon": 126.97345,
+      "lat": 37.58048
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Korean",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "andeok",
+    "name": "안덕",
+    "ko": "안덕",
+    "nameEn": "Andeok",
+    "cuisine": "korean",
+    "sourceCuisine": "한식",
+    "address": "서울 종로구 자하문로 17길 18",
+    "area": "jongno",
+    "tags": [
+      "noodles"
+    ],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/andeok",
+        "title": "MICHELIN Guide · 안덕"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/andeok",
+        "title": "MICHELIN Guide · Andeok (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/60b0825f43ff4f2f80b19e1ef42b43fa.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/andeok",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 2-723-1518",
+    "coordinates": {
+      "lon": 126.96969,
+      "lat": 37.58143
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Korean",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "mr-ahn-s-craft-makgeolli-1192580",
+    "name": "안씨 막걸리",
+    "ko": "안씨 막걸리",
+    "nameEn": "Mr. Ahn's Craft Makgeolli",
+    "cuisine": "korean",
+    "sourceCuisine": "한식",
+    "address": "서울 용산구 회나무로 3, 아름누리 빌딩",
+    "area": "yongsan",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/mr-ahn-s-craft-makgeolli-1192580",
+        "title": "MICHELIN Guide · 안씨 막걸리"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/mr-ahn-s-craft-makgeolli-1192580",
+        "title": "MICHELIN Guide · Mr. Ahn's Craft Makgeolli (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/1490ae1399b54648bceae4897a82167e.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/mr-ahn-s-craft-makgeolli-1192580",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 10-4592-3609",
+    "coordinates": {
+      "lon": 126.9874,
+      "lat": 37.53858
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Korean",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "sool052",
+    "name": "주052",
+    "ko": "주052",
+    "nameEn": "Joo052",
+    "cuisine": "korean",
+    "sourceCuisine": "한식",
+    "address": "서울 성동구 고산자로 14길 26",
+    "area": "",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/sool052",
+        "title": "MICHELIN Guide · 주052"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/sool052",
+        "title": "MICHELIN Guide · Joo052 (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/25ccca33acca41f9b9945c20cd2c3be8.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/sool052",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 2-2281-0343",
+    "coordinates": {
+      "lon": 127.03766,
+      "lat": 37.56344
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Korean",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "soseoul-hannam",
+    "name": "소설한남",
+    "ko": "소설한남",
+    "nameEn": "Soseoul Hannam",
+    "cuisine": "korean",
+    "sourceCuisine": "한식",
+    "address": "서울 용산구 한남대로 20길 21-18, 지하 1층",
+    "area": "hannam",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/soseoul-hannam",
+        "title": "MICHELIN Guide · 소설한남"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/soseoul-hannam",
+        "title": "MICHELIN Guide · Soseoul Hannam (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/e9d0a7c2d3464d7ca1e9c4353aaced74.jpg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/soseoul-hannam",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 2-797-5995",
+    "coordinates": {
+      "lon": 127.00914,
+      "lat": 37.53528
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Korean",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "oilje",
+    "name": "오일제",
+    "ko": "오일제",
+    "nameEn": "Oilje",
+    "cuisine": "korean",
+    "sourceCuisine": "한식",
+    "address": "서울 용산구 한강대로 62다길 29",
+    "area": "yongsan",
+    "tags": [
+      "soup"
+    ],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/oilje",
+        "title": "MICHELIN Guide · 오일제"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/oilje",
+        "title": "MICHELIN Guide · Oilje (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/9b6f08055a864528a3ce092ccbb85d88.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/oilje",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 70-8831-5534",
+    "coordinates": {
+      "lon": 126.97473,
+      "lat": 37.53254
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Korean",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "doori",
+    "name": "두리",
+    "ko": "두리",
+    "nameEn": "Doori",
+    "cuisine": "korean",
+    "sourceCuisine": "한식",
+    "address": "서울 용산구 원효로63길 27",
+    "area": "yongsan",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/doori",
+        "title": "MICHELIN Guide · 두리"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/doori",
+        "title": "MICHELIN Guide · Doori (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/f46d4fcf380943d895eb60ff9dc7b65c.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/doori",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 50-71409-3655",
+    "coordinates": {
+      "lon": 126.96352,
+      "lat": 37.53795
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Korean",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "lee-buk-bang",
+    "name": "리북방",
+    "ko": "리북방",
+    "nameEn": "Lee Buk Bang",
+    "cuisine": "korean",
+    "sourceCuisine": "한식",
+    "address": "서울 마포구 마포대로 1길 16, 2층",
+    "area": "mapo",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/lee-buk-bang",
+        "title": "MICHELIN Guide · 리북방"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/lee-buk-bang",
+        "title": "MICHELIN Guide · Lee Buk Bang (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/1251f920d19746f0bed73eb8d5d75d1a.jpg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/lee-buk-bang",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 2-720-2345",
+    "coordinates": {
+      "lon": 126.9431187,
+      "lat": 37.5396777
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Korean",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "yun",
+    "name": "윤서울",
+    "ko": "윤서울",
+    "nameEn": "YUN",
+    "cuisine": "korean",
+    "sourceCuisine": "한식",
+    "address": "서울 강남구 선릉로 805",
+    "area": "gangnam",
+    "tags": [
+      "noodles"
+    ],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/yun",
+        "title": "MICHELIN Guide · 윤서울"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/yun",
+        "title": "MICHELIN Guide · YUN (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/9960c687386149129f83c9c48ebeaaaf.jpg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/yun",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 2-336-3323",
+    "coordinates": {
+      "lon": 127.03906,
+      "lat": 37.52416
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Korean",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "mingles",
+    "name": "밍글스",
+    "ko": "밍글스",
+    "nameEn": "Mingles",
+    "cuisine": "korean",
+    "sourceCuisine": "한식",
+    "address": "서울 강남구 도산대로 67길 19, 2층",
+    "area": "gangnam",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/mingles",
+        "title": "MICHELIN Guide · 밍글스"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/mingles",
+        "title": "MICHELIN Guide · Mingles (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/33ee84eb63734ca9bea76793596f314a.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/mingles",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 2-515-7306",
+    "coordinates": {
+      "lon": 127.04426,
+      "lat": 37.52535
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Korean",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "haobin",
+    "name": "호빈",
+    "ko": "호빈",
+    "nameEn": "Haobin",
+    "cuisine": "chinese",
+    "sourceCuisine": "중식",
+    "address": "서울 중구 동호로 287, 앰배서더 서울 풀만 2층",
+    "area": "jung",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/haobin",
+        "title": "MICHELIN Guide · 호빈"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/haobin",
+        "title": "MICHELIN Guide · Haobin (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/2885652cf8a94f4b84020d5d7d417d30.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/haobin",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 2-2270-3141",
+    "coordinates": {
+      "lon": 127.0024232,
+      "lat": 37.5599583
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Chinese",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "toh-lim",
+    "name": "도림",
+    "ko": "도림",
+    "nameEn": "Toh Lim",
+    "cuisine": "chinese",
+    "sourceCuisine": "중식",
+    "address": "서울 중구 을지로 30, 롯데호텔 37층",
+    "area": "myeongdong",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/toh-lim",
+        "title": "MICHELIN Guide · 도림"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/toh-lim",
+        "title": "MICHELIN Guide · Toh Lim (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/18c878cf3fb349c7b11039d3f977a455.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/toh-lim",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 2-317-7101",
+    "coordinates": {
+      "lon": 126.981,
+      "lat": 37.56531
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Chinese",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "yu-yuan",
+    "name": "유 유안",
+    "ko": "유 유안",
+    "nameEn": "Yu Yuan",
+    "cuisine": "chinese",
+    "sourceCuisine": "중식",
+    "address": "서울 종로구 새문안로 97, 포시즌스 호텔 11층",
+    "area": "jongno",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/yu-yuan",
+        "title": "MICHELIN Guide · 유 유안"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/yu-yuan",
+        "title": "MICHELIN Guide · Yu Yuan (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/5fa2110a2cd34151ac9d1d3791f1b374.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/yu-yuan",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 2-6388-5500",
+    "coordinates": {
+      "lon": 126.97545,
+      "lat": 37.57049
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Chinese",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "jue",
+    "name": "쥬에",
+    "ko": "쥬에",
+    "nameEn": "JUE",
+    "cuisine": "chinese",
+    "sourceCuisine": "중식",
+    "address": "서울 용산구 독서당로 124-7",
+    "area": "hannam",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/jue",
+        "title": "MICHELIN Guide · 쥬에"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/jue",
+        "title": "MICHELIN Guide · JUE (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/daf7216944dc434da503dc09a67bb76d.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/jue",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 2-798-9700",
+    "coordinates": {
+      "lon": 127.01277,
+      "lat": 37.53744
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Chinese",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "zhonghuafuchun-salon",
+    "name": "중화복춘 살롱",
+    "ko": "중화복춘 살롱",
+    "nameEn": "Zhonghuafuchun Salon",
+    "cuisine": "chinese",
+    "sourceCuisine": "중식",
+    "address": "서울 마포구 연남로 10",
+    "area": "mapo",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/zhonghuafuchun-salon",
+        "title": "MICHELIN Guide · 중화복춘 살롱"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/zhonghuafuchun-salon",
+        "title": "MICHELIN Guide · Zhonghuafuchun Salon (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/65a0c0a4ed8d426296d667bd3c3bbf82.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/zhonghuafuchun-salon",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 10-5124-2207",
+    "coordinates": {
+      "lon": 126.92335,
+      "lat": 37.56068
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Chinese",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "jin-jin",
+    "name": "진진",
+    "ko": "진진",
+    "nameEn": "Jin Jin",
+    "cuisine": "chinese",
+    "sourceCuisine": "중식",
+    "address": "서울 마포구 월드컵북로 1길 60",
+    "area": "mapo",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/jin-jin",
+        "title": "MICHELIN Guide · 진진"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/jin-jin",
+        "title": "MICHELIN Guide · Jin Jin (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/d9c6f73705a94015b96f417a421f7b03.jpg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/jin-jin",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 70-5035-8878",
+    "coordinates": {
+      "lon": 126.91324,
+      "lat": 37.55777
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Chinese",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "sobajuu",
+    "name": "소바쥬",
+    "ko": "소바쥬",
+    "nameEn": "Sobajuu",
+    "cuisine": "japanese",
+    "sourceCuisine": "일식",
+    "address": "서울 강남구 강남대로 152길 65, 3층",
+    "area": "gangnam",
+    "tags": [
+      "noodles"
+    ],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/sobajuu",
+        "title": "MICHELIN Guide · 소바쥬"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/sobajuu",
+        "title": "MICHELIN Guide · Sobajuu (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/f7009b5e791545e099e63f1e7b2d0961.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/sobajuu",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 10-9473-9023",
+    "coordinates": {
+      "lon": 126.94629,
+      "lat": 37.54126
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Japanese",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "hakusi",
+    "name": "하쿠시",
+    "ko": "하쿠시",
+    "nameEn": "Hakusi",
+    "cuisine": "japanese",
+    "sourceCuisine": "일식",
+    "address": "서울 강남구 언주로 157길 8-4, 2층",
+    "area": "gangnam",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/hakusi",
+        "title": "MICHELIN Guide · 하쿠시"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/hakusi",
+        "title": "MICHELIN Guide · Hakusi (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/d93b5de257704c199443ae7931f46162.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/hakusi",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 10-7316-6212",
+    "coordinates": {
+      "lon": 127.03227,
+      "lat": 37.52414
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Japanese",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "kirameki",
+    "name": "키라메키",
+    "ko": "키라메키",
+    "nameEn": "Kirameki",
+    "cuisine": "japanese",
+    "sourceCuisine": "일식",
+    "address": "서울 강남구 도산대로 28길 18",
+    "area": "gangnam",
+    "tags": [
+      "rice"
+    ],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/kirameki",
+        "title": "MICHELIN Guide · 키라메키"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/kirameki",
+        "title": "MICHELIN Guide · Kirameki (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/36a0a40c2cdd4953b760f844dd39fdfd.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/kirameki",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 10-3894-2356",
+    "coordinates": {
+      "lon": 127.02822,
+      "lat": 37.51808
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Japanese",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "gaggen",
+    "name": "가겐 바이 최준호",
+    "ko": "가겐 바이 최준호",
+    "nameEn": "GAGGEN by Choi Junho",
+    "cuisine": "japanese",
+    "sourceCuisine": "일식",
+    "address": "서울 강남구 압구정로 80길 19-1, 2층",
+    "area": "gangnam",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/gaggen",
+        "title": "MICHELIN Guide · 가겐 바이 최준호"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/gaggen",
+        "title": "MICHELIN Guide · GAGGEN by Choi Junho (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/e364f31f9b8c45f5b3632580a478c1da.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/gaggen",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 2-542-0176",
+    "coordinates": {
+      "lon": 127.04523,
+      "lat": 37.52451
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Japanese",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "mitou",
+    "name": "미토우",
+    "ko": "미토우",
+    "nameEn": "Mitou",
+    "cuisine": "japanese",
+    "sourceCuisine": "일식",
+    "address": "서울 강남구 도산대로 70길 24",
+    "area": "gangnam",
+    "tags": [
+      "rice"
+    ],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/mitou",
+        "title": "MICHELIN Guide · 미토우"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/mitou",
+        "title": "MICHELIN Guide · Mitou (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/445960fc5aeb44d58ad640649a04c701.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/mitou",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 10-7286-9914",
+    "coordinates": {
+      "lon": 127.04502,
+      "lat": 37.52206
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Japanese",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "sanro",
+    "name": "산로",
+    "ko": "산로",
+    "nameEn": "Sanro",
+    "cuisine": "japanese",
+    "sourceCuisine": "일식",
+    "address": "서울 강남구 도산대로 518, 2층",
+    "area": "gangnam",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/sanro",
+        "title": "MICHELIN Guide · 산로"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/sanro",
+        "title": "MICHELIN Guide · Sanro (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/fc0b2fca8a0147ef8e5700167632bb45.jpg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/sanro",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 50-6465-6292",
+    "coordinates": {
+      "lon": 127.04978,
+      "lat": 37.52417
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Japanese",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "sosuheon",
+    "name": "소수헌",
+    "ko": "소수헌",
+    "nameEn": "Sosuheon",
+    "cuisine": "japanese",
+    "sourceCuisine": "스시",
+    "address": "서울 중구 만리재로 21길 8",
+    "area": "jung",
+    "tags": [
+      "seafood"
+    ],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/sosuheon",
+        "title": "MICHELIN Guide · 소수헌"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/sosuheon",
+        "title": "MICHELIN Guide · Sosuheon (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/c287df347b474c60a0730f907a89ff2b.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/sosuheon",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 10-9694-3368",
+    "coordinates": {
+      "lon": 126.9634,
+      "lat": 37.55294
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Sushi",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "hane",
+    "name": "하네",
+    "ko": "하네",
+    "nameEn": "HANE",
+    "cuisine": "japanese",
+    "sourceCuisine": "스시",
+    "address": "서울 강남구 언주로 172길 14",
+    "area": "gangnam",
+    "tags": [
+      "seafood"
+    ],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/hane",
+        "title": "MICHELIN Guide · 하네"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/hane",
+        "title": "MICHELIN Guide · HANE (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/78d8edbf8cd74d7b91ed2ed899977c5d.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/hane",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 10-9773-0887",
+    "coordinates": {
+      "lon": 127.0348773,
+      "lat": 37.5275808
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Sushi",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "sushi-matsumoto-1195338",
+    "name": "스시 마츠모토",
+    "ko": "스시 마츠모토",
+    "nameEn": "Sushi Matsumoto",
+    "cuisine": "japanese",
+    "sourceCuisine": "스시",
+    "address": "서울 강남구 도산대로 75길 24",
+    "area": "gangnam",
+    "tags": [
+      "seafood"
+    ],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/sushi-matsumoto-1195338",
+        "title": "MICHELIN Guide · 스시 마츠모토"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/sushi-matsumoto-1195338",
+        "title": "MICHELIN Guide · Sushi Matsumoto (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/e6031286fd0b466a90940352176deab7.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/sushi-matsumoto-1195338",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 2-543-4334",
+    "coordinates": {
+      "lon": 127.04573,
+      "lat": 37.52535
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Sushi",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "sushi-kanesaka-1244365",
+    "name": "스시 카네사카",
+    "ko": "스시 카네사카",
+    "nameEn": "Sushi Kanesaka",
+    "cuisine": "japanese",
+    "sourceCuisine": "스시",
+    "address": "서울 강남구 테헤란로 521, 그랜드 인터컨티넨탈 서울 파르나스 1층",
+    "area": "gangnam",
+    "tags": [
+      "rice",
+      "seafood"
+    ],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/sushi-kanesaka-1244365",
+        "title": "MICHELIN Guide · 스시 카네사카"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/sushi-kanesaka-1244365",
+        "title": "MICHELIN Guide · Sushi Kanesaka (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/83a2f69c23064ab3a30277198023e13e.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/sushi-kanesaka-1244365",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 2-559-7627",
+    "coordinates": {
+      "lon": 127.06089,
+      "lat": 37.50904
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Sushi",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "nishimuramen",
+    "name": "니시무라멘",
+    "ko": "니시무라멘",
+    "nameEn": "Nishimuramen",
+    "cuisine": "japanese",
+    "sourceCuisine": "라멘",
+    "address": "서울 마포구 동교로 265, 4층",
+    "area": "mapo",
+    "tags": [
+      "noodles"
+    ],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/nishimuramen",
+        "title": "MICHELIN Guide · 니시무라멘"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/nishimuramen",
+        "title": "MICHELIN Guide · Nishimuramen (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/ba6fb98b75b04ffea4625cb1b8e536b9.jpg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/nishimuramen",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 10-9596-1122",
+    "coordinates": {
+      "lon": 126.92526,
+      "lat": 37.56337
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Ramen",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "sarukame",
+    "name": "사루카메",
+    "ko": "사루카메",
+    "nameEn": "Sarukame",
+    "cuisine": "japanese",
+    "sourceCuisine": "라멘",
+    "address": "서울 마포구 연남로 15",
+    "area": "mapo",
+    "tags": [
+      "noodles"
+    ],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/sarukame",
+        "title": "MICHELIN Guide · 사루카메"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/sarukame",
+        "title": "MICHELIN Guide · Sarukame (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/338711fcc69b45849c02c3122637092a.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/sarukame",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": null,
+    "coordinates": {
+      "lon": 126.92267,
+      "lat": 37.56103
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Ramen",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "oreno-ramen",
+    "name": "오레노 라멘",
+    "ko": "오레노 라멘",
+    "nameEn": "Oreno Ramen",
+    "cuisine": "japanese",
+    "sourceCuisine": "라멘",
+    "address": "서울 마포구 독막로 8길 16",
+    "area": "mapo",
+    "tags": [
+      "noodles",
+      "soup"
+    ],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/oreno-ramen",
+        "title": "MICHELIN Guide · 오레노 라멘"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/oreno-ramen",
+        "title": "MICHELIN Guide · Oreno Ramen (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/6627e00f0b1a4727ba5c85b64cafd278.jpg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/oreno-ramen",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 2-322-3539",
+    "coordinates": {
+      "lon": 126.91781,
+      "lat": 37.54725
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Ramen",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "damtaek",
+    "name": "담택",
+    "ko": "담택",
+    "nameEn": "Damtaek",
+    "cuisine": "japanese",
+    "sourceCuisine": "라멘",
+    "address": "서울 마포구 동교로12안길 51",
+    "area": "mapo",
+    "tags": [
+      "noodles"
+    ],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/damtaek",
+        "title": "MICHELIN Guide · 담택"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/damtaek",
+        "title": "MICHELIN Guide · Damtaek (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/404c06bd801649d6b3143557cd733624.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/damtaek",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 2-332-4560",
+    "coordinates": {
+      "lon": 126.91512,
+      "lat": 37.55448
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Ramen",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "horapa",
+    "name": "호라파",
+    "ko": "호라파",
+    "nameEn": "HORAPA",
+    "cuisine": "thai",
+    "sourceCuisine": "타이",
+    "address": "서울 종로구 자하문로 37-1, 2층",
+    "area": "jongno",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/horapa",
+        "title": "MICHELIN Guide · 호라파"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/horapa",
+        "title": "MICHELIN Guide · HORAPA (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/229e830a15e94c338903379524afaaf0.jpg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/horapa",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 2-730-0215",
+    "coordinates": {
+      "lon": 126.9711,
+      "lat": 37.57938
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Thai",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "youhan",
+    "name": "유한",
+    "ko": "유한",
+    "nameEn": "Youhan",
+    "cuisine": "thai",
+    "sourceCuisine": "타이",
+    "address": "서울 용산구 대사관로 5길 10-5",
+    "area": "yongsan",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/youhan",
+        "title": "MICHELIN Guide · 유한"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/youhan",
+        "title": "MICHELIN Guide · Youhan (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/e9b23b360b1b498bb079007d7d9722ab.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/youhan",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 70-8691-1509",
+    "coordinates": {
+      "lon": 127.00108,
+      "lat": 37.53482
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Thai",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "manao",
+    "name": "마나오",
+    "ko": "마나오",
+    "nameEn": "Manao",
+    "cuisine": "thai",
+    "sourceCuisine": "타이",
+    "address": "서울 용산구 한남대로 21길 18, 2층",
+    "area": "hannam",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/manao",
+        "title": "MICHELIN Guide · 마나오"
+      },
+      {
+        "url": "https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/manao",
+        "title": "MICHELIN Guide · Manao (English)"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/f3bd689498124f4d99d3b85e69997297.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/manao",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 50-71368-0346",
+    "coordinates": {
+      "lon": 127.00613,
+      "lat": 37.53411
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "sourceCuisineEn": "Thai",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "thai-thaiselect06",
+    "name": "부다스벨리 파미에스테이션",
+    "ko": "부다스벨리 파미에스테이션",
+    "nameEn": "BUDDHA'S BELLY, FAMILLE",
+    "cuisine": "thai",
+    "sourceCuisine": "Thai",
+    "address": "서울시 서초구 사평대로 205 센트럴시티 파미에스테이션 1층 115호 부다스벨리",
+    "area": "seocho",
+    "tags": [],
+    "sources": [
+      {
+        "title": "Thai SELECT Korea · 부다스벨리 파미에스테이션",
+        "url": "https://www.thaiselect.kr/restaurants/thaiselect06"
+      }
+    ],
+    "photoUrl": "https://glysdwhvbtlxgpwjoaoq.supabase.co/storage/v1/object/public/restaurant-photos/b61d27f1-20c2-44f8-b1b1-e5a980d30593/eedc64ae-ec03-4aa9-9125-979426aeddf6.jpg",
+    "photoSourceUrl": "https://www.thaiselect.kr/restaurants/thaiselect06",
+    "sourceDescription": "2005년 경리단길 초입에 본점을 오픈한 이래, 지난 20여 년간 독보적인 맛과 세련된 감각으로 서울을 대표하는 프리미엄 타이 레스토랑",
+    "description": null,
+    "menuPrices": [],
+    "sourcePriceRange": "1~3만원대",
+    "hours": null,
+    "phone": "02-6282-1959",
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "thai-thaiselect01",
+    "name": "어메이징 농카이",
+    "ko": "어메이징 농카이",
+    "nameEn": "AMAZING NONGKHAI",
+    "cuisine": "thai",
+    "sourceCuisine": "Thai",
+    "address": "서울시 마포구 동교로 156-11 1층",
+    "area": "mapo",
+    "tags": [],
+    "sources": [
+      {
+        "title": "Thai SELECT Korea · 어메이징 농카이",
+        "url": "https://www.thaiselect.kr/restaurants/thaiselect01"
+      }
+    ],
+    "photoUrl": "https://glysdwhvbtlxgpwjoaoq.supabase.co/storage/v1/object/public/restaurant-photos/435c4010-670e-48c4-b74c-09cddbef3b87/4f9f58da-cb9c-401f-bea5-f82d2e9147a8.jpg",
+    "photoSourceUrl": "https://www.thaiselect.kr/restaurants/thaiselect01",
+    "sourceDescription": "안녕하십니까. 30여년 경력의 주방장님과 요리사님들 께서 정성스런 음식을 선보이는 정통 태국음식점 어메이징 농카이를 찾아주셔서 감사합니다. 저희의 시그니쳐 메뉴는 고소하고 달콤한 푸팟퐁커리와 매콤 새콤한 똠얌꿍 입니다. 정성을 다하는 레스토랑이 되도록 노력하는 어메이징 농카이 일동이 되겠습니다. 감사합니다.",
+    "description": null,
+    "menuPrices": [],
+    "sourcePriceRange": "1~3만원대",
+    "hours": null,
+    "phone": "02-322-0567",
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "thai-thaiselect39",
+    "name": "딸랏롯빠이",
+    "ko": "딸랏롯빠이",
+    "nameEn": "TALARODFAI",
+    "cuisine": "thai",
+    "sourceCuisine": "Thai",
+    "address": "서울 관악구 관악로12길 113 대원빌딩 1층",
+    "area": "gwanak",
+    "tags": [],
+    "sources": [
+      {
+        "title": "Thai SELECT Korea · 딸랏롯빠이",
+        "url": "https://www.thaiselect.kr/restaurants/thaiselect39"
+      }
+    ],
+    "photoUrl": "https://glysdwhvbtlxgpwjoaoq.supabase.co/storage/v1/object/public/restaurant-photos/d3f1cbb9-b8a1-4c65-817e-4b8eb793d086/400f7d7f-f3ac-4b27-8e5e-6ec3f44a5e24.jpg",
+    "photoSourceUrl": "https://www.thaiselect.kr/restaurants/thaiselect39",
+    "sourceDescription": "태국의 진짜 한 그릇을 전하는 곳, 딸랏롯빠이\r\n\r\n안녕하세요.\r\n서울 관악구 샤로수길에 위치한 \r\n태국 음식 전문점 **딸랏롯빠이(TalaRodFai)**입니다.\r\n\r\n'딸랏롯빠이'는 태국 방콕의 유명한 야시장 이름에서 따온 \r\n이름으로, 여행에서 만났던 현지의 맛과 분위기를 그대로 전하고 싶다는 마음으로 시작했습니다.\r\n\r\n2015년부터 태국 음식을 연구하며 \r\n한결같이 운영해 왔으며, 각종 뉴스와 방송에 노출되었으며SBS 생활의 달인 '태국 쌀국수 달인'에 출연해 태국 현지의 맛을 인정받았습니다.\r\n\r\n저희는 물에 분말을 타는 방식이 아닌, 매일 아침 소뼈와 아롱사태를 오랜 시간 정성껏 우려낸 육수를 사용합니다. \r\n깊고 진한 국물과 태국 현지에서 사용하는 향신료를 \r\n조화롭게 담아 한국에서도 진짜 태국 현지의 맛을 \r\n경험하실 수 있도록 노력하고 있습니다.\r\n\r\n대표 메뉴는 깊은 육수의 꾸에이띠어우 느아 뚠, 새콤하고 매콤한 똠얌누들, 오직 딸랏롯빠이에서만 맛볼 수 있는 딸랏 쌀국수, 그리고 부드럽고 진한 꿍팟퐁커리입니다.\r\n\r\n매장은 테이블 3개의 작은 공간이지만, 한 그릇 한 그릇에 정성을 담기 위해 많은 양을 미리 만들어 두지 않습니다. 준비한 육수가 모두 소진되면 조기 마감하는 이유도 최고의 맛을 유지하기 위해서입니다.\r\n\r\n태국을 여행하며 먹었던 그 맛이 그리운 분,\r\n처음 태국 음식을 접하는 분 모두가 만족할 수 있는 한 그릇을 준비하겠습니다.\r\n\r\n한 번의 식사가 태국 여행의 추억이 될 수 있도록.\r\n딸랏롯빠이에서 진짜 태국의 맛을 만나보세요.",
+    "description": null,
+    "menuPrices": [],
+    "sourcePriceRange": "1~2만원대",
+    "hours": null,
+    "phone": "0507-1464-4558",
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "thai-thaiselect05",
+    "name": "부다스벨리 레가시",
+    "ko": "부다스벨리 레가시",
+    "nameEn": "BUDDHA'S BELLY",
+    "cuisine": "thai",
+    "sourceCuisine": "Thai",
+    "address": "서울 용산구 녹사평대로40길 48 1층 부다스벨리 04345",
+    "area": "yongsan",
+    "tags": [],
+    "sources": [
+      {
+        "title": "Thai SELECT Korea · 부다스벨리 레가시",
+        "url": "https://www.thaiselect.kr/restaurants/thaiselect05"
+      }
+    ],
+    "photoUrl": "https://glysdwhvbtlxgpwjoaoq.supabase.co/storage/v1/object/public/restaurant-photos/707b79bc-990c-40ef-9b88-484b3483001b/39d7b29f-5107-4980-af35-fd24ee7f3539.jpg",
+    "photoSourceUrl": "https://www.thaiselect.kr/restaurants/thaiselect05",
+    "sourceDescription": "부다스벨리는 2005년 경리단길 초입에 본점을 오픈한 이래, 지난 20여 년간 독보적인 맛과 세련된 감각으로 서울을 대표하는 프리미엄 타이 레스토랑으로 자리 잡아 왔습니다.\r\n\r\n반포 신세계 파미에스테이션점 및 삼각지 sub 브랜드 태국 음식점을 운영하고 있으며\r\n\r\n부다스벨리는 태국 정부가 심사하여 정통 태국 요리 레스토랑에 부여하는 세계적인 인증인 ‘타이 셀렉트(Thai Select)’에서 우리 나라 단 4곳 뿐인 최상급 2스타(★★) 인증을 받았을 뿐만 아니라, 국내 가장 공신력 있는 미식 가이드인 '블루리본 서베이'에 10년 연속 선정된 검증된 브랜드입니다.",
+    "description": null,
+    "menuPrices": [],
+    "sourcePriceRange": "1~3만원대",
+    "hours": null,
+    "phone": "02-796-9330",
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "thai-thaiselect27",
+    "name": "레몬그라스 타이 서초점",
+    "ko": "레몬그라스 타이 서초점",
+    "nameEn": "LEMONGRASS THAI",
+    "cuisine": "thai",
+    "sourceCuisine": "Thai",
+    "address": "서울특별시 서초구 효령로68길 67",
+    "area": "seocho",
+    "tags": [],
+    "sources": [
+      {
+        "title": "Thai SELECT Korea · 레몬그라스 타이 서초점",
+        "url": "https://www.thaiselect.kr/restaurants/thaiselect27"
+      }
+    ],
+    "photoUrl": "https://glysdwhvbtlxgpwjoaoq.supabase.co/storage/v1/object/public/restaurant-photos/56f808e7-c7f0-46ad-85ef-4ed5408545c5/32c6235d-7cdc-487a-bb29-36720a37b94b.jpg",
+    "photoSourceUrl": "https://www.thaiselect.kr/restaurants/thaiselect27",
+    "sourceDescription": "레몬그라스 타이는 2019년에 시작된 태국음식 전문 브랜드로 태국 요리의 정통성을 지키면서 누구나 부담없이 즐길 수 있는 맛을 연구합니다.\r\n레몬그라스 타이는 태국의 본연의 맛을 담아 언제나 신선하고 정직한 한끼를 제공합니다.",
+    "description": null,
+    "menuPrices": [],
+    "sourcePriceRange": "1-3만원대",
+    "hours": null,
+    "phone": "02-522-3029",
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "thai-thaiselect23",
+    "name": "크루아타이",
+    "ko": "크루아타이",
+    "nameEn": "KRUA THAI",
+    "cuisine": "thai",
+    "sourceCuisine": "Thai",
+    "address": "서울 중구 세종대로 14 1층 104호",
+    "area": "jung",
+    "tags": [],
+    "sources": [
+      {
+        "title": "Thai SELECT Korea · 크루아타이",
+        "url": "https://www.thaiselect.kr/restaurants/thaiselect23"
+      }
+    ],
+    "photoUrl": "https://glysdwhvbtlxgpwjoaoq.supabase.co/storage/v1/object/public/restaurant-photos/3a355429-0a6d-4e49-8641-68f93c5ca5fa/31f5fb55-5e9e-42c1-a215-93d6dd6489bb.jpg",
+    "photoSourceUrl": "https://www.thaiselect.kr/restaurants/thaiselect23",
+    "sourceDescription": "안녕하세요 :) \r\n한국인 및 현지인들이 길거리에서 쉽게 접하고 즐겨 먹는 \r\n태국 음식 전문점 KRUA THAI 입니다.\r\nKRUA는 태국어로 부엌, 주방 이라는 의미 입니다.\r\nKRUA THAI는 태국 현지 음식의 맛을 지향합니다.",
+    "description": null,
+    "menuPrices": [],
+    "sourcePriceRange": "1 -3만원대",
+    "hours": null,
+    "phone": "02-6411-6420 ",
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "thai-thaiselect24",
+    "name": "레몬그라스 타이 개포점",
+    "ko": "레몬그라스 타이 개포점",
+    "nameEn": "LEMONGRASS THAI (GAEPO)",
+    "cuisine": "thai",
+    "sourceCuisine": "Thai",
+    "address": "서울 강남구 개포로22길 12 1층",
+    "area": "gangnam",
+    "tags": [],
+    "sources": [
+      {
+        "title": "Thai SELECT Korea · 레몬그라스 타이 개포점",
+        "url": "https://www.thaiselect.kr/restaurants/thaiselect24"
+      }
+    ],
+    "photoUrl": "https://glysdwhvbtlxgpwjoaoq.supabase.co/storage/v1/object/public/restaurant-photos/4e0fc28e-a5c8-460f-9284-032a92b55dc0/42be042b-6304-41a5-b368-5d3c0a05a31b.jpg",
+    "photoSourceUrl": "https://www.thaiselect.kr/restaurants/thaiselect24",
+    "sourceDescription": "레몬그라스 타이는 2019년에 시작된 태국음식 전문 브랜드로 태국 요리의 정통성을 지키면서 누구나 부담없이 즐길 수 있는 맛을 연구합니다.\r\n레몬그라스 타이는 태국의 본연의 맛을 담아 언제나 신선하고 정직한 한끼를 제공합니다.",
+    "description": null,
+    "menuPrices": [],
+    "sourcePriceRange": "1-3만원대",
+    "hours": null,
+    "phone": "02-575-3029",
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "thai-thaiselect25",
+    "name": "레몬그라스 타이 이수점",
+    "ko": "레몬그라스 타이 이수점",
+    "nameEn": "LEMONGRASS THAI (ISU)",
+    "cuisine": "thai",
+    "sourceCuisine": "Thai",
+    "address": "서울 동작구 동작대로29길 63-1 (07008)",
+    "area": "",
+    "tags": [],
+    "sources": [
+      {
+        "title": "Thai SELECT Korea · 레몬그라스 타이 이수점",
+        "url": "https://www.thaiselect.kr/restaurants/thaiselect25"
+      }
+    ],
+    "photoUrl": "https://glysdwhvbtlxgpwjoaoq.supabase.co/storage/v1/object/public/restaurant-photos/efb4f6fa-7372-4c33-b7cf-af6980a5fe9b/f600a4e4-f60a-4555-8cab-81312b2653a8.jpg",
+    "photoSourceUrl": "https://www.thaiselect.kr/restaurants/thaiselect25",
+    "sourceDescription": "레몬그라스 타이는 2019년에 시작된 태국음식 전문 브랜드로 태국 요리의 정통성을 지키면서 누구나 부담없이 즐길 수 있는 맛을 연구합니다.\r\n레몬그라스 타이는 태국의 본연의 맛을 담아 언제나 신선하고 정직한 한끼를 제공합니다.",
+    "description": null,
+    "menuPrices": [],
+    "sourcePriceRange": "1-3만원대",
+    "hours": null,
+    "phone": "02-535-3029",
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "thai-thaiselect26",
+    "name": "레몬그라스 타이 잠실점",
+    "ko": "레몬그라스 타이 잠실점",
+    "nameEn": "LEMONGRASS THAI (JAMSIL)",
+    "cuisine": "thai",
+    "sourceCuisine": "Thai",
+    "address": "서울 송파구 백제고분로9길 9",
+    "area": "songpa",
+    "tags": [],
+    "sources": [
+      {
+        "title": "Thai SELECT Korea · 레몬그라스 타이 잠실점",
+        "url": "https://www.thaiselect.kr/restaurants/thaiselect26"
+      }
+    ],
+    "photoUrl": "https://glysdwhvbtlxgpwjoaoq.supabase.co/storage/v1/object/public/restaurant-photos/d11acd48-2f63-4291-9582-0307a21e43da/85ee7c4b-1c75-4c84-b6cd-e41abdff2c2b.jpg",
+    "photoSourceUrl": "https://www.thaiselect.kr/restaurants/thaiselect26",
+    "sourceDescription": "레몬그라스 타이는 2019년에 시작된 태국음식 전문 브랜드로 태국 요리의 정통성을 지키면서 누구나 부담없이 즐길 수 있는 맛을 연구합니다.\r\n레몬그라스 타이는 태국의 본연의 맛을 담아 언제나 신선하고 정직한 한끼를 제공합니다.",
+    "description": null,
+    "menuPrices": [],
+    "sourcePriceRange": "1-3만원대",
+    "hours": null,
+    "phone": "02-415-3029",
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "thai-thaiselect28",
+    "name": "레몬그라스 타이 신림점",
+    "ko": "레몬그라스 타이 신림점",
+    "nameEn": "LEMONGRASS THAI (SILLIM)",
+    "cuisine": "thai",
+    "sourceCuisine": "Thai",
+    "address": "서울 관악구 봉천로 245 1층",
+    "area": "gwanak",
+    "tags": [],
+    "sources": [
+      {
+        "title": "Thai SELECT Korea · 레몬그라스 타이 신림점",
+        "url": "https://www.thaiselect.kr/restaurants/thaiselect28"
+      }
+    ],
+    "photoUrl": "https://glysdwhvbtlxgpwjoaoq.supabase.co/storage/v1/object/public/restaurant-photos/4912b8cd-8899-47a7-b5d4-6962b113e2f6/90065aae-fa42-4b21-92b0-15b138b33fa6.jpg",
+    "photoSourceUrl": "https://www.thaiselect.kr/restaurants/thaiselect28",
+    "sourceDescription": "레몬그라스 타이는 2019년에 시작된 태국음식 전문 브랜드로 태국 요리의 정통성을 지키면서 누구나 부담없이 즐길 수 있는 맛을 연구합니다.\r\n레몬그라스 타이는 태국의 본연의 맛을 담아 언제나 신선하고 정직한 한끼를 제공합니다.",
+    "description": null,
+    "menuPrices": [],
+    "sourcePriceRange": "1-3만원대",
+    "hours": null,
+    "phone": "02-875-3029",
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "thai-thaiselect20",
+    "name": "콘타이 소피텔 앰버서더 호텔 송파KT",
+    "ko": "콘타이 소피텔 앰버서더 호텔 송파KT",
+    "nameEn": "KONTHAI SONGPA KT",
+    "cuisine": "thai",
+    "sourceCuisine": "Thai",
+    "address": "서울 송파구 잠실로 209 2층 218호",
+    "area": "songpa",
+    "tags": [],
+    "sources": [
+      {
+        "title": "Thai SELECT Korea · 콘타이 소피텔 앰버서더 호텔 송파KT",
+        "url": "https://www.thaiselect.kr/restaurants/thaiselect20"
+      }
+    ],
+    "photoUrl": "https://glysdwhvbtlxgpwjoaoq.supabase.co/storage/v1/object/public/restaurant-photos/55f5efb6-084d-49de-b9a4-96ffc6a3c73d/e7f1cbe2-310f-4ae3-8c4a-2d18958691d9.png",
+    "photoSourceUrl": "https://www.thaiselect.kr/restaurants/thaiselect20",
+    "sourceDescription": "태국보다 더 맛있는 태국음식점 \"콘타이\"입니다.\r\n\r\n잠실역 10번출구로 나와서  도보로 300m직진후 우회전하시면 보이는 스타벅스 윗층에 위치해있습니다~:))",
+    "description": null,
+    "menuPrices": [],
+    "sourcePriceRange": "",
+    "hours": null,
+    "phone": "02-423-1060",
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices",
+      "opening hours"
+    ],
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/png",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "dintaifung-myungdong",
+    "name": "딘타이펑 명동점",
+    "ko": "딘타이펑 명동점",
+    "nameEn": "Din Tai Fung Myeongdong",
+    "cuisine": "chinese",
+    "sourceCuisine": "Taiwanese / Chinese dumplings",
+    "address": "서울특별시 중구 명동 7길 13 호텔28 2층",
+    "area": "myeongdong",
+    "tags": [
+      "rice",
+      "noodles"
+    ],
+    "sources": [
+      {
+        "url": "https://www.dintaifung.co.kr/store/myungdong.php",
+        "title": "Din Tai Fung official · 명동점"
+      },
+      {
+        "url": "https://www.dintaifung.co.kr/menu/menu.php?idx=1",
+        "title": "Din Tai Fung official menus"
+      }
+    ],
+    "photoUrl": "https://www.dintaifung.co.kr/asset/img/store/img_myungdong_new_store01.jpg",
+    "photoUrls": [
+      "https://www.dintaifung.co.kr/asset/img/store/img_myungdong_new_store01.jpg",
+      "https://www.dintaifung.co.kr/asset/img/store/img_myungdong_new_store02.jpg",
+      "https://www.dintaifung.co.kr/asset/img/store/img_myungdong_new_store03.jpg",
+      "https://www.dintaifung.co.kr/asset/img/store/img_myungdong_new_store04.jpg",
+      "https://www.dintaifung.co.kr/asset/img/store/img_myungdong_new_store05.jpg",
+      "https://www.dintaifung.co.kr/asset/img/store/img_myungdong_new_store06.jpg"
+    ],
+    "photoSourceUrl": "https://www.dintaifung.co.kr/store/myungdong.php",
+    "description": null,
+    "menuPrices": [],
+    "hours": "오전 11시 ~ 오후 9시 (라스트오더 20:10)",
+    "phone": "TEL.02-3789-2778",
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices"
+    ],
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "dintaifung-gangnam",
+    "name": "딘타이펑 강남점",
+    "ko": "딘타이펑 강남점",
+    "nameEn": "Din Tai Fung Gangnam",
+    "cuisine": "chinese",
+    "sourceCuisine": "Taiwanese / Chinese dumplings",
+    "address": "서울특별시 서초구 서초대로 73길 12 세계빌딩 2층",
+    "area": "gangnam",
+    "tags": [
+      "rice",
+      "noodles"
+    ],
+    "sources": [
+      {
+        "url": "https://www.dintaifung.co.kr/store/gangnam.php",
+        "title": "Din Tai Fung official · 강남점"
+      },
+      {
+        "url": "https://www.dintaifung.co.kr/menu/menu.php?idx=1",
+        "title": "Din Tai Fung official menus"
+      }
+    ],
+    "photoUrl": "https://www.dintaifung.co.kr/asset/img/store/img_gangnam_store01.jpg",
+    "photoUrls": [
+      "https://www.dintaifung.co.kr/asset/img/store/img_gangnam_store01.jpg",
+      "https://www.dintaifung.co.kr/asset/img/store/img_gangnam_store02.jpg",
+      "https://www.dintaifung.co.kr/asset/img/store/img_gangnam_store03.jpg",
+      "https://www.dintaifung.co.kr/asset/img/store/img_gangnam_store04.jpg",
+      "https://www.dintaifung.co.kr/asset/img/store/img_gangnam_store05.jpg",
+      "https://www.dintaifung.co.kr/asset/img/store/img_gangnam_store06.jpg",
+      "https://www.dintaifung.co.kr/asset/img/store/img_gangnam_store07.jpg",
+      "https://www.dintaifung.co.kr/asset/img/store/img_gangnam_store08.jpg"
+    ],
+    "photoSourceUrl": "https://www.dintaifung.co.kr/store/gangnam.php",
+    "description": null,
+    "menuPrices": [],
+    "hours": "오전 11시 ~ 오후 10시 (라스트오더 21:00)",
+    "phone": "TEL.02-534-2783",
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices"
+    ],
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "dintaifung-lottegimpo",
+    "name": "딘타이펑 롯데몰김포공항점",
+    "ko": "딘타이펑 롯데몰김포공항점",
+    "nameEn": "Din Tai Fung Lotte Mall Gimpo Airport",
+    "cuisine": "chinese",
+    "sourceCuisine": "Taiwanese / Chinese dumplings",
+    "address": "서울특별시 강서구 하늘길 38 롯데몰 김포공항점 지하 2층",
+    "area": "gangseo",
+    "tags": [
+      "rice",
+      "noodles"
+    ],
+    "sources": [
+      {
+        "url": "https://www.dintaifung.co.kr/store/lottegimpo.php",
+        "title": "Din Tai Fung official · 롯데몰김포공항점"
+      },
+      {
+        "url": "https://www.dintaifung.co.kr/menu/menu.php?idx=1",
+        "title": "Din Tai Fung official menus"
+      }
+    ],
+    "photoUrl": "https://www.dintaifung.co.kr/asset/img/store/img_lottegimpo_store01.jpg",
+    "photoUrls": [
+      "https://www.dintaifung.co.kr/asset/img/store/img_lottegimpo_store01.jpg",
+      "https://www.dintaifung.co.kr/asset/img/store/img_lottegimpo_store02.jpg",
+      "https://www.dintaifung.co.kr/asset/img/store/img_lottegimpo_store03.jpg",
+      "https://www.dintaifung.co.kr/asset/img/store/img_lottegimpo_store04.jpg"
+    ],
+    "photoSourceUrl": "https://www.dintaifung.co.kr/store/lottegimpo.php",
+    "description": null,
+    "menuPrices": [],
+    "hours": "오전 10시 30분 ~ 오후 10시 (라스트오더 21:00)",
+    "phone": "TEL.02-6116-5537",
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices"
+    ],
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "dintaifung-timessquare",
+    "name": "딘타이펑 영등포타임스퀘어점",
+    "ko": "딘타이펑 영등포타임스퀘어점",
+    "nameEn": "Din Tai Fung Times Square Yeongdeungpo",
+    "cuisine": "chinese",
+    "sourceCuisine": "Taiwanese / Chinese dumplings",
+    "address": "서울특별시 영등포구 영중로 15 경방타임스퀘어 4F",
+    "area": "yeongdeungpo",
+    "tags": [
+      "rice",
+      "noodles"
+    ],
+    "sources": [
+      {
+        "url": "https://www.dintaifung.co.kr/store/timessquare.php",
+        "title": "Din Tai Fung official · 영등포타임스퀘어점"
+      },
+      {
+        "url": "https://www.dintaifung.co.kr/menu/menu.php?idx=1",
+        "title": "Din Tai Fung official menus"
+      }
+    ],
+    "photoUrl": "https://www.dintaifung.co.kr/asset/img/store/img_timessquare_new_store01.jpg",
+    "photoUrls": [
+      "https://www.dintaifung.co.kr/asset/img/store/img_timessquare_new_store01.jpg",
+      "https://www.dintaifung.co.kr/asset/img/store/img_timessquare_new_store02.jpg",
+      "https://www.dintaifung.co.kr/asset/img/store/img_timessquare_new_store03.jpg",
+      "https://www.dintaifung.co.kr/asset/img/store/img_timessquare_new_store04.jpg",
+      "https://www.dintaifung.co.kr/asset/img/store/img_timessquare_new_store05.jpg"
+    ],
+    "photoSourceUrl": "https://www.dintaifung.co.kr/store/timessquare.php",
+    "description": null,
+    "menuPrices": [],
+    "hours": "오전 11시 ~ 오후 10시 (라스트오더 21:00)",
+    "phone": "TEL.02-2638-2780",
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices"
+    ],
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "dintaifung-lotteworldmall",
+    "name": "딘타이펑 롯데월드몰점",
+    "ko": "딘타이펑 롯데월드몰점",
+    "nameEn": "Din Tai Fung Lotte World Mall",
+    "cuisine": "chinese",
+    "sourceCuisine": "Taiwanese / Chinese dumplings",
+    "address": "서울시 송파구 올림픽로 300 롯데월드몰 6층",
+    "area": "songpa",
+    "tags": [
+      "rice",
+      "noodles"
+    ],
+    "sources": [
+      {
+        "url": "https://www.dintaifung.co.kr/store/lotteworldmall.php",
+        "title": "Din Tai Fung official · 롯데월드몰점"
+      },
+      {
+        "url": "https://www.dintaifung.co.kr/menu/menu.php?idx=1",
+        "title": "Din Tai Fung official menus"
+      }
+    ],
+    "photoUrl": "https://www.dintaifung.co.kr/asset/img/store/img_lotteworldmall_store00.jpg",
+    "photoUrls": [
+      "https://www.dintaifung.co.kr/asset/img/store/img_lotteworldmall_store00.jpg",
+      "https://www.dintaifung.co.kr/asset/img/store/img_lotteworldmall_store01.jpg",
+      "https://www.dintaifung.co.kr/asset/img/store/img_lotteworldmall_store02.jpg",
+      "https://www.dintaifung.co.kr/asset/img/store/img_lotteworldmall_store03.jpg",
+      "https://www.dintaifung.co.kr/asset/img/store/img_lotteworldmall_store04.jpg",
+      "https://www.dintaifung.co.kr/asset/img/store/img_lotteworldmall_store05.jpg",
+      "https://www.dintaifung.co.kr/asset/img/store/img_lotteworldmall_store06.jpg",
+      "https://www.dintaifung.co.kr/asset/img/store/img_lotteworldmall_store07.jpg"
+    ],
+    "photoSourceUrl": "https://www.dintaifung.co.kr/store/lotteworldmall.php",
+    "description": null,
+    "menuPrices": [],
+    "hours": "오전 10시 30분 ~ 오후 10시(라스트오더 21:00)",
+    "phone": "TEL.02-3213-4628",
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "translated description",
+      "exact menu prices"
+    ],
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "kkaopom",
+    "name": "까폼",
+    "ko": "까폼",
+    "nameEn": "Kkaopom",
+    "cuisine": "thai",
+    "address": "서울 강남구 선릉로153길 18 지하1층",
+    "area": "apgujeong",
+    "tags": [
+      "rice",
+      "noodles"
+    ],
+    "sources": [
+      {
+        "url": "https://www.thaiselect.kr/restaurants/thaiselect22",
+        "title": "Thai SELECT Korea · 까폼"
+      },
+      {
+        "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=ad6afeee-a1dc-4278-ba0c-6f35e2a90f40",
+        "title": "Korea Tourism Organization · 까폼"
+      }
+    ],
+    "photoUrl": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=48b1839c-489c-47ce-92d6-10affc4b04ba",
+    "photoSourceUrl": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=ad6afeee-a1dc-4278-ba0c-6f35e2a90f40",
+    "description": null,
+    "specialties": [
+      "소고기 쌀국수",
+      "카오카무",
+      "솜땀"
+    ],
+    "menuPrices": [],
+    "hours": null,
+    "phone": "02-6081-7318",
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "exact menu prices",
+      "opening hours"
+    ],
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "palsun",
+    "name": "팔선",
+    "ko": "팔선",
+    "nameEn": "Palsun",
+    "cuisine": "chinese",
+    "address": "서울 중구 동호로 249 서울신라호텔 2층",
+    "area": "jung",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://www.shillahotels.com/en/theshilla/seoul/dining/restaurant/palsun.do",
+        "title": "The Shilla Seoul · Palsun"
+      },
+      {
+        "url": "https://stage-kr.visitseoul.net/restaurants/%ED%8C%94%EC%84%A0/KOP002486",
+        "title": "Visit Seoul · 팔선"
+      }
+    ],
+    "photoUrl": "https://www.shillahotels.com/hbcimages/260529/20260529163545_4c0f1e0d-8aab-4be1-aa91-c643e1fd0c63.jpg",
+    "photoUrls": [
+      "https://www.shillahotels.com/hbcimages/260529/20260529163545_4c0f1e0d-8aab-4be1-aa91-c643e1fd0c63.jpg",
+      "https://www.shillahotels.com/hbcimages/260529/20260529163545_87a1815c-dcdd-406b-9196-894d5527b7d1.jpg"
+    ],
+    "photoSourceUrl": "https://www.shillahotels.com/en/theshilla/seoul/dining/restaurant/palsun.do",
+    "description": null,
+    "specialties": [
+      "Cantonese cuisine"
+    ],
+    "menuPrices": [],
+    "hours": "Daily lunch 12:00–14:30; dinner Mon–Fri 17:30–21:30, Sat–Sun 17:00–21:30",
+    "phone": "02-2230-3366",
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "exact menu prices"
+    ],
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "hong-yuan",
+    "name": "홍연",
+    "ko": "홍연",
+    "nameEn": "Hong Yuan",
+    "cuisine": "chinese",
+    "address": "서울 중구 소공로 106 웨스틴 조선 서울 LL층",
+    "area": "myeongdong",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://www.marriott.com/ko/hotels/selwi-the-westin-josun-seoul/dining/",
+        "title": "The Westin Josun Seoul · Hong Yuan"
+      },
+      {
+        "url": "https://www.diningcode.com/profile.php?rid=1ZopVGgjNEZk",
+        "title": "Diningcode · 홍연 (floor cross-check)"
+      }
+    ],
+    "photoUrl": "https://cache.marriott.com/content/dam/marriott-renditions/SELWI/selwi-hong-yuan-5561-hor-wide.jpg?downsize=1336px%3A%2A&interpolation=progressive-bilinear&output-quality=70",
+    "photoSourceUrl": "https://www.marriott.com/ko/hotels/selwi-the-westin-josun-seoul/dining/",
+    "description": null,
+    "specialties": [
+      "Cantonese cuisine"
+    ],
+    "menuPrices": [],
+    "hours": "Daily 12:00–15:00, 18:00–22:00",
+    "phone": "02-317-0494",
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "exact menu prices"
+    ],
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "the-great-hong-yuan",
+    "name": "더 그레이트 홍연",
+    "ko": "더 그레이트 홍연",
+    "nameEn": "The Great Hong Yuan",
+    "cuisine": "chinese",
+    "address": "서울 강남구 테헤란로 231 조선 팰리스 36층",
+    "area": "gangnam",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://jpg.josunhotel.com/dining/HongYuan.do",
+        "title": "Josun Palace · The Great Hong Yuan"
+      },
+      {
+        "url": "https://www.marriott.com/en-us/hotels/sellc-josun-palace-a-luxury-collection-hotel-seoul-gangnam/dining/",
+        "title": "Marriott · Josun Palace address"
+      }
+    ],
+    "photoUrl": "https://jpg.josunhotel.com/revolution/content/fileImage.do?cntntsSn=489076&fileId=489077",
+    "photoSourceUrl": "https://jpg.josunhotel.com/dining/HongYuan.do",
+    "description": null,
+    "specialties": [
+      "Chinese fine dining"
+    ],
+    "menuPrices": [],
+    "hours": "Daily 11:30–14:30, 17:30–21:30",
+    "phone": "02-727-7620",
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "exact menu prices"
+    ],
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg; charset=utf-8",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "mott32-seoul",
+    "name": "모트32 서울",
+    "ko": "모트32 서울",
+    "nameEn": "Mott 32 Seoul",
+    "cuisine": "chinese",
+    "address": "서울 서초구 신반포로 176 센트럴시티 2층",
+    "area": "seocho",
+    "tags": [
+      "seafood",
+      "noodles"
+    ],
+    "sources": [
+      {
+        "url": "https://mott32.com/seoul",
+        "title": "Mott 32 Seoul official"
+      }
+    ],
+    "photoUrl": "https://mott32.com/fileadmin/_processed_/3/d/csm_crab_c53072d892.jpg",
+    "photoSourceUrl": "https://mott32.com/seoul",
+    "description": null,
+    "specialties": [
+      "Peking duck",
+      "char siu",
+      "dim sum",
+      "seafood"
+    ],
+    "menuPrices": [],
+    "hours": "Daily 11:30–15:00, 17:30–22:00",
+    "phone": "02-6282-0320",
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "exact menu prices"
+    ],
+    "photoNote": "Official Seoul page cuisine photograph; not an interior photograph",
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  },
+  {
+    "id": "ariake-shilla",
+    "name": "아리아께",
+    "ko": "아리아께",
+    "nameEn": "Ariake",
+    "cuisine": "japanese",
+    "address": "서울 중구 동호로 249 서울신라호텔 2층",
+    "area": "jung",
+    "tags": [
+      "seafood"
+    ],
+    "sources": [
+      {
+        "url": "https://www.shillahotels.com/en/theshilla/seoul/dining/restaurant/ariake.do",
+        "title": "The Shilla Seoul · Ariake"
+      }
+    ],
+    "photoUrl": "https://www.shillahotels.com/hbcimages/260529/20260529163438_96d3f19d-0cdb-47a8-bafe-c60ceaa3c11f.jpg",
+    "photoUrls": [
+      "https://www.shillahotels.com/hbcimages/260529/20260529163438_96d3f19d-0cdb-47a8-bafe-c60ceaa3c11f.jpg",
+      "https://www.shillahotels.com/hbcimages/260529/20260529163439_d621f599-2c13-4dac-a7f2-ee877dd92b17.jpg"
+    ],
+    "photoSourceUrl": "https://www.shillahotels.com/en/theshilla/seoul/dining/restaurant/ariake.do",
+    "description": null,
+    "specialties": [
+      "Sushi counter",
+      "Japanese cuisine"
+    ],
+    "menuPrices": [],
+    "hours": "Table: Daily lunch12:00–14:30; dinner Mon–Fri17:30–21:30, Sat–Sun17:00–21:30. Sushi counter: Daily lunch12:00–14:30, dinner18:00–21:30.",
+    "phone": "02-2230-3356",
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "exact menu prices"
+    ],
+    "photoCheck": {
+      "status": 200,
+      "contentType": "image/jpeg",
+      "checkedAt": "2026-11-03"
+    }
+  }
+]

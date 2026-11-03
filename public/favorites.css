@@ -1,0 +1,17 @@
+/* LEGO Bridge's 44px hit area / smaller disc and 950ms double heartbeat,
+   using one SVG silhouette so empty and filled states have identical metrics. */
+.restaurant-image{isolation:isolate}.place-photo-link{position:relative;z-index:0}
+.save-button{z-index:3;display:grid;place-items:center;width:44px;height:44px;right:5px;top:5px;padding:0;border:0;background:transparent;border-radius:50%;box-shadow:none;transform:none;line-height:1;color:#85917e;touch-action:manipulation}
+.save-button::before{content:'';position:absolute;inset:8px;border-radius:50%;background:#fffdf9;border:1px solid #e7e6de;box-shadow:0 1px 5px #344a380c;pointer-events:none}
+.save-button .heart-icon,.saved-symbol .heart-icon{position:relative;display:grid;place-items:center;width:28px;height:28px;border-radius:50%;pointer-events:none;transform-origin:center;z-index:1}
+.heart-icon svg{display:block;width:18px;height:18px;overflow:visible;fill:none;stroke:currentColor;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round}
+.save-button[aria-pressed=true]{color:#dd7188;background:transparent;box-shadow:none}
+.save-button[aria-pressed=true] .heart-icon svg,.saved-link[aria-pressed=true] .heart-icon svg{fill:currentColor}
+.save-button:active{transform:none}.like-on,.like-off{animation:none}
+.save-button .like-burst{z-index:2;inset:10px}.like-burst .glow-ring{inset:-1px}
+.save-button.detail-save{position:relative;right:auto;top:auto;width:48px;height:48px;flex-shrink:0}
+.detail-save::before{inset:8px}.detail-save .heart-icon svg{width:20px;height:20px}
+.saved-link{display:flex;align-items:center;gap:3px;justify-content:center;color:#85917e}.saved-link .saved-symbol{display:grid;place-items:center;font-size:0;color:inherit}.saved-link[aria-pressed=true]{color:#dd7188}
+.saved-link .heart-icon{margin:0}.saved-link .heart-icon svg{width:20px;height:20px}.saved-link .heart-icon::after{display:none}
+.saved-link>span:not(.saved-symbol){margin-left:3px}
+@media(max-width:620px){.save-button{width:44px;height:44px;right:2px;top:2px}.save-button.detail-save{width:44px;height:44px}.saved-link .saved-symbol{display:grid}}

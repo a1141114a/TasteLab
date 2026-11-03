@@ -1,0 +1,1934 @@
+[
+  {
+    "id": "sooksoodoga",
+    "name": "숙수도가",
+    "ko": "숙수도가",
+    "nameEn": "Sooksoodoga",
+    "cuisine": "korean",
+    "sourceCuisine": "Barbecue",
+    "address": "서울 성북구 동소문로 17길 28",
+    "area": "",
+    "tags": [
+      "bbq"
+    ],
+    "dishes": [
+      "bbq"
+    ],
+    "sources": [
+      {
+        "title": "MICHELIN Guide · Sooksoodoga",
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/sooksoodoga"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/2def5c86ee004e70a80d04a1ec6fd0c1.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/sooksoodoga",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 10-8231-2627",
+    "coordinates": {
+      "lon": 127.01539,
+      "lat": 37.5935
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "exact menu prices",
+      "opening hours"
+    ]
+  },
+  {
+    "id": "boreumsae",
+    "name": "보름쇠",
+    "ko": "보름쇠",
+    "nameEn": "Boreumsae",
+    "cuisine": "korean",
+    "sourceCuisine": "Barbecue",
+    "address": "서울 강남구 테헤란로 81길 36",
+    "area": "",
+    "tags": [
+      "bbq"
+    ],
+    "dishes": [
+      "bbq"
+    ],
+    "sources": [
+      {
+        "title": "MICHELIN Guide · Boreumsae",
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/boreumsae"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/ff28401608bb44f0bb3fb4b1cb13a6fc.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/boreumsae",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 2-569-9967",
+    "coordinates": {
+      "lon": 127.056611,
+      "lat": 37.509328
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "exact menu prices",
+      "opening hours"
+    ]
+  },
+  {
+    "id": "samwon-garden",
+    "name": "삼원가든",
+    "ko": "삼원가든",
+    "nameEn": "Samwon Garden",
+    "cuisine": "korean",
+    "sourceCuisine": "Barbecue",
+    "address": "서울 강남구 언주로 835",
+    "area": "",
+    "tags": [
+      "bbq"
+    ],
+    "dishes": [
+      "bbq"
+    ],
+    "sources": [
+      {
+        "title": "MICHELIN Guide · Samwon Garden",
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/samwon-garden"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/ea4b4aa60ab646e7af924b83bf24766a.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/samwon-garden",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 2-548-3030",
+    "coordinates": {
+      "lon": 127.03297,
+      "lat": 37.52499
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "exact menu prices",
+      "opening hours"
+    ]
+  },
+  {
+    "id": "ggupdang",
+    "name": "꿉당",
+    "ko": "꿉당",
+    "nameEn": "Ggupdang",
+    "cuisine": "korean",
+    "sourceCuisine": "Barbecue",
+    "address": "서울 서초구 강남대로 615",
+    "area": "",
+    "tags": [
+      "bbq"
+    ],
+    "dishes": [
+      "bbq"
+    ],
+    "sources": [
+      {
+        "title": "MICHELIN Guide · Ggupdang",
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/ggupdang"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/59fd3d76e7a144dab4e993c966fe05bf.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/ggupdang",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 2-545-9600",
+    "coordinates": {
+      "lon": 127.0188926,
+      "lat": 37.5166307
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "exact menu prices",
+      "opening hours"
+    ]
+  },
+  {
+    "id": "geumdwaeji-sikdang",
+    "name": "금돼지식당",
+    "ko": "금돼지식당",
+    "nameEn": "Geumdwaeji Sikdang",
+    "cuisine": "korean",
+    "sourceCuisine": "Barbecue",
+    "address": "서울 중구 다산로 149",
+    "area": "",
+    "tags": [
+      "bbq"
+    ],
+    "dishes": [
+      "bbq"
+    ],
+    "sources": [
+      {
+        "title": "MICHELIN Guide · Geumdwaeji Sikdang",
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/geumdwaeji-sikdang"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/a8feb20b823a4abea3778f9c89797fa7.jpg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/geumdwaeji-sikdang",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 10-4484-8750",
+    "coordinates": {
+      "lon": 127.01165,
+      "lat": 37.55705
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "exact menu prices",
+      "opening hours"
+    ]
+  },
+  {
+    "id": "gom-ba-wie",
+    "name": "곰바위",
+    "ko": "곰바위",
+    "nameEn": "Gom Ba Wie",
+    "cuisine": "korean",
+    "sourceCuisine": "Barbecue",
+    "address": "서울 강남구 영동대로 115길 10",
+    "area": "",
+    "tags": [
+      "bbq"
+    ],
+    "dishes": [
+      "bbq"
+    ],
+    "sources": [
+      {
+        "title": "MICHELIN Guide · Gom Ba Wie",
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/gom-ba-wie"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/ba9212f3dea1426b968ef8776e4aa4ca.jpg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/gom-ba-wie",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 2-511-0068",
+    "coordinates": {
+      "lon": 127.05885,
+      "lat": 37.51485
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "exact menu prices",
+      "opening hours"
+    ]
+  },
+  {
+    "id": "imok-smoke-dining",
+    "name": "이목 스모크다이닝",
+    "ko": "이목 스모크다이닝",
+    "nameEn": "Imok Smoke Dining",
+    "cuisine": "korean",
+    "sourceCuisine": "Barbecue",
+    "address": "서울 강남구 압구정로 2길 6 ,지하1층",
+    "area": "",
+    "tags": [
+      "bbq"
+    ],
+    "dishes": [
+      "bbq"
+    ],
+    "sources": [
+      {
+        "title": "MICHELIN Guide · Imok Smoke Dining",
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/imok-smoke-dining"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/79a478a39aa842688cde376337034ba3.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/imok-smoke-dining",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 50-71341-4729",
+    "coordinates": {
+      "lon": 127.019274,
+      "lat": 37.521151
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "exact menu prices",
+      "opening hours"
+    ]
+  },
+  {
+    "id": "born-and-bred",
+    "name": "본 앤 브레드",
+    "ko": "본 앤 브레드",
+    "nameEn": "Born and Bred",
+    "cuisine": "korean",
+    "sourceCuisine": "Barbecue",
+    "address": "서울 성동구 마장로 42길 1, 2층",
+    "area": "",
+    "tags": [
+      "bbq"
+    ],
+    "dishes": [
+      "bbq"
+    ],
+    "sources": [
+      {
+        "title": "MICHELIN Guide · Born and Bred",
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/born-and-bred"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/d9528d9f3b6140d6a254e16bdf9cecf5.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/born-and-bred",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 2-2294-5005",
+    "coordinates": {
+      "lon": 127.04468,
+      "lat": 37.56697
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "exact menu prices",
+      "opening hours"
+    ]
+  },
+  {
+    "id": "gyoyang-siksa",
+    "name": "교양식사",
+    "ko": "교양식사",
+    "nameEn": "Kyoyang Siksa",
+    "cuisine": "korean",
+    "sourceCuisine": "Barbecue",
+    "address": "서울 용산구 이태원로 238",
+    "area": "",
+    "tags": [
+      "bbq"
+    ],
+    "dishes": [
+      "bbq"
+    ],
+    "sources": [
+      {
+        "title": "MICHELIN Guide · Kyoyang Siksa",
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/gyoyang-siksa"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/36baf4ae6d6c48bcba63f2e848171764.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/gyoyang-siksa",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 10-7601-4041",
+    "coordinates": {
+      "lon": 126.99994,
+      "lat": 37.53592
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "exact menu prices",
+      "opening hours"
+    ]
+  },
+  {
+    "id": "budnamujip",
+    "name": "버드나무집",
+    "ko": "버드나무집",
+    "nameEn": "Budnamujip",
+    "cuisine": "korean",
+    "sourceCuisine": "Barbecue",
+    "address": "서울 서초구 효령로 434",
+    "area": "",
+    "tags": [
+      "bbq"
+    ],
+    "dishes": [
+      "bbq"
+    ],
+    "sources": [
+      {
+        "title": "MICHELIN Guide · Budnamujip",
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/budnamujip"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/19716ee25b834fb492ff9ebe7b06a43f.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/budnamujip",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 2-3473-4167",
+    "coordinates": {
+      "lon": 127.03118,
+      "lat": 37.48907
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "exact menu prices",
+      "opening hours"
+    ]
+  },
+  {
+    "id": "yoon-haeundae-galbi",
+    "name": "윤 해운대 갈비",
+    "ko": "윤 해운대 갈비",
+    "nameEn": "Yoon Haeundae Galbi",
+    "cuisine": "korean",
+    "sourceCuisine": "Barbecue",
+    "address": "서울 서초구 신반포로 176, 하우스오브 신세계",
+    "area": "",
+    "tags": [
+      "bbq"
+    ],
+    "dishes": [
+      "bbq"
+    ],
+    "sources": [
+      {
+        "title": "MICHELIN Guide · Yoon Haeundae Galbi",
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/yoon-haeundae-galbi"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/f5feebf091ef4db896a59f3783792f64.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/yoon-haeundae-galbi",
+    "description": null,
+    "menuPrices": [],
+    "hours": null,
+    "phone": "+82 2-3479-6072",
+    "coordinates": {
+      "lon": 127.00362,
+      "lat": 37.50436
+    },
+    "checkedAt": "2026-11-03",
+    "missing": [
+      "exact menu prices",
+      "opening hours"
+    ]
+  },
+  {
+    "id": "wangbijib-myeongdong",
+    "name": "왕비집 명동 본점",
+    "ko": "왕비집 명동 본점",
+    "cuisine": "korean",
+    "address": "서울 중구 명동8가길 26 2층",
+    "area": "myeongdong",
+    "dishes": [
+      "bbq"
+    ],
+    "brand": "왕비집",
+    "isChain": true,
+    "sources": [
+      {
+        "title": "왕비집 공식 매장 안내",
+        "url": "https://www.wangbijib.com/article/게시판/8/2/categoryno/1/"
+      }
+    ],
+    "photoUrl": "https://www.wangbijib.com/web/upload/NNEditor/20250117/copy-1737095026-main.jpg",
+    "photoSourceUrl": "https://www.wangbijib.com/article/게시판/8/2/categoryno/1/",
+    "description": "Korean barbecue restaurant serving galbi.",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "current menu prices",
+      "opening hours"
+    ]
+  },
+  {
+    "id": "wangbijib-second",
+    "name": "왕비집 2호점",
+    "ko": "왕비집 2호점",
+    "cuisine": "korean",
+    "address": "서울 중구 명동9길 13 2층",
+    "area": "myeongdong",
+    "dishes": [
+      "bbq"
+    ],
+    "brand": "왕비집",
+    "isChain": true,
+    "sources": [
+      {
+        "title": "왕비집 공식 매장 안내",
+        "url": "https://www.wangbijib.com/article/게시판/8/2/categoryno/1/"
+      }
+    ],
+    "photoUrl": "https://www.wangbijib.com/web/upload/NNEditor/20250117/2nd.jpg",
+    "photoSourceUrl": "https://www.wangbijib.com/article/게시판/8/2/categoryno/1/",
+    "description": "Korean barbecue restaurant serving galbi.",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "current menu prices",
+      "opening hours"
+    ]
+  },
+  {
+    "id": "tanghuo-613",
+    "name": "탕화쿵푸 뱅뱅사거리점",
+    "ko": "탕화쿵푸 뱅뱅사거리점",
+    "branch": "뱅뱅사거리점",
+    "brand": "탕화쿵푸",
+    "isChain": true,
+    "cuisine": "chinese",
+    "area": "",
+    "address": "서울특별시 강남구 도곡로 112 (도곡동) 서한빌딩",
+    "dishes": [
+      "hotpot"
+    ],
+    "sources": [
+      {
+        "url": "https://tanghuokungfu.co.kr/default/store.php?com_board_basic=read_form&com_board_id=11&com_board_idx=613",
+        "title": "탕화쿵푸 공식 매장 안내"
+      },
+      {
+        "url": "https://tanghuokungfu.co.kr/default/brand/menu/menu.php",
+        "title": "탕화쿵푸 공식 메뉴"
+      }
+    ],
+    "photoUrl": "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+    "imageUrls": [
+      "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+      "https://tanghuokungfu.co.kr/default/img/image/malatang-menu2.png"
+    ],
+    "photoSourceUrl": "https://tanghuokungfu.co.kr/default/brand/index.php",
+    "photoType": "official-brand-dish",
+    "photoCaption": "品牌官方菜品图（非该分店环境实拍）",
+    "description": "Malatang restaurant listed in the official Tanghuo Kungfu Seoul branch directory.",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "branch environment photos",
+      "current branch-specific menu prices",
+      "opening hours"
+    ]
+  },
+  {
+    "id": "tanghuo-610",
+    "name": "탕화쿵푸 낙성대점",
+    "ko": "탕화쿵푸 낙성대점",
+    "branch": "낙성대점",
+    "brand": "탕화쿵푸",
+    "isChain": true,
+    "cuisine": "chinese",
+    "area": "",
+    "address": "서울특별시 관악구 남부순환로 1919 (봉천동)",
+    "dishes": [
+      "hotpot"
+    ],
+    "sources": [
+      {
+        "url": "https://tanghuokungfu.co.kr/default/store.php?com_board_basic=read_form&com_board_id=11&com_board_idx=610",
+        "title": "탕화쿵푸 공식 매장 안내"
+      },
+      {
+        "url": "https://tanghuokungfu.co.kr/default/brand/menu/menu.php",
+        "title": "탕화쿵푸 공식 메뉴"
+      }
+    ],
+    "photoUrl": "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+    "imageUrls": [
+      "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+      "https://tanghuokungfu.co.kr/default/img/image/malatang-menu2.png"
+    ],
+    "photoSourceUrl": "https://tanghuokungfu.co.kr/default/brand/index.php",
+    "photoType": "official-brand-dish",
+    "photoCaption": "品牌官方菜品图（非该分店环境实拍）",
+    "description": "Malatang restaurant listed in the official Tanghuo Kungfu Seoul branch directory.",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "branch environment photos",
+      "current branch-specific menu prices",
+      "opening hours"
+    ]
+  },
+  {
+    "id": "tanghuo-609",
+    "name": "탕화쿵푸 구산역점",
+    "ko": "탕화쿵푸 구산역점",
+    "branch": "구산역점",
+    "brand": "탕화쿵푸",
+    "isChain": true,
+    "cuisine": "chinese",
+    "area": "",
+    "address": "서울특별시 은평구 연서로 129 (구산동)",
+    "dishes": [
+      "hotpot"
+    ],
+    "sources": [
+      {
+        "url": "https://tanghuokungfu.co.kr/default/store.php?com_board_basic=read_form&com_board_id=11&com_board_idx=609",
+        "title": "탕화쿵푸 공식 매장 안내"
+      },
+      {
+        "url": "https://tanghuokungfu.co.kr/default/brand/menu/menu.php",
+        "title": "탕화쿵푸 공식 메뉴"
+      }
+    ],
+    "photoUrl": "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+    "imageUrls": [
+      "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+      "https://tanghuokungfu.co.kr/default/img/image/malatang-menu2.png"
+    ],
+    "photoSourceUrl": "https://tanghuokungfu.co.kr/default/brand/index.php",
+    "photoType": "official-brand-dish",
+    "photoCaption": "品牌官方菜品图（非该分店环境实拍）",
+    "description": "Malatang restaurant listed in the official Tanghuo Kungfu Seoul branch directory.",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "branch environment photos",
+      "current branch-specific menu prices",
+      "opening hours"
+    ]
+  },
+  {
+    "id": "tanghuo-608",
+    "name": "탕화쿵푸 숭실대입구점",
+    "ko": "탕화쿵푸 숭실대입구점",
+    "branch": "숭실대입구점",
+    "brand": "탕화쿵푸",
+    "isChain": true,
+    "cuisine": "chinese",
+    "area": "",
+    "address": "서울특별시 동작구 사당로 16 (상도동)",
+    "dishes": [
+      "hotpot"
+    ],
+    "sources": [
+      {
+        "url": "https://tanghuokungfu.co.kr/default/store.php?com_board_basic=read_form&com_board_id=11&com_board_idx=608",
+        "title": "탕화쿵푸 공식 매장 안내"
+      },
+      {
+        "url": "https://tanghuokungfu.co.kr/default/brand/menu/menu.php",
+        "title": "탕화쿵푸 공식 메뉴"
+      }
+    ],
+    "photoUrl": "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+    "imageUrls": [
+      "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+      "https://tanghuokungfu.co.kr/default/img/image/malatang-menu2.png"
+    ],
+    "photoSourceUrl": "https://tanghuokungfu.co.kr/default/brand/index.php",
+    "photoType": "official-brand-dish",
+    "photoCaption": "品牌官方菜品图（非该分店环境实拍）",
+    "description": "Malatang restaurant listed in the official Tanghuo Kungfu Seoul branch directory.",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "branch environment photos",
+      "current branch-specific menu prices",
+      "opening hours"
+    ]
+  },
+  {
+    "id": "tanghuo-606",
+    "name": "탕화쿵푸 홍제역점",
+    "ko": "탕화쿵푸 홍제역점",
+    "branch": "홍제역점",
+    "brand": "탕화쿵푸",
+    "isChain": true,
+    "cuisine": "chinese",
+    "area": "",
+    "address": "서울특별시 서대문구 통일로 442-11 (홍제동)",
+    "dishes": [
+      "hotpot"
+    ],
+    "sources": [
+      {
+        "url": "https://tanghuokungfu.co.kr/default/store.php?com_board_basic=read_form&com_board_id=11&com_board_idx=606",
+        "title": "탕화쿵푸 공식 매장 안내"
+      },
+      {
+        "url": "https://tanghuokungfu.co.kr/default/brand/menu/menu.php",
+        "title": "탕화쿵푸 공식 메뉴"
+      }
+    ],
+    "photoUrl": "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+    "imageUrls": [
+      "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+      "https://tanghuokungfu.co.kr/default/img/image/malatang-menu2.png"
+    ],
+    "photoSourceUrl": "https://tanghuokungfu.co.kr/default/brand/index.php",
+    "photoType": "official-brand-dish",
+    "photoCaption": "品牌官方菜品图（非该分店环境实拍）",
+    "description": "Malatang restaurant listed in the official Tanghuo Kungfu Seoul branch directory.",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "branch environment photos",
+      "current branch-specific menu prices",
+      "opening hours"
+    ]
+  },
+  {
+    "id": "tanghuo-601",
+    "name": "탕화쿵푸 답십리역점",
+    "ko": "탕화쿵푸 답십리역점",
+    "branch": "답십리역점",
+    "brand": "탕화쿵푸",
+    "isChain": true,
+    "cuisine": "chinese",
+    "area": "",
+    "address": "서울특별시 성동구 용답중앙15길 16 (용답동)",
+    "dishes": [
+      "hotpot"
+    ],
+    "sources": [
+      {
+        "url": "https://tanghuokungfu.co.kr/default/store.php?com_board_basic=read_form&com_board_id=11&com_board_idx=601",
+        "title": "탕화쿵푸 공식 매장 안내"
+      },
+      {
+        "url": "https://tanghuokungfu.co.kr/default/brand/menu/menu.php",
+        "title": "탕화쿵푸 공식 메뉴"
+      }
+    ],
+    "photoUrl": "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+    "imageUrls": [
+      "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+      "https://tanghuokungfu.co.kr/default/img/image/malatang-menu2.png"
+    ],
+    "photoSourceUrl": "https://tanghuokungfu.co.kr/default/brand/index.php",
+    "photoType": "official-brand-dish",
+    "photoCaption": "品牌官方菜品图（非该分店环境实拍）",
+    "description": "Malatang restaurant listed in the official Tanghuo Kungfu Seoul branch directory.",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "branch environment photos",
+      "current branch-specific menu prices",
+      "opening hours"
+    ]
+  },
+  {
+    "id": "tanghuo-591",
+    "name": "탕화쿵푸 압구정로데오직영점",
+    "ko": "탕화쿵푸 압구정로데오직영점",
+    "branch": "압구정로데오직영점",
+    "brand": "탕화쿵푸",
+    "isChain": true,
+    "cuisine": "chinese",
+    "area": "",
+    "address": "서울특별시 강남구 선릉로157길 23 (신사동) 2층",
+    "dishes": [
+      "hotpot"
+    ],
+    "sources": [
+      {
+        "url": "https://tanghuokungfu.co.kr/default/store.php?com_board_basic=read_form&com_board_id=11&com_board_idx=591",
+        "title": "탕화쿵푸 공식 매장 안내"
+      },
+      {
+        "url": "https://tanghuokungfu.co.kr/default/brand/menu/menu.php",
+        "title": "탕화쿵푸 공식 메뉴"
+      }
+    ],
+    "photoUrl": "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+    "imageUrls": [
+      "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+      "https://tanghuokungfu.co.kr/default/img/image/malatang-menu2.png"
+    ],
+    "photoSourceUrl": "https://tanghuokungfu.co.kr/default/brand/index.php",
+    "photoType": "official-brand-dish",
+    "photoCaption": "品牌官方菜品图（非该分店环境实拍）",
+    "description": "Malatang restaurant listed in the official Tanghuo Kungfu Seoul branch directory.",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "branch environment photos",
+      "current branch-specific menu prices",
+      "opening hours"
+    ]
+  },
+  {
+    "id": "tanghuo-590",
+    "name": "탕화쿵푸 창동점",
+    "ko": "탕화쿵푸 창동점",
+    "branch": "창동점",
+    "brand": "탕화쿵푸",
+    "isChain": true,
+    "cuisine": "chinese",
+    "area": "",
+    "address": "서울특별시 도봉구 노해로63길 79 (창동) 우림빌딩",
+    "dishes": [
+      "hotpot"
+    ],
+    "sources": [
+      {
+        "url": "https://tanghuokungfu.co.kr/default/store.php?com_board_basic=read_form&com_board_id=11&com_board_idx=590",
+        "title": "탕화쿵푸 공식 매장 안내"
+      },
+      {
+        "url": "https://tanghuokungfu.co.kr/default/brand/menu/menu.php",
+        "title": "탕화쿵푸 공식 메뉴"
+      }
+    ],
+    "photoUrl": "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+    "imageUrls": [
+      "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+      "https://tanghuokungfu.co.kr/default/img/image/malatang-menu2.png"
+    ],
+    "photoSourceUrl": "https://tanghuokungfu.co.kr/default/brand/index.php",
+    "photoType": "official-brand-dish",
+    "photoCaption": "品牌官方菜品图（非该分店环境实拍）",
+    "description": "Malatang restaurant listed in the official Tanghuo Kungfu Seoul branch directory.",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "branch environment photos",
+      "current branch-specific menu prices",
+      "opening hours"
+    ]
+  },
+  {
+    "id": "tanghuo-585",
+    "name": "탕화쿵푸 신도림점",
+    "ko": "탕화쿵푸 신도림점",
+    "branch": "신도림점",
+    "brand": "탕화쿵푸",
+    "isChain": true,
+    "cuisine": "chinese",
+    "area": "",
+    "address": "서울특별시 구로구 경인로67길 23 (신도림동) 신도림2차푸르지오 101동 203호",
+    "dishes": [
+      "hotpot"
+    ],
+    "sources": [
+      {
+        "url": "https://tanghuokungfu.co.kr/default/store.php?com_board_basic=read_form&com_board_id=11&com_board_idx=585",
+        "title": "탕화쿵푸 공식 매장 안내"
+      },
+      {
+        "url": "https://tanghuokungfu.co.kr/default/brand/menu/menu.php",
+        "title": "탕화쿵푸 공식 메뉴"
+      }
+    ],
+    "photoUrl": "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+    "imageUrls": [
+      "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+      "https://tanghuokungfu.co.kr/default/img/image/malatang-menu2.png"
+    ],
+    "photoSourceUrl": "https://tanghuokungfu.co.kr/default/brand/index.php",
+    "photoType": "official-brand-dish",
+    "photoCaption": "品牌官方菜品图（非该分店环境实拍）",
+    "description": "Malatang restaurant listed in the official Tanghuo Kungfu Seoul branch directory.",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "branch environment photos",
+      "current branch-specific menu prices",
+      "opening hours"
+    ]
+  },
+  {
+    "id": "tanghuo-582",
+    "name": "탕화쿵푸 금천구청점",
+    "ko": "탕화쿵푸 금천구청점",
+    "branch": "금천구청점",
+    "brand": "탕화쿵푸",
+    "isChain": true,
+    "cuisine": "chinese",
+    "area": "",
+    "address": "서울특별시 금천구 시흥대로63길 33 (시흥동)",
+    "dishes": [
+      "hotpot"
+    ],
+    "sources": [
+      {
+        "url": "https://tanghuokungfu.co.kr/default/store.php?com_board_basic=read_form&com_board_id=11&com_board_idx=582",
+        "title": "탕화쿵푸 공식 매장 안내"
+      },
+      {
+        "url": "https://tanghuokungfu.co.kr/default/brand/menu/menu.php",
+        "title": "탕화쿵푸 공식 메뉴"
+      }
+    ],
+    "photoUrl": "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+    "imageUrls": [
+      "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+      "https://tanghuokungfu.co.kr/default/img/image/malatang-menu2.png"
+    ],
+    "photoSourceUrl": "https://tanghuokungfu.co.kr/default/brand/index.php",
+    "photoType": "official-brand-dish",
+    "photoCaption": "品牌官方菜品图（非该分店环境实拍）",
+    "description": "Malatang restaurant listed in the official Tanghuo Kungfu Seoul branch directory.",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "branch environment photos",
+      "current branch-specific menu prices",
+      "opening hours"
+    ]
+  },
+  {
+    "id": "tanghuo-581",
+    "name": "탕화쿵푸 남부터미널점",
+    "ko": "탕화쿵푸 남부터미널점",
+    "branch": "남부터미널점",
+    "brand": "탕화쿵푸",
+    "isChain": true,
+    "cuisine": "chinese",
+    "area": "",
+    "address": "서울특별시 서초구 효령로 289 (서초동) 201호",
+    "dishes": [
+      "hotpot"
+    ],
+    "sources": [
+      {
+        "url": "https://tanghuokungfu.co.kr/default/store.php?com_board_basic=read_form&com_board_id=11&com_board_idx=581",
+        "title": "탕화쿵푸 공식 매장 안내"
+      },
+      {
+        "url": "https://tanghuokungfu.co.kr/default/brand/menu/menu.php",
+        "title": "탕화쿵푸 공식 메뉴"
+      }
+    ],
+    "photoUrl": "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+    "imageUrls": [
+      "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+      "https://tanghuokungfu.co.kr/default/img/image/malatang-menu2.png"
+    ],
+    "photoSourceUrl": "https://tanghuokungfu.co.kr/default/brand/index.php",
+    "photoType": "official-brand-dish",
+    "photoCaption": "品牌官方菜品图（非该分店环境实拍）",
+    "description": "Malatang restaurant listed in the official Tanghuo Kungfu Seoul branch directory.",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "branch environment photos",
+      "current branch-specific menu prices",
+      "opening hours"
+    ]
+  },
+  {
+    "id": "tanghuo-580",
+    "name": "탕화쿵푸 문정동점",
+    "ko": "탕화쿵푸 문정동점",
+    "branch": "문정동점",
+    "brand": "탕화쿵푸",
+    "isChain": true,
+    "cuisine": "chinese",
+    "area": "",
+    "address": "서울특별시 송파구 문정동 644-2 문정현대지식산업센터1-2",
+    "dishes": [
+      "hotpot"
+    ],
+    "sources": [
+      {
+        "url": "https://tanghuokungfu.co.kr/default/store.php?com_board_basic=read_form&com_board_id=11&com_board_idx=580",
+        "title": "탕화쿵푸 공식 매장 안내"
+      },
+      {
+        "url": "https://tanghuokungfu.co.kr/default/brand/menu/menu.php",
+        "title": "탕화쿵푸 공식 메뉴"
+      }
+    ],
+    "photoUrl": "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+    "imageUrls": [
+      "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+      "https://tanghuokungfu.co.kr/default/img/image/malatang-menu2.png"
+    ],
+    "photoSourceUrl": "https://tanghuokungfu.co.kr/default/brand/index.php",
+    "photoType": "official-brand-dish",
+    "photoCaption": "品牌官方菜品图（非该分店环境实拍）",
+    "description": "Malatang restaurant listed in the official Tanghuo Kungfu Seoul branch directory.",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "branch environment photos",
+      "current branch-specific menu prices",
+      "opening hours"
+    ]
+  },
+  {
+    "id": "tanghuo-579",
+    "name": "탕화쿵푸 광장점",
+    "ko": "탕화쿵푸 광장점",
+    "branch": "광장점",
+    "brand": "탕화쿵푸",
+    "isChain": true,
+    "cuisine": "chinese",
+    "area": "",
+    "address": "서울특별시 광진구 아차산로 475 (구의동)",
+    "dishes": [
+      "hotpot"
+    ],
+    "sources": [
+      {
+        "url": "https://tanghuokungfu.co.kr/default/store.php?com_board_basic=read_form&com_board_id=11&com_board_idx=579",
+        "title": "탕화쿵푸 공식 매장 안내"
+      },
+      {
+        "url": "https://tanghuokungfu.co.kr/default/brand/menu/menu.php",
+        "title": "탕화쿵푸 공식 메뉴"
+      }
+    ],
+    "photoUrl": "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+    "imageUrls": [
+      "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+      "https://tanghuokungfu.co.kr/default/img/image/malatang-menu2.png"
+    ],
+    "photoSourceUrl": "https://tanghuokungfu.co.kr/default/brand/index.php",
+    "photoType": "official-brand-dish",
+    "photoCaption": "品牌官方菜品图（非该分店环境实拍）",
+    "description": "Malatang restaurant listed in the official Tanghuo Kungfu Seoul branch directory.",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "branch environment photos",
+      "current branch-specific menu prices",
+      "opening hours"
+    ]
+  },
+  {
+    "id": "tanghuo-576",
+    "name": "탕화쿵푸 길동점",
+    "ko": "탕화쿵푸 길동점",
+    "branch": "길동점",
+    "brand": "탕화쿵푸",
+    "isChain": true,
+    "cuisine": "chinese",
+    "area": "",
+    "address": "서울특별시 강동구 양재대로112길 8 (길동) 수다빌딩, 201호",
+    "dishes": [
+      "hotpot"
+    ],
+    "sources": [
+      {
+        "url": "https://tanghuokungfu.co.kr/default/store.php?com_board_basic=read_form&com_board_id=11&com_board_idx=576",
+        "title": "탕화쿵푸 공식 매장 안내"
+      },
+      {
+        "url": "https://tanghuokungfu.co.kr/default/brand/menu/menu.php",
+        "title": "탕화쿵푸 공식 메뉴"
+      }
+    ],
+    "photoUrl": "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+    "imageUrls": [
+      "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+      "https://tanghuokungfu.co.kr/default/img/image/malatang-menu2.png"
+    ],
+    "photoSourceUrl": "https://tanghuokungfu.co.kr/default/brand/index.php",
+    "photoType": "official-brand-dish",
+    "photoCaption": "品牌官方菜品图（非该分店环境实拍）",
+    "description": "Malatang restaurant listed in the official Tanghuo Kungfu Seoul branch directory.",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "branch environment photos",
+      "current branch-specific menu prices",
+      "opening hours"
+    ]
+  },
+  {
+    "id": "tanghuo-570",
+    "name": "탕화쿵푸 신방화역점",
+    "ko": "탕화쿵푸 신방화역점",
+    "branch": "신방화역점",
+    "brand": "탕화쿵푸",
+    "isChain": true,
+    "cuisine": "chinese",
+    "area": "",
+    "address": "서울특별시 강서구 마곡중앙5로 87 (마곡동) 우성르보아투",
+    "dishes": [
+      "hotpot"
+    ],
+    "sources": [
+      {
+        "url": "https://tanghuokungfu.co.kr/default/store.php?com_board_basic=read_form&com_board_id=11&com_board_idx=570",
+        "title": "탕화쿵푸 공식 매장 안내"
+      },
+      {
+        "url": "https://tanghuokungfu.co.kr/default/brand/menu/menu.php",
+        "title": "탕화쿵푸 공식 메뉴"
+      }
+    ],
+    "photoUrl": "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+    "imageUrls": [
+      "https://tanghuokungfu.co.kr/default/img/image/malatang-menu1.png",
+      "https://tanghuokungfu.co.kr/default/img/image/malatang-menu2.png"
+    ],
+    "photoSourceUrl": "https://tanghuokungfu.co.kr/default/brand/index.php",
+    "photoType": "official-brand-dish",
+    "photoCaption": "品牌官方菜品图（非该分店环境实拍）",
+    "description": "Malatang restaurant listed in the official Tanghuo Kungfu Seoul branch directory.",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "branch environment photos",
+      "current branch-specific menu prices",
+      "opening hours"
+    ]
+  },
+  {
+    "id": "kyochon-1259",
+    "name": "교촌치킨 망우본동",
+    "ko": "교촌치킨 망우본동",
+    "branch": "망우본동",
+    "brand": "교촌치킨",
+    "isChain": true,
+    "cuisine": "korean",
+    "area": "",
+    "address": "서울 중랑구 양원역로 78",
+    "phone": "02 -433-1993",
+    "hours": "12:00~24:00",
+    "dishes": [
+      "chicken"
+    ],
+    "sources": [
+      {
+        "url": "https://www.kyochon.com/shop/domestic_sch.asp?shop_id=1259&sido1=1&sido2=0",
+        "title": "교촌치킨 공식 매장 안내"
+      },
+      {
+        "url": "https://www.kyochon.com/menu/chicken.asp",
+        "title": "교촌치킨 공식 치킨 메뉴"
+      }
+    ],
+    "photoUrl": "https://www.kyochon.com/uploadFiles/TB_ITEM/list_Honey%20Wing%20Combo.png",
+    "photoSourceUrl": "https://www.kyochon.com/menu/chicken.asp",
+    "photoType": "official-brand-dish",
+    "photoCaption": "品牌官方菜品图（非该分店环境实拍）",
+    "description": "Kyochon Chicken branch listed in the official Seoul store directory.",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "branch environment photos",
+      "branch-specific menu prices"
+    ]
+  },
+  {
+    "id": "kyochon-410",
+    "name": "교촌치킨 신내1호",
+    "ko": "교촌치킨 신내1호",
+    "branch": "신내1호",
+    "brand": "교촌치킨",
+    "isChain": true,
+    "cuisine": "korean",
+    "area": "",
+    "address": "서울 중랑구 신내로14길 21",
+    "phone": "02 -2209-9980 / 2209-7870",
+    "hours": "12:00~24:00",
+    "dishes": [
+      "chicken"
+    ],
+    "sources": [
+      {
+        "url": "https://www.kyochon.com/shop/domestic_sch.asp?shop_id=410&sido1=1&sido2=0",
+        "title": "교촌치킨 공식 매장 안내"
+      },
+      {
+        "url": "https://www.kyochon.com/menu/chicken.asp",
+        "title": "교촌치킨 공식 치킨 메뉴"
+      }
+    ],
+    "photoUrl": "https://www.kyochon.com/uploadFiles/TB_ITEM/list_Honey%20Wing%20Combo.png",
+    "photoSourceUrl": "https://www.kyochon.com/menu/chicken.asp",
+    "photoType": "official-brand-dish",
+    "photoCaption": "品牌官方菜品图（非该分店环境实拍）",
+    "description": "Kyochon Chicken branch listed in the official Seoul store directory.",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "branch environment photos",
+      "branch-specific menu prices"
+    ]
+  },
+  {
+    "id": "kyochon-121",
+    "name": "교촌치킨 상봉1호",
+    "ko": "교촌치킨 상봉1호",
+    "branch": "상봉1호",
+    "brand": "교촌치킨",
+    "isChain": true,
+    "cuisine": "korean",
+    "area": "",
+    "address": "서울시 중랑구 망우로 326",
+    "phone": "02 -491-9738, 9",
+    "hours": "12:00~24:00",
+    "dishes": [
+      "chicken"
+    ],
+    "sources": [
+      {
+        "url": "https://www.kyochon.com/shop/domestic_sch.asp?shop_id=121&sido1=1&sido2=0",
+        "title": "교촌치킨 공식 매장 안내"
+      },
+      {
+        "url": "https://www.kyochon.com/menu/chicken.asp",
+        "title": "교촌치킨 공식 치킨 메뉴"
+      }
+    ],
+    "photoUrl": "https://www.kyochon.com/uploadFiles/TB_ITEM/list_Honey%20Wing%20Combo.png",
+    "photoSourceUrl": "https://www.kyochon.com/menu/chicken.asp",
+    "photoType": "official-brand-dish",
+    "photoCaption": "品牌官方菜品图（非该分店环境实拍）",
+    "description": "Kyochon Chicken branch listed in the official Seoul store directory.",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "branch environment photos",
+      "branch-specific menu prices"
+    ]
+  },
+  {
+    "id": "kyochon-681",
+    "name": "교촌치킨 면목1호",
+    "ko": "교촌치킨 면목1호",
+    "branch": "면목1호",
+    "brand": "교촌치킨",
+    "isChain": true,
+    "cuisine": "korean",
+    "area": "",
+    "address": "서울 중랑구 겸재로 201",
+    "phone": "02 -494-9962~3",
+    "hours": "12:00~24:00",
+    "dishes": [
+      "chicken"
+    ],
+    "sources": [
+      {
+        "url": "https://www.kyochon.com/shop/domestic_sch.asp?shop_id=681&sido1=1&sido2=0",
+        "title": "교촌치킨 공식 매장 안내"
+      },
+      {
+        "url": "https://www.kyochon.com/menu/chicken.asp",
+        "title": "교촌치킨 공식 치킨 메뉴"
+      }
+    ],
+    "photoUrl": "https://www.kyochon.com/uploadFiles/TB_ITEM/list_Honey%20Wing%20Combo.png",
+    "photoSourceUrl": "https://www.kyochon.com/menu/chicken.asp",
+    "photoType": "official-brand-dish",
+    "photoCaption": "品牌官方菜品图（非该分店环境实拍）",
+    "description": "Kyochon Chicken branch listed in the official Seoul store directory.",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "branch environment photos",
+      "branch-specific menu prices"
+    ]
+  },
+  {
+    "id": "kyochon-1560",
+    "name": "교촌치킨 중화",
+    "ko": "교촌치킨 중화",
+    "branch": "중화",
+    "brand": "교촌치킨",
+    "isChain": true,
+    "cuisine": "korean",
+    "area": "",
+    "address": "서울 중랑구 동일로 129길 16",
+    "phone": "02 -433-1992",
+    "hours": "12:00~24:00",
+    "dishes": [
+      "chicken"
+    ],
+    "sources": [
+      {
+        "url": "https://www.kyochon.com/shop/domestic_sch.asp?shop_id=1560&sido1=1&sido2=0",
+        "title": "교촌치킨 공식 매장 안내"
+      },
+      {
+        "url": "https://www.kyochon.com/menu/chicken.asp",
+        "title": "교촌치킨 공식 치킨 메뉴"
+      }
+    ],
+    "photoUrl": "https://www.kyochon.com/uploadFiles/TB_ITEM/list_Honey%20Wing%20Combo.png",
+    "photoSourceUrl": "https://www.kyochon.com/menu/chicken.asp",
+    "photoType": "official-brand-dish",
+    "photoCaption": "品牌官方菜品图（非该分店环境实拍）",
+    "description": "Kyochon Chicken branch listed in the official Seoul store directory.",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "branch environment photos",
+      "branch-specific menu prices"
+    ]
+  },
+  {
+    "id": "kyochon-350",
+    "name": "교촌치킨 공릉1호",
+    "ko": "교촌치킨 공릉1호",
+    "branch": "공릉1호",
+    "brand": "교촌치킨",
+    "isChain": true,
+    "cuisine": "korean",
+    "area": "",
+    "address": "서울 노원구 공릉로 35길 2",
+    "phone": "02 -974-3999",
+    "hours": "12:00~24:00",
+    "dishes": [
+      "chicken"
+    ],
+    "sources": [
+      {
+        "url": "https://www.kyochon.com/shop/domestic_sch.asp?shop_id=350&sido1=1&sido2=0",
+        "title": "교촌치킨 공식 매장 안내"
+      },
+      {
+        "url": "https://www.kyochon.com/menu/chicken.asp",
+        "title": "교촌치킨 공식 치킨 메뉴"
+      }
+    ],
+    "photoUrl": "https://www.kyochon.com/uploadFiles/TB_ITEM/list_Honey%20Wing%20Combo.png",
+    "photoSourceUrl": "https://www.kyochon.com/menu/chicken.asp",
+    "photoType": "official-brand-dish",
+    "photoCaption": "品牌官方菜品图（非该分店环境实拍）",
+    "description": "Kyochon Chicken branch listed in the official Seoul store directory.",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "branch environment photos",
+      "branch-specific menu prices"
+    ]
+  },
+  {
+    "id": "kyochon-942",
+    "name": "교촌치킨 사가정역",
+    "ko": "교촌치킨 사가정역",
+    "branch": "사가정역",
+    "brand": "교촌치킨",
+    "isChain": true,
+    "cuisine": "korean",
+    "area": "",
+    "address": "서울 중랑구 면목로 45길3-4",
+    "phone": "02 -2207-6543",
+    "hours": "12:00~24:00",
+    "dishes": [
+      "chicken"
+    ],
+    "sources": [
+      {
+        "url": "https://www.kyochon.com/shop/domestic_sch.asp?shop_id=942&sido1=1&sido2=0",
+        "title": "교촌치킨 공식 매장 안내"
+      },
+      {
+        "url": "https://www.kyochon.com/menu/chicken.asp",
+        "title": "교촌치킨 공식 치킨 메뉴"
+      }
+    ],
+    "photoUrl": "https://www.kyochon.com/uploadFiles/TB_ITEM/list_Honey%20Wing%20Combo.png",
+    "photoSourceUrl": "https://www.kyochon.com/menu/chicken.asp",
+    "photoType": "official-brand-dish",
+    "photoCaption": "品牌官方菜品图（非该分店环境实拍）",
+    "description": "Kyochon Chicken branch listed in the official Seoul store directory.",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "branch environment photos",
+      "branch-specific menu prices"
+    ]
+  },
+  {
+    "id": "kyochon-1781",
+    "name": "교촌치킨 공릉3호",
+    "ko": "교촌치킨 공릉3호",
+    "branch": "공릉3호",
+    "brand": "교촌치킨",
+    "isChain": true,
+    "cuisine": "korean",
+    "area": "",
+    "address": "서울 노원구 동일로 1041",
+    "phone": "02 -973-3330",
+    "hours": "12:00~24:00",
+    "dishes": [
+      "chicken"
+    ],
+    "sources": [
+      {
+        "url": "https://www.kyochon.com/shop/domestic_sch.asp?shop_id=1781&sido1=1&sido2=0",
+        "title": "교촌치킨 공식 매장 안내"
+      },
+      {
+        "url": "https://www.kyochon.com/menu/chicken.asp",
+        "title": "교촌치킨 공식 치킨 메뉴"
+      }
+    ],
+    "photoUrl": "https://www.kyochon.com/uploadFiles/TB_ITEM/list_Honey%20Wing%20Combo.png",
+    "photoSourceUrl": "https://www.kyochon.com/menu/chicken.asp",
+    "photoType": "official-brand-dish",
+    "photoCaption": "品牌官方菜品图（非该分店环境实拍）",
+    "description": "Kyochon Chicken branch listed in the official Seoul store directory.",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "branch environment photos",
+      "branch-specific menu prices"
+    ]
+  },
+  {
+    "id": "kyochon-818",
+    "name": "교촌치킨 면목2호",
+    "ko": "교촌치킨 면목2호",
+    "branch": "면목2호",
+    "brand": "교촌치킨",
+    "isChain": true,
+    "cuisine": "korean",
+    "area": "",
+    "address": "서울 중랑구 중랑천로 50",
+    "phone": "02 -494-6282,496-6282",
+    "hours": "12:00~24:00",
+    "dishes": [
+      "chicken"
+    ],
+    "sources": [
+      {
+        "url": "https://www.kyochon.com/shop/domestic_sch.asp?shop_id=818&sido1=1&sido2=0",
+        "title": "교촌치킨 공식 매장 안내"
+      },
+      {
+        "url": "https://www.kyochon.com/menu/chicken.asp",
+        "title": "교촌치킨 공식 치킨 메뉴"
+      }
+    ],
+    "photoUrl": "https://www.kyochon.com/uploadFiles/TB_ITEM/list_Honey%20Wing%20Combo.png",
+    "photoSourceUrl": "https://www.kyochon.com/menu/chicken.asp",
+    "photoType": "official-brand-dish",
+    "photoCaption": "品牌官方菜品图（非该分店环境实拍）",
+    "description": "Kyochon Chicken branch listed in the official Seoul store directory.",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "branch environment photos",
+      "branch-specific menu prices"
+    ]
+  },
+  {
+    "id": "kyochon-1347",
+    "name": "교촌치킨 공릉2호",
+    "ko": "교촌치킨 공릉2호",
+    "branch": "공릉2호",
+    "brand": "교촌치킨",
+    "isChain": true,
+    "cuisine": "korean",
+    "area": "",
+    "address": "서울 노원구 공릉로 235",
+    "phone": "02 -975-9991",
+    "hours": "12:00~24:00",
+    "dishes": [
+      "chicken"
+    ],
+    "sources": [
+      {
+        "url": "https://www.kyochon.com/shop/domestic_sch.asp?shop_id=1347&sido1=1&sido2=0",
+        "title": "교촌치킨 공식 매장 안내"
+      },
+      {
+        "url": "https://www.kyochon.com/menu/chicken.asp",
+        "title": "교촌치킨 공식 치킨 메뉴"
+      }
+    ],
+    "photoUrl": "https://www.kyochon.com/uploadFiles/TB_ITEM/list_Honey%20Wing%20Combo.png",
+    "photoSourceUrl": "https://www.kyochon.com/menu/chicken.asp",
+    "photoType": "official-brand-dish",
+    "photoCaption": "品牌官方菜品图（非该分店环境实拍）",
+    "description": "Kyochon Chicken branch listed in the official Seoul store directory.",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "branch environment photos",
+      "branch-specific menu prices"
+    ]
+  },
+  {
+    "id": "kyochon-656",
+    "name": "교촌치킨 신이문",
+    "ko": "교촌치킨 신이문",
+    "branch": "신이문",
+    "brand": "교촌치킨",
+    "isChain": true,
+    "cuisine": "korean",
+    "area": "",
+    "address": "서울 동대문구 신이문로 6-1",
+    "phone": "02 -963-9998 / 963-0209",
+    "hours": "12:00~24:00",
+    "dishes": [
+      "chicken"
+    ],
+    "sources": [
+      {
+        "url": "https://www.kyochon.com/shop/domestic_sch.asp?shop_id=656&sido1=1&sido2=0",
+        "title": "교촌치킨 공식 매장 안내"
+      },
+      {
+        "url": "https://www.kyochon.com/menu/chicken.asp",
+        "title": "교촌치킨 공식 치킨 메뉴"
+      }
+    ],
+    "photoUrl": "https://www.kyochon.com/uploadFiles/TB_ITEM/list_Honey%20Wing%20Combo.png",
+    "photoSourceUrl": "https://www.kyochon.com/menu/chicken.asp",
+    "photoType": "official-brand-dish",
+    "photoCaption": "品牌官方菜品图（非该分店环境实拍）",
+    "description": "Kyochon Chicken branch listed in the official Seoul store directory.",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "branch environment photos",
+      "branch-specific menu prices"
+    ]
+  },
+  {
+    "id": "kyochon-665",
+    "name": "교촌치킨 석계역",
+    "ko": "교촌치킨 석계역",
+    "branch": "석계역",
+    "brand": "교촌치킨",
+    "isChain": true,
+    "cuisine": "korean",
+    "area": "",
+    "address": "서울 노원구 석계로 31",
+    "phone": "02 -909-9229,5297",
+    "hours": "12:00~24:00",
+    "dishes": [
+      "chicken"
+    ],
+    "sources": [
+      {
+        "url": "https://www.kyochon.com/shop/domestic_sch.asp?shop_id=665&sido1=1&sido2=0",
+        "title": "교촌치킨 공식 매장 안내"
+      },
+      {
+        "url": "https://www.kyochon.com/menu/chicken.asp",
+        "title": "교촌치킨 공식 치킨 메뉴"
+      }
+    ],
+    "photoUrl": "https://www.kyochon.com/uploadFiles/TB_ITEM/list_Honey%20Wing%20Combo.png",
+    "photoSourceUrl": "https://www.kyochon.com/menu/chicken.asp",
+    "photoType": "official-brand-dish",
+    "photoCaption": "品牌官方菜品图（非该分店环境实拍）",
+    "description": "Kyochon Chicken branch listed in the official Seoul store directory.",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "branch environment photos",
+      "branch-specific menu prices"
+    ]
+  },
+  {
+    "id": "kyochon-887",
+    "name": "교촌치킨 석관장위",
+    "ko": "교촌치킨 석관장위",
+    "branch": "석관장위",
+    "brand": "교촌치킨",
+    "isChain": true,
+    "cuisine": "korean",
+    "area": "",
+    "address": "서울 성북구 화랑로 265",
+    "phone": "02 -918-9925",
+    "hours": "12:00~24:00",
+    "dishes": [
+      "chicken"
+    ],
+    "sources": [
+      {
+        "url": "https://www.kyochon.com/shop/domestic_sch.asp?shop_id=887&sido1=1&sido2=0",
+        "title": "교촌치킨 공식 매장 안내"
+      },
+      {
+        "url": "https://www.kyochon.com/menu/chicken.asp",
+        "title": "교촌치킨 공식 치킨 메뉴"
+      }
+    ],
+    "photoUrl": "https://www.kyochon.com/uploadFiles/TB_ITEM/list_Honey%20Wing%20Combo.png",
+    "photoSourceUrl": "https://www.kyochon.com/menu/chicken.asp",
+    "photoType": "official-brand-dish",
+    "photoCaption": "品牌官方菜品图（非该分店环境实拍）",
+    "description": "Kyochon Chicken branch listed in the official Seoul store directory.",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "branch environment photos",
+      "branch-specific menu prices"
+    ]
+  },
+  {
+    "id": "kyochon-1527",
+    "name": "교촌치킨 서울시청",
+    "ko": "교촌치킨 서울시청",
+    "branch": "서울시청",
+    "brand": "교촌치킨",
+    "isChain": true,
+    "cuisine": "korean",
+    "area": "",
+    "address": "서울 중구 세종대로 18길 6",
+    "phone": "02-318-1992",
+    "hours": "12:00~24:00",
+    "dishes": [
+      "chicken"
+    ],
+    "sources": [
+      {
+        "url": "https://www.kyochon.com/shop/domestic_sch.asp?shop_id=1527&sido1=1&sido2=0",
+        "title": "교촌치킨 공식 매장 안내"
+      },
+      {
+        "url": "https://www.kyochon.com/menu/chicken.asp",
+        "title": "교촌치킨 공식 치킨 메뉴"
+      }
+    ],
+    "photoUrl": "https://www.kyochon.com/uploadFiles/TB_ITEM/list_Honey%20Wing%20Combo.png",
+    "photoSourceUrl": "https://www.kyochon.com/menu/chicken.asp",
+    "photoType": "official-brand-dish",
+    "photoCaption": "品牌官方菜品图（非该分店环境实拍）",
+    "description": "Kyochon Chicken branch listed in the official Seoul store directory.",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "branch environment photos",
+      "branch-specific menu prices"
+    ]
+  },
+  {
+    "id": "gebang-sikdang",
+    "name": "게방식당",
+    "ko": "게방식당",
+    "cuisine": "korean",
+    "sourceCuisine": "게장",
+    "address": "서울 강남구 선릉로 131길 17",
+    "area": "",
+    "dishes": [
+      "seafood",
+      "rice"
+    ],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/gebang-sikdang",
+        "title": "MICHELIN Guide · 게방식당"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/8df2bea66fea4609b97093c6f33aee44.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/gebang-sikdang",
+    "photoType": "restaurant-specific",
+    "description": "Korean soy-marinated crab specialty restaurant.",
+    "phone": "+82 10-8479-1107",
+    "coordinates": {
+      "lon": 127.03942,
+      "lat": 37.51727
+    },
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "current menu prices"
+    ]
+  },
+  {
+    "id": "jinmi-sikdang",
+    "name": "진미식당",
+    "ko": "진미식당",
+    "cuisine": "korean",
+    "sourceCuisine": "게장",
+    "address": "서울 마포구 마포대로 186-6",
+    "area": "",
+    "dishes": [
+      "seafood"
+    ],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/jinmi-sikdang",
+        "title": "MICHELIN Guide · 진미식당"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/37b2ff4cfd5d4225bc397c9eb8be1f8a.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/jinmi-sikdang",
+    "photoType": "restaurant-specific",
+    "description": "Korean soy-marinated crab specialty restaurant.",
+    "phone": "+82 2-3211-4468",
+    "coordinates": {
+      "lon": 126.95577,
+      "lat": 37.55055
+    },
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "current menu prices"
+    ]
+  },
+  {
+    "id": "hwa-hae-dang",
+    "name": "화해당",
+    "ko": "화해당",
+    "cuisine": "korean",
+    "sourceCuisine": "게장",
+    "address": "서울 영등포구 국회대로 62길 15",
+    "area": "",
+    "dishes": [
+      "seafood"
+    ],
+    "sources": [
+      {
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/hwa-hae-dang",
+        "title": "MICHELIN Guide · 화해당"
+      }
+    ],
+    "photoUrl": "https://prod-pics.guide.michelin.com/api/public/content/5f786bcdb1024410ab51a88d948efd51.jpeg?format=jpeg&w=1000&h=1000",
+    "photoSourceUrl": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/hwa-hae-dang",
+    "photoType": "restaurant-specific",
+    "description": "Korean soy-marinated crab specialty restaurant.",
+    "phone": "+82 2-785-4422",
+    "coordinates": {
+      "lon": 126.91706,
+      "lat": 37.52689
+    },
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "current menu prices"
+    ]
+  },
+  {
+    "id": "meoktong-nakji",
+    "name": "먹통낙지",
+    "ko": "먹통낙지",
+    "nameEn": "Meoktong Nakji",
+    "cuisine": "korean",
+    "address": "서울 영등포구 영등포로42길 6-2 1층",
+    "addressOriginal": "6-2, Yeongdeungpo-ro 42-gil, Yeongdeungpo-gu, Seoul  1st Floor",
+    "addressNote": "Korean transcription of exact Visit Seoul address",
+    "area": "",
+    "dishes": [
+      "seafood"
+    ],
+    "sources": [
+      {
+        "title": "Visit Seoul · Meoktong Nakji",
+        "url": "https://english.visitseoul.net/area/MeoktongNakji/ENP5c5ze2"
+      }
+    ],
+    "photoUrl": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=78806&fileTy=MEDIA&fileNo=1",
+    "photoSourceUrl": "https://english.visitseoul.net/area/MeoktongNakji/ENP5c5ze2",
+    "photoType": "restaurant-specific",
+    "description": "Octopus specialty restaurant serving yeonpotang and spicy stir-fried octopus.",
+    "phone": "(+82)0507-1329-0684",
+    "hours": null,
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "current menu prices"
+    ]
+  },
+  {
+    "id": "koraebul",
+    "name": "고래불",
+    "ko": "고래불",
+    "nameEn": "Koraebul",
+    "cuisine": "korean",
+    "address": "서울 강남구 논현로79길 62",
+    "addressOriginal": "06239  62 Nonhyeon-ro 79-gil, Gangnam-gu, Seoul",
+    "addressNote": "Korean transcription of exact Visit Seoul address",
+    "area": "",
+    "dishes": [
+      "seafood",
+      "rice"
+    ],
+    "sources": [
+      {
+        "title": "Visit Seoul · Koraebul",
+        "url": "https://english.visitseoul.net/area/koraebul/ENPxxcfmq"
+      }
+    ],
+    "photoUrl": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=80388&fileTy=MEDIA&fileNo=1",
+    "photoSourceUrl": "https://english.visitseoul.net/area/koraebul/ENPxxcfmq",
+    "photoType": "restaurant-specific",
+    "description": "East Coast seafood restaurant serving seasonal seafood and hot stone pot rice at lunch.",
+    "phone": "+82-2-556-3677",
+    "hours": "Weekdays 11:30–14:30 / 17:00–22:00 / Weekends 11:30–14:30 / 15:30–21:00",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "current menu prices"
+    ]
+  },
+  {
+    "id": "daebanggol",
+    "name": "대방골",
+    "ko": "대방골",
+    "nameEn": "Daebanggol",
+    "cuisine": "korean",
+    "address": "서울 영등포구 국회대로 800",
+    "addressOriginal": "07238  800, Gukhoe-daero, Yeongdeungpo-gu, Seoul",
+    "addressNote": "Korean transcription of exact Visit Seoul address",
+    "area": "",
+    "dishes": [
+      "seafood"
+    ],
+    "sources": [
+      {
+        "title": "Visit Seoul · Daebanggol",
+        "url": "https://english.visitseoul.net/restaurants/Daebanggol/ENP001598"
+      }
+    ],
+    "photoUrl": "https://english.visitseoul.net/comm/getImage?srvcId=POST&parentSn=1603&fileTy=POSTTHUMB&fileNo=1",
+    "photoSourceUrl": "https://english.visitseoul.net/restaurants/Daebanggol/ENP001598",
+    "photoType": "restaurant-specific",
+    "description": "Korean seafood restaurant serving oysters, octopus, skate and abalone.",
+    "phone": "+82-2-783-4999",
+    "hours": "Weekdays: 11:20-14:30, 17:00-22:00 / Weekends: 11:20-21:00 KST",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "current menu prices"
+    ]
+  },
+  {
+    "id": "gosame-sinchon",
+    "name": "고삼이 신촌점",
+    "ko": "고삼이 신촌점",
+    "nameEn": "Gosame Sinchon",
+    "cuisine": "korean",
+    "address": "서울 서대문구 연세로7안길 38",
+    "addressOriginal": "03787  38, Yonsei-ro 7an-gil, Seodaemun-gu, Seoul",
+    "addressNote": "Korean transcription of exact Visit Seoul address",
+    "area": "",
+    "dishes": [
+      "seafood"
+    ],
+    "sources": [
+      {
+        "title": "Visit Seoul · Gosame Sinchon",
+        "url": "https://english.visitseoul.net/restaurants/GosameSinchon/ENP658741"
+      }
+    ],
+    "photoUrl": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=78625&fileTy=MEDIA&fileNo=1",
+    "photoSourceUrl": "https://english.visitseoul.net/restaurants/GosameSinchon/ENP658741",
+    "photoType": "restaurant-specific",
+    "description": "Grilled fish restaurant serving grilled mackerel and stir-fried squid.",
+    "phone": "+82-507-1376-1403",
+    "hours": null,
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "current menu prices"
+    ]
+  },
+  {
+    "id": "ujeong-nakji",
+    "name": "우정낙지",
+    "ko": "우정낙지",
+    "nameEn": "Ujeong Nakji",
+    "cuisine": "korean",
+    "address": "서울 종로구 삼일대로17길 46 2층",
+    "addressOriginal": "03189  46, Samil-daero 17-gil, Jongno-gu, Seoul (2F)",
+    "addressNote": "Korean transcription of exact Visit Seoul address",
+    "area": "",
+    "dishes": [
+      "seafood"
+    ],
+    "sources": [
+      {
+        "title": "Visit Seoul · Ujeong Nakji",
+        "url": "https://english.visitseoul.net/restaurants/Ujeong-Nakji/ENP012727"
+      }
+    ],
+    "photoUrl": "https://english.visitseoul.net/comm/getImage?srvcId=POST&parentSn=12727&fileTy=POSTTHUMB&fileNo=1",
+    "photoSourceUrl": "https://english.visitseoul.net/restaurants/Ujeong-Nakji/ENP012727",
+    "photoType": "restaurant-specific",
+    "description": "Restaurant specializing in spicy stir-fried octopus.",
+    "phone": "+82-2-720-7991",
+    "hours": "Mon–Fri 10:00 AM–10:00 PM / / Sat–Sun 12:00 PM–9:50 PM / /",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "current menu prices"
+    ]
+  },
+  {
+    "id": "hangukjip-lotteworld",
+    "name": "한국집 롯데월드몰점",
+    "ko": "한국집 롯데월드몰점",
+    "nameEn": "Hanguk Jip Lotte World Mall",
+    "cuisine": "korean",
+    "address": "서울 송파구 올림픽로 300 롯데월드몰 5층",
+    "addressOriginal": "05551  5th Floor, Lotte World Mall, 300 Olympic-ro, Songpa-gu, Seoul",
+    "addressNote": "Korean transcription of exact Visit Seoul address",
+    "area": "",
+    "dishes": [
+      "rice"
+    ],
+    "sources": [
+      {
+        "title": "Visit Seoul · Hanguk Jip Lotte World Mall",
+        "url": "https://english.visitseoul.net/restaurants/HangukJipkr/ENPtlh2om"
+      }
+    ],
+    "photoUrl": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=70409&fileTy=MEDIA&fileNo=1",
+    "photoSourceUrl": "https://english.visitseoul.net/restaurants/HangukJipkr/ENPtlh2om",
+    "photoType": "restaurant-specific",
+    "description": "Jeonju bibimbap specialty restaurant with Jeonju and beef tartare bibimbap.",
+    "phone": "+82-507-1446-4547",
+    "hours": "10:30 – 22:00 (Last Order 21:00) / /",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "current menu prices"
+    ]
+  },
+  {
+    "id": "doenjang-yesulgwa-sul",
+    "name": "된장예술과술",
+    "ko": "된장예술과술",
+    "nameEn": "Doenjang Yesulgwa Sul",
+    "cuisine": "korean",
+    "address": "서울 종로구 삼일대로15길 20",
+    "addressOriginal": "03190  20, Samil-daero 15-gil, Jongno-gu, Seoul",
+    "addressNote": "Korean transcription of exact Visit Seoul address",
+    "area": "",
+    "dishes": [
+      "rice"
+    ],
+    "sources": [
+      {
+        "title": "Visit Seoul · Doenjang Yesulgwa Sul",
+        "url": "https://english.visitseoul.net/restaurants/Doenjang-Yesulgwa-Sul/ENP004214"
+      }
+    ],
+    "photoUrl": "https://english.visitseoul.net/comm/getImage?srvcId=MEDIA&parentSn=78157&fileTy=MEDIA&fileNo=1",
+    "photoSourceUrl": "https://english.visitseoul.net/restaurants/Doenjang-Yesulgwa-Sul/ENP004214",
+    "photoType": "restaurant-specific",
+    "description": "Korean restaurant serving doenjang bibimbap with rice and vegetables.",
+    "phone": "+82-2-733-4516",
+    "hours": "Mon-Fri 11:00~15:00, 16:30~22:00",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "current menu prices"
+    ]
+  },
+  {
+    "id": "hwangtogil",
+    "name": "황토길",
+    "ko": "황토길",
+    "nameEn": "Hwangtogil",
+    "cuisine": "korean",
+    "address": "서울 마포구 마포대로11길 15-7",
+    "addressOriginal": "04142  15-7, Mapo-daero 11-gil, Mapo-gu, Seoul",
+    "addressNote": "Korean transcription of exact Visit Seoul address",
+    "area": "",
+    "dishes": [
+      "rice"
+    ],
+    "sources": [
+      {
+        "title": "Visit Seoul · Hwangtogil",
+        "url": "https://english.visitseoul.net/restaurants/Hwangtogil/ENP004536"
+      }
+    ],
+    "photoUrl": "https://english.visitseoul.net/comm/getImage?srvcId=POST&parentSn=4546&fileTy=POSTTHUMB&fileNo=1",
+    "photoSourceUrl": "https://english.visitseoul.net/restaurants/Hwangtogil/ENP004536",
+    "photoType": "restaurant-specific",
+    "description": "Korean restaurant specializing in hand-torn noodle soup and vegetable bibimbap.",
+    "phone": "+82-507-1321-6649",
+    "hours": "Monday–Friday 11:00 AM - 22:00 (KST) / Break time 15:00~17:00",
+    "checkedAt": "2026-11-04",
+    "missing": [
+      "current menu prices"
+    ]
+  },
+  {
+    "id": "art-sushi",
+    "name": "아트스시",
+    "ko": "아트스시",
+    "nameEn": "Art Sushi",
+    "cuisine": "japanese",
+    "address": "서울 강남구 테헤란로4길 46 쌍용플래티넘밸류 B125",
+    "addressOriginal": "Ssangyong Platinum Value, 46 Teheran-ro 4-gil, Gangnam-gu, Seoul B125",
+    "area": "gangnam",
+    "dishes": [
+      "seafood",
+      "rice"
+    ],
+    "sources": [
+      {
+        "url": "https://english.visitseoul.net/restaurants/Artsushi/ENP3x803n",
+        "title": "Visit Seoul · Art Sushi"
+      }
+    ],
+    "photoUrl": "https://english.visitseoul.net/comm/getImage?fileNo=1&fileTy=MEDIA&parentSn=71581&srvcId=MEDIA&thumbTy=L",
+    "imageUrls": [
+      "https://english.visitseoul.net/comm/getImage?fileNo=1&fileTy=MEDIA&parentSn=71581&srvcId=MEDIA&thumbTy=L",
+      "https://english.visitseoul.net/comm/getImage?fileNo=1&fileTy=MEDIA&parentSn=71582&srvcId=MEDIA&thumbTy=L"
+    ],
+    "photoSourceUrl": "https://english.visitseoul.net/restaurants/Artsushi/ENP3x803n",
+    "photoType": "restaurant-specific",
+    "description": "Sushi restaurant near Gangnam Station with assorted sushi sets.",
+    "phone": "02-557-7525",
+    "hours": "11:30–21:00; break 15:00–17:30; last order 20:30; closed Saturday and Sunday",
+    "menuPrices": [
+      {
+        "currency": "KRW",
+        "checkedAt": "2026-11-04",
+        "name": "Assorted Sushi A, 8 pieces",
+        "price": 9900,
+        "source": "https://english.visitseoul.net/restaurants/Artsushi/ENP3x803n"
+      },
+      {
+        "currency": "KRW",
+        "checkedAt": "2026-11-04",
+        "name": "Assorted Sushi B, 10 pieces",
+        "price": 11900,
+        "source": "https://english.visitseoul.net/restaurants/Artsushi/ENP3x803n"
+      }
+    ],
+    "checkedAt": "2026-11-04"
+  }
+]

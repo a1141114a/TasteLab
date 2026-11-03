@@ -1,0 +1,24 @@
+/* Rounded, deliberately imperfect display lettering; body copy stays readable. */
+:root{--hand:'ZCOOL KuaiLe','Nunito',sans-serif}
+html[lang=en]{--hand:'Playpen Sans','Nunito',sans-serif}
+html[lang=ko]{--hand:'Jua','Nunito',sans-serif}
+html[lang=ja]{--hand:'Mochiy Pop One','Nunito',sans-serif}
+h1{font-family:var(--hand);font-size:clamp(45px,4.9vw,67px);font-weight:400;font-synthesis:none;letter-spacing:1px;line-height:1.26}
+h1>span{display:inline-block}
+h1>span:first-child{transform:rotate(-3deg)}
+h1>span:nth-of-type(2){transform:rotate(-1deg)}
+h1 em{transform:rotate(-5deg);color:#e18b9c}
+h2,.search-section h2,.hero-photo-note b,.area-link,.empty-state h3{font-family:var(--hand);font-weight:400;font-synthesis:none;letter-spacing:.4px}
+h2,.search-section h2{font-size:29px}
+.scribble-label{font:700 17px/1.45 'Playpen Sans',sans-serif;transform:rotate(-7deg)}
+.scribble-label span{font-family:'Playpen Sans'}
+.hero-bubble{font:400 26px 'Jua',sans-serif}
+.hero-photo-note b{font-size:18px}
+.area-link{font-size:22px}
+footer strong{font-family:'Playpen Sans',sans-serif;font-size:24px;font-weight:800}
+html[lang=en] h1{font-family:'Playpen Sans',sans-serif;font-size:57px;line-height:1.32;font-weight:800;letter-spacing:-1.5px}
+html[lang=ko] h1{font-size:61px;line-height:1.22}
+html[lang=ja] h1{font-size:44px;line-height:1.55}
+html[lang=en] h2{font-weight:700}
+html[lang=ja] h2{font-size:25px;line-height:1.6}
+@media(max-width:620px){h1{font-size:47px;line-height:1.26;margin-top:25px;margin-bottom:20px}.scribble-label{font-size:13px;right:-2px;top:47px}.title-heart{left:205px;bottom:9px}h2,.search-section h2{font-size:25px;line-height:1.5}.hero-photo-note b{font-size:16px}.area-link{font-size:19px}.companions h2{font-size:25px}html[lang=en] h1{font-size:45px;letter-spacing:-1px;max-width:300px}html[lang=ko] h1{font-size:49px}html[lang=ja] h1{font-size:36px}html[lang=ja] h2{font-size:21px}html[lang=ko] .scribble-label{display:none}}

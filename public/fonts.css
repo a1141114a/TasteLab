@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Jua';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./assets/fonts/subset-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Mochiy Pop One';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./assets/fonts/subset-2.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Playpen Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(./assets/fonts/subset-3.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Playpen Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(./assets/fonts/subset-4.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'ZCOOL KuaiLe';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./assets/fonts/subset-5.ttf) format('truetype');
+}
+
