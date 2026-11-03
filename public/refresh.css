@@ -23,3 +23,5 @@ header .brand svg{width:184px;height:71px}
 .share-heading .subtitle-mascot{width:94px;height:54px}
 @media(max-width:620px){#app .section-heading{gap:12px}.subtitle-mascot{width:88px;height:52px}.share-heading{gap:10px}.share-heading .subtitle-mascot{width:76px;height:46px}.heading-aside{gap:1px}}
 @media(max-width:380px){.subtitle-mascot{width:70px;height:46px}.share-heading .subtitle-mascot{width:64px;height:42px}}
+.footer-brand{display:block;flex:0 0 auto;line-height:0}.footer-brand svg{display:block;width:142px;height:56px}
+@media(max-width:620px){.footer-brand svg{width:128px;height:50px}}

@@ -1,0 +1,6 @@
+.food-rain{position:fixed;inset:0;z-index:1000;overflow:hidden;pointer-events:none;isolation:isolate}
+.food-rain:before{content:'';position:absolute;inset:0;background:#fff7e6d6;backdrop-filter:blur(3px);animation:food-rain-veil 1.8s ease-out both}
+.food-rain-item{position:absolute;top:0;left:var(--left);font-size:var(--size);line-height:1;will-change:transform,opacity;filter:drop-shadow(0 4px 3px #6d47251a);animation:food-rain-fall var(--duration) cubic-bezier(.32,.09,.65,.62) var(--delay) both;user-select:none}
+@keyframes food-rain-fall{0%{transform:translate3d(0,-105px,0) rotate(var(--start));opacity:0}7%{opacity:1}83%{opacity:1}100%{transform:translate3d(var(--drift),calc(100dvh + 110px),0) rotate(var(--end));opacity:0}}
+@keyframes food-rain-veil{0%,20%{opacity:1}78%,100%{opacity:0}}
+@media(prefers-reduced-motion:reduce){.food-rain{display:none}}
